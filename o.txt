@@ -980,7 +980,7 @@
 20200229 RR  - julia loves her mann - julia liebt ihren mann
 20200229 RR  - i love my husband - ich leibe meinen mann
 20200229 RR  - to visit - besuchen
-20200301 RR  - to order - bestellen
+20200301 RR  - To order - bestellen
 20200301 RR  - good day, we want a table for 2 persons - guten tag, wie wollen einen tisch für zwei personen
 20200301 RR  - what would you like to drink?F - was möchte sie trinken?
 20200301 RR  - i would like one colaC - ich möchte gern eine cola
