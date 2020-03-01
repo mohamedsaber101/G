@@ -1,0 +1,995 @@
+20200109 - yes - ja
+20200218 - lesson one - lektion eins
+20200218 - good day - guten tag
+20200218 - good evening - guten abend
+20200218 - good night - gute nacht
+20200218 - till see you againC - auf wiedersehen
+20200218 - listen - hören
+20200218 - read - lesen
+20200218 - good bzeye?PHONE - auf wiederhören
+20200218 - see you soon - bis bald
+20200218 - see you laterC - bis später
+20200218 - sorry_Execuse meC - entshuldigung
+20200218 - thanks - danke
+20200218 - nice thanks - Danke schön
+20200218 - please_welcome - bitte
+20200218 - the word - das wort
+20200218 - sometimes - manchmal
+20200218 - yesterday - gestern
+20200218 - tomorrow - morgen
+20200218 - everything - alles
+20200218 - everything is good - alles ist gut
+20200218 - and this is everything - und das ist alles
+20200218 - I am hungry - ich habe hunger
+20200218 - wait!! - moment
+20200218 - today evening - heute abend
+20200218 - I come later - ich komme später
+20200218 - this is everythingC - das ist alles
+20200218 - this is goodC - das ist gut
+20200218 - drink - trinken
+20200218 - I eat and drink - ich esse und trinke
+20200218 - this is my mobile - das ist mein handy
+20200218 - the money - das geld
+20200218 - nice - schön
+20200218 - thank you verz much--welcome - vielen dank--bitte schön
+20200218 - execuse me sir, pleaseC - entschuldigen sie, bitte
+20200218 - I am sorryC - es tut mir leid
+20200218 - what please?C - wie bitte?
+20200218 - once again, pleaseC - noch einmal, bitte
+20200218 - do you speak english?FC - sprechen sie english?
+20200218 - I dont peak germanC - ich spreche kein deutsch
+20200218 - I speak a little germanC - ich spreche etwas deutsch
+20200218 -  - 
+20200218 - some - etwas
+20200218 - I dont understandC - ich verstehe nicht
+20200218 - I dont knowC - ich weiß nicht
+20200218 - no problemC - kein problem
+20200218 - maybe - vielleicht
+20200218 - one time again - noch einmal
+20200218 - again - noch
+20200218 - right - richtig
+20200219 - 0 - null
+20200219 - 1 - eins
+20200219 - 2 - zwei
+20200219 - 3 - drei
+20200219 - 4 - vier
+20200219 - 5 - fünf
+20200219 - 6 - sechs
+20200219 - 7 - sieben
+20200219 - 8 - acht
+20200219 - 9 - neun
+20200219 - 10 - zehn
+20200219 - 11 - elf
+20200219 - 12 - zwölf
+20200219 - 13 - dreizehn
+20200219 - 14 - vierzehn20200219 - 15 - fünfzehn
+20200219 - 16 - sechzehn
+20200219 - 17 - siebzehn
+20200219 - 18 - achtzehn
+20200219 - 19 - neunzehn
+20200219 - 20 - zwanzig
+20200219 - 21 - einundzwanzig
+20200219 - 22 - zweiundzwanzig
+20200219 - 23 - dreiundzwanzig
+20200219 - 24 - vierundzwanzig
+20200219 - 25 - fünfundzwanzig
+20200219 - 26 - sechsundzwanzig
+20200219 - 29 - neunundzwanzig
+20200219 - 30 - dreißig
+20200219 - 40 - vierzig
+20200219 - 50 - fünfzig
+20200219 - 60 - sechzig
+20200219 - 70 - siebzig
+20200219 - 80 - achtzig
+20200219 - 90 - neunzig
+20200219 - 100 - ein hundert
+20200219 - I am clled mohamed - ich heiße mohamed
+20200219 - i am mohamed - ich bin mohamed
+20200219 - my name is mohamed - mein name ist mohamed
+20200219 - my family name is saber - mein familienname ist saber
+20200219 - I come from egypt - ich komme aus ägypten
+20200219 - I live in darmstadt - ich wohne in darmstadt
+20200219 - I can speak english - ich kann englisch
+20200219 - I cant speak german - ich kann nicht deutsch
+20200219 - Iam 29 years old - ich bin neunundzwanzig jahre alt
+20200219 - how - wie
+20200219 - what - was
+20200219 - where - wo
+20200219 - how old - wie alt
+20200219 - which - welche
+20200219 - what are you calledF?C - wie heißen sie?
+20200219 - what are you called?C - wie heißt du?
+20200219 - what is your family?F - wie ist  ihr familienname?
+20200219 - what is zour family name?C - wie ist dein familienname?
+20200219 - from where you comeF?C - woher kommen sie?
+20200219 - from where you come?C - woher kommst du?
+20200219 - where do you liveF?C - wo wohnen sie?
+20200219 - where do you live?C - wo wohnst du?
+20200219 - which language do you speakF?C - welche sprachen sprechen sie?
+20200219 - which language do you speak? - which sprache sprichst du?
+20200219 - what do you make for a livingF?C - was machen sie beruflich?
+20200219 - what do you do for a living?C - was machst du beruflich?
+20200219 - i am a teacher - ich bin lehrer
+20200219 - what are zou hobbiesF? - was sind ihre hobyys?
+20200219 - what are your hobbies? - was sind deine hobyys?
+20200219 - mz hobbies are tv watching and music listening - meine hobbys sind fernsehen und musik hören
+20200219 - i am married - ich bin verheiratet
+20200219 - i am not married - ich bin nicht verheiratet
+20200219 - Do you have children?F - haben sie kinderF?
+20200219 - Do you have children? - hast du kinder?
+20200219 - i have two children - ich habe zwei kinder
+20200219 - i dont have children - ich habe keine kinder
+20200219 - the profession - der beruf
+20200219 - the professions - die berufe
+20200219 - the teacher - der lehrer
+20200219 - the teacher female - die lehrerin
+20200219 - the driver - der fahrer
+20200219 - the driver fem - die fahrerin
+20200219 - the doctor - der arzt
+20200219 - the doctor fem - die ärztin
+20200219 - the pilot - der pilot
+20200219 - the pilot fem - die piloten
+20200219 - the architect - der architekt
+20200219 - the architect fem - die architektin
+20200219 - the student - der student
+20200219 - the student fem - die studentin
+20200219 - the photographer - der fotograph
+20200219 - the photographer fem - die fotographin
+20200219 - the police man - der polizist
+20200219 - the police woman - die polizistin
+20200219 - the singer - der sänger
+20200219 - the singer fem - die sängerin
+20200219 - the dancer - der tänzer
+20200219 - the accountant - der buchhalter
+20200219 - the accountant fem - die buchhalterin
+20200219 - the chef - der koch
+20200219 - the chef fem - die köchin
+20200219 - the hobby - das hobby
+20200219 - the hobbies - die hobbys
+20200219 - eating out - essen gehen
+20200219 - tv watching - fernsehen
+20200219 - painting - malen
+20200219 - cooking - kochen
+20200219 - running - laufen
+20200219 - dancing - tanzen
+20200219 - shopping - einkaufen
+20200219 - card playing - karten spielen
+20200219 - how is it going with youF?C - wie geht es ihnen?
+20200219 - how is it going with you?C - wie geht es dir?
+20200219 - how is it going ABBRIVIATED? - wie geht's?
+20200219 - it is going well with meC - mir geht es gut
+20200219 - very good - sehr gut
+20200219 - awsome - super
+20200219 - great - prima
+20200219 - it is going =NOT BAD=C - es geht
+20200219 - it is going not wellC - mir geht es nicht gut
+20200219 - it is going bad - mir geht es schlecht
+20200219 - i am sick - ich bin krank
+20200219 - ich bin tiredC - ich bin müde
+20200219 - and youF? - und Ihnen?
+20200219 - and you? - und dir?
+20200220 - question - fragen
+20200220 - ask? - fragen?
+20200220 - from where - woher
+20200220 - how much - wie viel
+20200220 - how old are youF? - wie alt sind sie?
+20200220 - how old are you_ - wie alt bist du?
+20200220 - do you live in munich? - wohnst du in münchen?
+20200220 - do you play footballF? - spielen sie fußball?
+20200220 - do zou understand meF?C - verstehen sie mich?
+20200220 - Do you understand me?C - verstehst du mich?
+20200220 - do you have the timeF?C - haben sie zeit?
+20200220 - the time - die Zeit
+20200220 - part two - teil zwei
+20200220 - max, where are you living? - max, wo wohnst du?
+20200220 - max and maria, where do you live? - max und maria, wo wohnen ihr ?
+20200220 - Mr müller, where do you live? - herr müller, wo wohnen sie?
+20200220 - mr and mrs müller, where do you live? - herr und frau müller, wo wohnen sie?
+20200220 - this is michael, he lives in london - das ist michael, er wohnt in london
+20200220 - this is manju, she lives in griesheim - das ist manju, sie wohnt in griesheim
+20200220 - this is my book, it is old - das ist mein buch, es ist alt
+20200220 - these are alex and john, they live in darmstadt - das sind alex und john, sie wohnen in darmstadt
+20200220 - have - haben
+20200220 - i have - ich habe
+20200220 - you have - du hast
+20200220 - he has - er hat
+20200220 - she has - sie hat
+20200220 - it has - es hat
+20200220 - we have - wir haben
+20200220 - you haveP - ihr habt
+20200220 - they have - sie haben
+20200220 - i have a house - ich habe ein haus
+20200220 - do you have  a friend? - hast du eine freunde?
+20200220 - we have a car - wie haben ein auto
+20200220 - do you have childrenP? - habt ihr kinder?
+20200220 - mrs schmit, do you have a moment?C - frau schmit, haben sie einen moment?
+20200220 - he has no timeC - er hat keine zeit
+20200220 - maria has a daughter - maria hat eine tochter
+20200220 - a daughter - eine tochter
+20200220 - the parents - die eltern
+20200220 - my parents have a dog - meine eltern haben einen hund
+20200220 - the dog - der hund
+20200220 - be - sein
+20200220 - I am - ich bin
+20200220 - you are - du bist
+20200220 - he is - er ist
+20200220 - she is - sie ist
+20200220 - it is - es ist
+20200220 - we are - wir sind
+20200220 - you are P - ihr seid
+20200220 - they are - sie sind
+20200220 - are you inlove? - bist du verliebt?
+20200220 - happyC - glücklich
+20200220 - we are happyC - wir sind glücklich
+20200220 - mrs schmit, are you at home? - frau schmit, sind sie zu hause?
+20200220 - are you happyP? - seid ihr glücklich?
+20200220 - he is married - er ist verheiratet
+20200220 - she is a teacher - sie ist lehrerin
+20200220 - nacbarn - neighbor
+20200220 - nice - nette
+20200220 - my neighbor is nice - meine nachbar ist nette
+20200220 - i play football - ich spiele fußball
+20200220 - work - arbeiten
+20200220 - sleep - schlafen
+20200220 - eat - essen
+20200220 - see - sehen
+20200220 - take - nehmen
+20200220 - meet - treffen
+20200220 - drive - fahren
+20200220 - make - machen
+20200220 - study - studieren
+20200220 - say - sagen
+20200220 - to wait - warten
+20200220 - answer - antwarten
+20200220 - regular verbs stamn plus 'e,st,t,en,t,en' except end with ß,z so :st: became :t:, end with t,d :st: became :est: , :t: became :et: N - hfgdhs
+20200220 - you are called - du heißt
+20200220 - she answers - sie antwortet
+20200220 - veronica works at samsungC - veronica arbeitet bei samsung
+20200220 - what do you do at the week end?C - was machst du am wochenende?
+20200220 - speak - sprechen
+20200220 - knowC - wissen
+20200220 - you speak - du sprichst
+20200220 - he speaks - er spricht
+20200220 - you take - du nimmst
+20200220 - it takes - es nimmt
+20200220 - i take - ich nehme
+20200220 - you meet - du triffst
+20200220 - she meets - sie trifft
+20200220 - you give - du gibst
+20200220 - she gives - sie gibt
+20200220 - you eat - du isst
+20200220 - he eats - er isst
+20200220 - you help - du hilfst
+20200220 - she helps - sie hilft
+20200220 - you read - du liest
+20200220 - he reads - er liest
+20200220 - you see - du sieht
+20200220 - he sees - er sieht
+20200220 - i run - ich laufe
+20200220 - you run - du läufst
+20200220 - he runs - er läuft
+20200220 - you drive - du fährst
+20200220 - she drives - sie fährt
+20200220 - you sleep - du schläfst
+20200220 - he sleeps - er schläft
+20200220 - you wash - du wäschst
+20200220 - he washes - er wäscht
+20200220 - i know - ich weiß
+20200220 - do you drive to berlin?C - fährst du nach berlin?
+20200220 - what dou you eat at noon?C - was isst du zu mitttag?
+20200220 - she speaks german - sie spricht deutsch
+20200220 - sabine reads books - sabine liest büchen
+20200220 - the book - das buch
+20200220 - the books - die bücher
+20200221 - free - frei
+20200221 - the bike - das fahrrad
+20200221 - who - wer
+20200221 - single - ledig
+20200221 - sabine is single - sabine ist ledig
+20200221 - 200 - zwei hundert
+20200221 - 300 - dreihundert
+20200221 - 400 - vierhundert
+20200221 - 500 - fünfhundert
+20200221 - 600 - sechshundert
+20200221 - 700 - siebenhundert
+20200221 - 800 - achthundert
+20200221 - 900 - neunhundert
+20200221 - 1000 - eintausend
+20200221 - 2000 - zweitausend
+20200222 - 9000 - neuntausend
+20200222 - 10,000 - zehntausend
+20200222 - 11,000 - elftausend
+20200222 - 12,000 - zwölftausend
+20200222 - 15,000 - fünfzehntausend
+20200222 - 20,000 - zwanzigtausend
+20200222 - 30,000 - dreißigtausend
+20200222 - 90,000 - neunzigtausend
+20200222 - 100,000 - einhunderttausend
+20200222 - 200,000 - zweihunderttausend
+20200222 - 900,000 - neunhunderttausend
+20200222 - 1,000,000 - eine million
+20200222 - 2,000,000 - zwei Millionen
+20200222 - 60,000,000 - sechzig Millionen
+20200222 - 100,000,000 - einhindert Millionen
+20200222 - 1,000,000,000 - eine milliarde
+20200222 - 2,000,000,000 - zwei Milliarden
+20200222 - 101 - einhunderteins
+20200222 - 102 - einhundertzwei
+20200222 - 110 - einhundertzehn
+20200222 - 111 - einhundertelf
+20200222 - 121 - einhunderteinundzwanzig
+20200222 - 634 - sechshundertvierunddreißig
+20200222 - 987 - neunhundertsiebenundachtzig
+20200222 - 1101 - eintausendeinhunderteins
+20200222 - 1272 - eintausendzweihundertzweiundsiebzig
+20200222 - 13412 - dreizehntausendvierhundertzwölf
+20200222 - Year 1975 - neunzehnhundertfünfundsiebzig
+20200222 - Year 2017 - zweitausendsiebzehn
+20200222 - Year 2025 - zweitausendachtundzwanzig
+20200222 - big - groß
+20200222 - small - klein
+20200222 - an elephant is big, but a cat is small - ein elefant ist groß, aber eine katze ist klein
+20200222 - the cat - die katze
+20200222 - fast - schnell
+20200222 - slow - langsam
+20200222 - the train - der zug
+20200222 - a train ist fast, but a bike is slow - ein zug ist schnell, aber ein fahrrad ist langsam
+20200222 - dark - dunkel
+20200222 - light - hell
+20200222 - a spresso is dark, but a latte is light - ein spresso ist dunkel, aber eine latte ist hell
+20200222 - sad - traurig
+20200222 - paul is happy, but robert is sad - paul ist glücklich, aber robert ist traurig
+20200222 - long - lang
+20200222 - short - kurz
+20200222 - the hair - die harre
+20200222 - my hair is long,but your har  long, but your hair is short - meine harre ist lang, aber deine harre ist kurz
+20200222 - warm - warm
+20200222 - cool - kuhl
+20200222 - in summer it is warm, but in winter it is cool - im summer ist es warm, aber im winter ist es kuhl20200222 - cold - kalt
+20200222 - coffe is hot but limonade is cold - kaffe ist heiß, aber limonade ist kalt
+20200222 - wrong - falsch
+20200222 - the answer - die antwort
+20200222 - my answer is right, but your answer is wrong - meine antwort ist richtig, aber deine antwort ist falsch
+20200222 - fat - dick
+20200222 - slim - dünn
+20200222 - john is fat, but maria is slim - john ist dick, aber maria ist dünn
+20200222 - old - alt
+20200222 - new - neu
+20200222 - my car is old, but your car is new - mein auto ist alt, aber dein auto ist neu
+20200222 - dumb - doof
+20200222 - intelligent - intelligent
+20200222 - the fox - der fuchs
+20200222 - a donkey is dumb but a fox is intelligent - ein esel ist doof, aber ein fuchs ist intelligent
+20200222 - good - gut
+20200222 - bad - schlecht
+20200222 - laugh - lachen
+20200222 - laughing is good, but stress is bad - lachen ist gut aber stress ist schlecht
+20200222 - heavy - schwer
+20200222 - light - leicht
+20200222 - the suitcase - der koffer
+20200222 - the bag - die tasche
+20200222 - my suitcase is heavy but my bags are light - mein koffer ist schwer,aber meine taschen sind leicht
+20200222 - young - jung
+20200222 - my grandmother is old but my mother is young - meine großmutter ist alt, aber meine mutter ist jung
+20200222 - expensive - teuer
+20200222 - cheap - billig
+20200222 - my car is expensive but your  bike is cheap - mein auto ist teuer aber dein fahrrad ist billig
+20200222 - who is this? - wer ist das?
+20200222 - fromwhere does he come? - woher kommt er?
+20200222 - where does he live? - wo wohnt er?
+20200222 - how old is he? - wie alt ist er?
+20200222 - which languages does he speak? - welche sprachen spricht er?
+20200222 - this is peter - das ist peter
+20200222 - he comes from egypt - er kommt aus ägypten
+20200222 - he lives in frankfurt - er wohnt in frankfurt
+20200222 - he is thirty years old - er ist dreißig Jahre alt
+20200222 - he learns german - er lernt deutsch
+20200222 - he works at siemens - er arbeitet bei siemens
+20200222 - he is an archetict - er ist architekt
+20200222 - he speaks arabic and english - er spricht arabisch und Englisch
+20200222 - the thing - die sache
+20200222 - stuff_things - sachen
+20200222 - what is this? - was ist das?
+20200222 - the apple - der Apfel
+20200222 - the apple is red - der apfel ist rot
+20200222 - friendly - freundlich
+20200222 - the cat is friendly - die katze ist fruendlich
+20200222 - the children play - die kinder spielen
+20200222 - this is a book - das ist ein buch
+20200222 - this is not car - das ist kein auto
+20200222 - this is not cat - das ist keine katze
+20200222 - the flower - die blume
+20200222 - is this a flower? - ist das eine blume?
+20200222 - no this is not a flower - nein, das ist keine blume
+20200222 - this is a choclate - das ist schokolade
+20200222 - is this a book? - ist das ein buch?
+20200222 - no, this is not a book - nein, das ist kein buch
+20200222 - this is a mobile - das ist ein handy
+20200222 - the mobile - das handy
+20200222 - the stars - die sterne
+20200222 - are these stars? - sind das sterne?
+20200222 - no, these are not stars - nein, das sind keine sterne
+20200222 - the clock - die Uhr
+20200222 - the week - die woche
+20200222 - the weeks - die wochen
+20200222 - a week has seven days - eine woche hat sieben tage
+20200222 - the day - der tag
+20200222 - the days - die tage
+20200222 - a day has 24 hours - ein tag hat vierundzwanzig stunden
+20200222 - the hour - die stunde
+20200222 - the hours - die stunden
+20200222 - the minute - die minute
+20200222 - the minutes - die minuten
+20200222 - an hour has 60 minutes - eine stunde hat sechzig minuten
+20200222 - the second - die sekunde
+20200222 - the seconds - die sekunden
+20200222 - a minute has 60 seconds - eine minute hat sechzig sekunden
+20200222 - what time is it? - wie spät ist es?
+20200222 - how much clock? - wie viel Uhr ist es_
+20200222 - it is 01:00F - es ist ein Uhr
+20200223 - it is 2:00F - es ist zwei Uhr
+20200223 - it is 10:00F - es ist zehn Uhr
+20200223 - it is 12:00F - es ist swölf Uhr
+20200223 - it is 16:00 F - es ist sechzehn Uhr
+20200223 - it is 20:00 F - es ist zwanzig Uhr
+20200223 - it is 22:00F - es ist zweiundzweizig Uhr
+20200223 - it is 01:05F - es ist ein Uhr fünf
+20200223 - it is 02:15F - es ist zwei Uhr fünfzehn
+20200223 - it is 04:25F - es ist vier Uhr fünfundzwanzig
+20200223 - it is 20:45F - es ist zwanzig Uhr fünfundvierzig
+20200223 - it is 1 - es ist eins
+20200223 - it is 2 - es ist zwei
+20200223 - it is 12 - es ist swölf
+20200223 - it is midnight - es ist mitternacht
+20200223 - it is 1:05 - es ist fünf nach eins
+20200223 - it is 2:10 - es ist zehn nach zwei
+20200223 - it is 3:20 - es ist zwanzig nach drei
+20200223 - it is 4:40 - es ist zwanzig vor fünf
+20200223 - it is 5:50 - es ist zehn vor sechs
+20200223 - it is 6:55 - es ist fünf vor sieben
+20200223 - it is 1:15 - es ist viertel nach eins
+20200223 - it is 12:45 - es ist viertel vor eins
+20200223 - it is 1:30 - es ist halb zwei
+20200223 - it is 10:30 - es ist halb elf
+20200223 - it is 5:25 - es ist fünf vor halb sechs
+20200223 - it is 6:35 - es ist fünf nach halb sieben
+20200223 - it is 7:45 - es ist viertel vor acht
+20200223 - my_my - mein_meine
+20200223 - your_your - dein_deine
+20200223 - his_his - sein_seine
+20200223 - her_her - ihr_ihre
+20200223 - its_its_ - sein_seine_
+20200223 - our_our - unser_unsere
+20200223 - your_yourP - euer_eure
+20200223 - their_their_ - ihr_ihre_
+20200223 - this is my tv - das ist mein fernseher
+20200223 - this is my car - das ist mein auto
+20200223 - this is my cat - das ist meine katze
+20200223 - these are my books - das sind meine bücher
+20200223 - is this your tv? - ist das dein fernseher?
+20200223 - is this your car? - ist das dein auto?
+20200223 - is this your cat? - ist das deinekatze?
+20200223 - are these your books? - sind das deine bücher?
+20200223 - this is his tv - das ist sein fernseher
+20200223 - this is his car - das ist sein auto
+20200223 - this is his cat - das ist seine katze
+20200223 - these are his books - das sind seine bücher
+20200223 - this is her tv - das ist ihr fernseher
+20200223 - this is her car - das ist ihr auto
+20200223 - this is her cat - das ist ihre katze
+20200223 - these are her books - das sind ihre bücher
+20200223 - this is a child - das ist ein kind
+20200223 - this is its tv_ - das ist sein fernseher_
+20200223 - these are its books - das sind seine bücher_
+20200223 - this is our tv - das ist unser fernseher
+20200223 - this is our car - das ist unser auto
+20200223 - this is our cat - das ist unsere katze
+20200223 - these are our books - das sind unsere bücher
+20200223 - this is Your tv P - das ist euer fernseher
+20200223 - this is your car P - das ist euer auto
+20200223 - this is your cat P - das ist eure katze
+20200223 - these are  your books P - das sind eure bücher
+20200223 - this is their tv_ - das ist ihr fernseher_
+20200223 - this is their car_ - das ist ihr auto_
+20200223 - this is their cat_ - das ist ihre katze_
+20200223 - these are their books_ - das sind ihre bücher_
+20200223 - the family - die familie
+20200223 - the father - der vater
+20200223 - the mother - die mutter
+20200223 - the husband - der mann
+20200223 - the wife - die frau
+20200223 - the brother - der bruder
+20200223 - the brothers - der brüder
+20200223 - the sister - die schwester
+20200223 - the siblings - die Geschwister
+20200223 - the grandfather - der großvater
+20200223 - the grandmother - die großmutter
+20200223 - the grandparents - die großeltern
+20200223 - the uncle - der onkel
+20200223 - the aunt - die tante
+20200223 - the cousin fem - die cousine
+20200223 - the cousin masculin - der cousin
+20200223 - this is my father - das ist mein vater
+20200223 - this is my mother - das ist meine mutter
+20200223 - those are my parents - das sind meine eltern
+20200223 - this is my brother - das ist mein bruder
+20200223 - this  is my sister - das ist meine schwester
+20200223 - those are my siblings - das sind meine Geshwister
+20200223 - this is my grandfather - das ist mein großvater
+20200223 - this is my grandmother - das ist meine großmutter
+20200223 - tose are my grand parents - das sind meine großeltern
+20200223 - this is my uncle - das ist mein onkel
+20200223 - this is my aunt - das ist meine tante
+20200223 - this is my cousin mas - das ist mein cousin
+20200223 - this is my cousin fem - das ist meine cousine
+20200223 - whom - wen
+20200223 - akkusative einen eine ein eine_den die der die_meinen_deinen_seinen_ihren_seinen_unseren_euren_ihren_keinen keine kein keine - akkusadadse
+20200223 - julia has a brother - julia hat einen bruder
+20200223 - we have a child - wir haben ein kind
+20200223 - we have a baby - wir haben ein baby
+20200223 - whom does julia love? - wen leibt julia?
+20200223 - julia loves her mann - julia liebt ihren mann
+20200223 - I have a car - ich habe ein auto
+20200223 - i eat an apple - ich esse einen apfel
+20200223 - he eats an apple - er isst einen apfel
+20200223 - i have a cat - ich habe eine katze
+20200223 - I have two brothers - ich habe zwei brüder
+20200223 - the hat - der hut
+20200223 - how do you find the cat? - wie findest du den hut?
+20200223 - I find the hat beautiful - den hut finde ich schön
+20200223 - how do you find the cat? - wie findest du die katze?
+20200223 - i find the cat good - die katze finde ich gut
+20200223 - how do you find your car?F - wie finden sie ihr auto?
+20200223 - i find my car fast - mein auto finde ich schnell
+20200223 - the ruler - das lineal
+20200223 - the shoes - die schuhe
+20200223 - the pen - der kuli
+20200223 - do you have a pen? - hast du einen kuli?
+20200223 - no i have no pen - nein ich habe keinen kuli
+20200223 - do you have a cat? - hast du eine katze?
+20200223 - no i have no cat - nein ich habe keine katze
+20200223 - no i have no children - nein ich habe keine kinder
+20200223 - i love my husband - ich leibe meinen mann
+20200223 - i love my car - ich liebe mein auto
+20200223 - i love my cat - ich liebe meine katze
+20200223 - i love my children - ich liebe meine kinder
+20200223 - he likes his girlfriend - er mag seine freundin
+20200223 - he likes his dog - er mag seinen hund
+20200223 - he likes his motorcycle - er mag sein motorrad
+20200223 - to visit - besuchen
+20200223 - she finds her cat good - sie findet ihre katze gut
+20200223 - she finds her boyfriend nice - sie findet ihren freund nett
+20200223 - she finds her house beutiful - sie findet ihr haus schön
+20200223 - she finds her neigbors friendly - sie findet ihre nachbarn freundlich
+20200223 - today we visit our grandfather - heute besuchen wir unseren großvater
+20200223 - how do you find your teacher Mas, P? - wie findet ihr euren lehrer?
+20200224 - i would like to - ich möchte
+20200224 - you would like to - du möchtest
+20200224 - he would like to - er möchte
+20200224 - she would like to - sie möchte
+20200224 - it would like to - es möchte
+20200224 - we would like to - wie möchten
+20200224 - you would like to P - ihr möchtet
+20200224 - they would like to - sie möchten
+20200224 - i would like to a doctor - ich möchte artzt werden
+20200224 - to become-be - werden
+20200224 - peter would like to study in england - peter möchte in England studieren
+20200224 - what would you like to eat? - was möchtest du essen?
+20200224 - would you like to go to the cinema? - möchtest du ins kino gehen?
+20200224 - I would like one cola - ich möchte eine cola
+20200224 - i would like to buy apple - ich möchte apfel kaufen
+20200224 - wie,was,wo,wohin,woher,wer,wen,wannvarum - W_fragen
+20200224 - why - warum
+20200224 - when - wann
+20200224 - what  are you of profession?F C - was sind sie von beruf?
+20200224 - whz are you sad?C - warum bist du traurig?
+20200224 - when do you marry?P - wan heiratet ihr?
+20200224 - who speaks good deutch? - wer spricht gut deutch?
+20200224 - whom do you love? - wen liebst du?
+20200224 - towhere do you go in the vacation? -wohin fährst du im Urlaub?
+20200224 - how much does it cost a bike? - wie viel kostet ein fahrrad?
+20200224 - how many - wie viele
+20200224 - how many children do you have? - wie viele kinder hast du?
+20200224 - how often - wie oft
+20200224 - how often do you play football? - wie oft spielst du fußball?
+20200224 - which languages do you speak? - welche sprachen sprichst du?
+20200224 - the restaurant - das restaurant
+20200224 - to order - bestellen
+20200224 - the guest - der gast
+20200224 - the guests - die gäste
+20200224 - the waiter - der kellner
+20200224 - the waitress - die kellnerin
+20200224 - the menu - das menü
+20200224 - the menüs - die menüs
+20200224 - the menu O - die speisekarte
+20200224 - the menus O - die speisekarten
+20200224 - in the restaurant - im restaurant
+20200224 - good day, we want a table for 2 persons - guten tag, wie wollen einen tisch für zwei personen
+20200224 - do you have a reservation?F - haben sie reserviert?
+20200224 - yes, of the name john - ja, auf den namen john
+20200224 - want - wollen
+20200224 - no, we dont have a reservation - nein, wir haben nicht reserviert
+20200224 - please , come with me F - bitte, kommen sie mit
+20200224 - please take a seatF - bitte nehmen sie platz
+20200224 - here - hier
+20200224 - here is the menu - hier ist die speisekarte
+20200224 - what would you like to drink?F - was möchte sie trinken?
+20200224 - i would like one colaC - ich möchte gern eine cola
+20200224 - i would have a juice - ich hätter gern einen saft
+20200224 - the juice - der saft
+20200224 - to would have - hätten
+20200224 - i take a cola - ich nehme eine cola
+20200224 - ok, come immediatly - ok, kommt sofort
+20200224 - immediatly - sofort
+20200224 - here one cola and one juice - hier eine cola und ein saft
+20200224 - what would you like to eat? - was möchten sie essen?
+20200224 - what woul you have at eating? - was hätten sie zum essen?
+20200224 - i would have one pizza - ich hätte gern eine pizza
+20200224 - i would have g - ich hätte gern
+20200224 - i would like one salad - ich möchte gern einen salat
+20200224 - i take one soup - ich nehme eine suppe
+20200224 - wish - wunsch
+20200224 - any wish else C- noch einen wunsch
+20200224 - to pay please - zahlen bitte
+20200224 - we would like to pay please - wie möchten zahlen bitte
+20200224 - me - mich
+20200224 - know somebody - kennen
+20200224 - i am saber, do  you know me? - ich bin saber, kennest du mich?
+20200224 - you "Dative" - dich
+20200224 - who are you? I dont know you - wer bist du? ich kenne dich nicht
+20200224 - him - ihn
+20200224 - he is peter, do you know him? - er ist peter, kennest du ihn?
+20200224 - her "Dative" - sie
+20200224 - this is julia, i find her very beautiful - das ist julia, ich finde sie sehr schön
+20200224 - it Dative - es
+20200224 - this is my book, i find it interresting - das is mein Buch, ich finde es interessant
+20200224 - us - uns
+20200224 - we are x and y, do you know us? - wir sind x und y, kennest du uns?
+20200224 - you P Dative - euch
+20200224 - who are youP? I dont know you P - wer seid ihr? ich kenne euch nicht
+20200224 - them__ - sie__
+20200224 - those are my parents, i love them - das sind meine eltern, ich liebe sie
+20200224 - dative dem der dem den +n - dgfghvdd
+20200224 - whom does julia cook a soup for? - wen kocht julia eine suppe?
+20200224 - julia cooks a soup for the husband - julia kocht dem mann eine suppe
+20200224 - the father gives a hat to the child - der vater gibt dem kind einen hut
+20200224 - the husband gives a gift to the wife - der mann gibt der frau ein geschenk
+20200224 - the gift - das geschenk
+20200224 - the man gives a gift to the children - der mann gibt den kindern ein Geschenk
+20200224 - the food - das essen
+20200224 - to bring - bringen
+20200224 - the waiter brings the food to a guest - der kellner bringt einem gast das essen
+20200224 - he brings the food to a woman -er bringt einer frau das essen
+20200224 - he brings the food to a child - er bringt einem kind das essen
+20200224 - he brings the food to children -er bringt den kindern das essen
+20200225 - the first mal - der erste
+20200225 - the first Fem - die erste
+20200225 - the first Neut - das erste
+20200225 - on the first - am ersten
+20200225 - the second - der zweite
+20200225 - on the second - am zweiten
+20200225 - the third - der dritte
+20200225 - on the third - am dritten
+20200225 - the fourth - der vierte
+20200225 - on the fourth - am vierten
+20200225 - the fifth - der fünfte
+20200225 - on the fifth - am fünften
+20200225 - the sixth - der sechste
+20200225 - on the sixth - am sechsten
+20200225 - the seventh - der siebte
+20200225 - on the seventh - am siebten
+20200225 - the eighth - der achte
+20200225 - on the eighth - am achten
+20200225 - the ninth - der neunte
+20200225 - the tenth - der zehnte
+20200225 - on the tenth - am zehnten
+20200225 - the 11th - der elfte
+20200225 - on the 11th - am elften
+20200225 - the 12th - der zwölfte
+20200225 - on the 12th - am zwölften
+20200225 - the 13th - der dreizehnte
+20200225 - on the 13th - am dreizehnten
+20200225 - the 19th - der neunzehnte
+20200225 - on the 19th - am neunzehnten
+20200225 - the 20th - der zwanzigste
+20200225 - on the 20th - am zwanzigsten
+20200225 - the 21th - der einundzwanzigste
+20200225 - on the 21th -am einundzwanzigsten
+20200225 - the 30th - der dreißigste
+20200225 - on the 30th - am dreißigsten
+20200225 - the 100th - der einhunderste
+20200225 - on the 100th - am einhundersten
+20200225 - the 1000th - der eintausendste
+20200225 - today is the 25th of April - heute ist der fünfundzwanzigste April
+20200225 - i come on the 16th of April -ich komme am sechzehnten april
+20200225 - i come on 06.04 - ich komme am sechsten vierten
+20200225 - from left - von links
+20200225 - the third house from the left is my house - das dritte haus von links ist mein haus
+20200225 - when have you birthday? - wann hast du gebutstag?
+20200225 - today I have birthday - heute habe ich Geburtstag
+20200225 - next week I have birthday - nächste woche habe ich geburtstag
+20200225 - i have a meeting at 6 - ich habe ein treffen um sechs Uhr
+20200225 - i have a meeting in the evening - ich habe ein treffen am abend
+20200225 - i have a meeting on saturday - ich habe ein treffen am samstag
+20200225 - i have a meeting in April - ich habe ein treffen im April
+20200225 - till when - bis wann
+20200225 - till when do you sleep? - bis wann scläfst du?
+20200225 - i sleep till 12 - ich schlafe bis zwei Uhr
+20200225 - till when do you stay in paris? - bis wann bleibst du in paris?
+20200225 - i stay till sunday in paris - ich bleibe bis sonntag in paris
+20200225 - since when - seit wann
+20200225 - since when do you study german? - seit wann lernst du deutsch?
+20200225 - i learn german since two years - ich lerne deutsch seit zwei Jahren
+20200225 - i learn german since august - ich lerne deutsch seit August
+20200225 - from when - Ab wann
+20200225 - from when do you make vacation? - ab wann machst du Urlaub?
+20200225 - deom next week i make vacation - ab nächsten woche mache ich Urlaub
+20200225 - von wann bis wann arbeitest du? - from when till when do zou work?
+20200225 - i work from monday till friday from 9 till 17 - ich arbeite von montag bis freitag von neun Uhr bis siebzehn Uhr
+20200225 - at how much clock - um wie viel Uhr
+20200225 - at what time do you come? - um wie viel uhr kommst du?
+20200225 - i come at 21 - ich komme um einundzwanzig Uhr
+20200225 - now - jetzt
+20200225 - how much clock is it now? - wie viel Uhr ist es jetzet?
+20200225 - what time is it now? - wie spät is ist jetzt?
+20200225 - how long - wie lange
+20200225 - how long do you stay with me? - wie lange bleibt du bei mir?
+20200225 - i stay 5 days with you - ich bleibe fünf tage bei mir
+20200225 - how long does it take to - Wie lange dauert es zu
+20200225 - how often do you go to the cinema? - wie oft gehst du ins kino?
+20200225 - i go sometimes to the cinema - ich gehe manchmal ins kino
+20200225 - i give to my husband a kiss - ich gebe meinem mann einen Kuss
+20200225 - i give to my daughter a kiss - ich gebe meiner tochter einen kuss
+20200225 - i give to my baby a kiss - ich gebe meinem baby einen kuss
+20200225 - i give to my children a kiss - ich gebe meinen kindern einen kuss
+20200225 - he buys to his brother a chocolate - er kauft seinem bruder eine schokolade
+20200225 - he buys to his wife a chocolate - er kauft seiner frau eine schokolade
+20200225 - he buys to his child a chocolate - er kauft seinem kind eine schokolade
+20200225 - he buys to his friends a chocolate - er kauft seinen freunden eine schokolade
+20200225 - she brings to her husband the food - sie bringt ihrem mann das essen
+20200225 - she brings to her sister the food - sie bringst ihrer schwester das essen
+20200225 - she brings to her child the food - sie bringt ihrem kind das essen
+20200225 - she brings to her neighbors the food - sie bringt ihren nachbarn das essen
+20200225 - we buy to our father a gift - wir kaufen unserem  vatter ein Geschenk
+20200225 - we buz to our mother a gift - wir kaufen unserer mutter ein geschenk
+20200225 - we buy to our child a gift - wir kaufen unserem kind ein geschenk
+20200225 - we buy to our parents a gift - wir kaufen unseren eltern ein geschenk
+20200225 - i bring to your dog the food P - ich bringe eurem hund das essen
+20200225 - to me - mir
+20200225 - to you - dir
+20200225 - to him - ihm
+20200225 - to her - ihr
+20200225 - to it_ - ihm_
+20200225 - to us_ - uns_
+20200225 - to you_ P - euch_
+20200225 - to them - ihnen
+20200225 - do you give to me a chocolate? - gibst du mir eine schokolade?
+20200225 - i give to you a chocolate - ich gebe dir eine schokolade
+20200225 - i give to him a chocolate - iche gebe ihm eine shokolade
+20200225 - i give to her a chocolate - ich gebe ihr eine schokolade
+20200225 - this is a child, i give to it a chocolate - das ist ein kind, ich gebe ihm eine shokolade
+20200225 - do you give to us a chocolate? - gibst du uns eine schokolade?
+20200225 - i give to you a chocolate P- ich gebe euch eine schokolade
+20200225 - john and julia are nice, i give them two chocolate - john und julia sind nett, ich gebe ihnen swei schokolade
+20200225 - Mr schmidt, you are nice, i give you a chocolate F - Herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
+20200225 - i want - ich will
+20200225 - you want - du willst
+20200225 - he wants - er will
+20200225 - she wants - sie will
+20200225 - it wants - es will
+20200225 - we want - vir wollen
+20200225 - you want P - ihr wolt
+20200225 - they want - sie wollen
+20200226 - get up - aufstehen
+20200226 - i get up at 6 - ich stehe um sechs Uhr auf
+20200226 - when do you get up? - wann stehst du auf?
+20200226 - do you get up at 6? - stehst du um sechs Uhr auf?
+20200226 - when do you want to get up? - wann willst du aufstehen?
+20200226 - come along with - mitkommen
+20200226 - we go to the school, do you come along? - wir gehen zur schule, kommst du mit?
+20200226 - pick someone_something up - abholen
+20200226 - can you pick me up at 18 ? - kannst du mich um achtzehn Uhr abhoren?
+20200226 - leave_depart - abfahren
+20200226 - the train leaves at 7 - der zug fährt um sieben Uhr ab
+20200226 - arrive - ankommen
+20200226 - the bus arrives at 7 - der bus kommt um sieben Uhr an
+20200226 - begin - anfangen
+20200226 - the class - der unterricht
+20200226 - the class begins at 13 - der unterricht fängt  um dreizehn Uhr an
+20200226 - to go shopping_ - einkaufen_
+20200226 - on the week end we go shopping in the city - Am wochenende kaufen wir in der stadt ein
+20200226 - to watch tv_ - fernsehen_
+20200226 - peter and maria always watch tv in the evening - peter und maria sehen am abend immer fern
+20200226 - call_phone - anrufen
+20200226 - can you call me today evening? - kannst du mich heute Abend anrufen?
+20200226 - invite - einladen
+20200226 - the wedding - die Hochzeit
+20200226 - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
+20200226 - to close - zumachen
+20200226 - I feel Cold, can you please close the window? - Mir ist kalt, kannst du bitte das fenster zumachen?
+20200226 - when do you call me? - wann rufst du mich an?
+20200226 - the patience - die geduld
+20200226 - please have patienceF - haben sie bitte geduld!
+20200226 - hast _in order_ - hab
+20200226 - habt _in order_ - habt
+20200226 - haben  _in order_ - haben sie
+20200226 - bist  _in order_ - sei
+20200226 - seid  _in order_ - seid
+20200226 - sind  _in order_ - seien sie
+20200226 - please be quietF - seien sie bitte leise!
+20200226 - gibst  _in order_ - gib
+20200226 - fährst _in order_ - fahr
+20200226 - drive now - fahr jetzt!
+20200226 - go immediatly home! - geh sofort nach hause!
+20200226 - mehr - more
+20200226 - das wasser - the water
+20200226 - please drink more waterF - trinken sie bitte mehr wasser!
+20200226 - listen to me - hör mir zu
+20200227 - the day before yesterday - vorgestern
+20200227 - last year - letztes jahr
+20200227 - last week - letzte woche
+20200227 - afew days ago - vor ein paar tagen
+20200227 - had - hatten
+20200227 - i had - ich hatte
+20200227 - you had - du hattest
+20200227 - he had - er hatte
+20200227 - she had - sie hatte
+20200227 - it had - es hatte
+20200227 - we had - wir hatten
+20200227 - you had P - ihr hattet
+20200227 - they had - sie hatten
+20200227 - last year I had no car - letztes jahr hatte ich kein auto
+20200227 - but today i have a car - aber heute habe ich ein auto
+20200227 - the day before yesterday we had no money - vorgestern hatten wir kein geld
+20200227 - but today we have much money - aber heute haben wir viel geld
+20200227 - yesterday maria had no time - gestren hatte maria keine zeit
+20200227 - to be in the past - waren
+20200227 - i was - ich war
+20200227 - you were - du warst
+20200227 - he was - er war
+20200227 - she was - sie war
+20200227 - it was - es war
+20200227 - we were - wie waren
+20200227 - you were P - ihr wart
+20200227 - they were - sie waren
+20200227 - yesterday the weather was bad - gestern war das wetter schlecht
+20200227 - today it is beautiful - heute ist es schön
+20200227 - the day before yestrday he was tired - vorgestern war er müde
+20200227 - today he is good - heute ist er gut
+20200227 - last week we were in berlin - letzte woche waren wir in berlin
+20200227 - today we are in london - heute sind sie in london
+20200227 - we had a dog - wir hatten einen hund
+20200227 - the day before yesterday we were in the class - vorgestern  waren wir im unterricht
+20200227 - last week I was very tired - letzte woche war ich sehr müde
+20200227 - why dont you undertand me? - varum verstehst du mich nicht?
+20200227 - i can understand you - ich kann dich verstehen
+20200227 - to get - bekommen
+20200227 - soon - bald
+20200227 - we get soon a new teacher _fem - wir bekommen bald eine neue lehrerin
+20200227 - to pay - bezahlen
+20200227 - can you please pay today? - kannst du bitte heute bezahlen?
+20200227 - to receive - empfangen
+20200227 - the man receives his guests - der mann empfängt seine gäste
+20200227 - discover - entdecken
+20200227 - every day - jeder tag
+20200227 - my son discovers every day something new - mein sohn entdeckt jeden tag etwas neues
+20200227 - to empty - entleeren
+20200227 - the trash bin - die mülltone
+20200227 - on monday we should empty the trash bin - am montag müssen wir die mülltonne entleeren
+20200227 - to tell - erzählen
+20200227 - my grandfather tells interessting stories - mein großvatter erzählt interessante geschichten
+20200227 - the stories - die geschichten
+20200227 - belong - gehören
+20200227 - this watch belongs to me - die Uhr gehönt mir
+20200227 - misunderstand - missverstehen
+20200227 - to sell - verkaufen
+20200227 - he sells his old house - er verkauft sein altes haus
+20200227 - to destroy - zerstören
+20200227 - being krank - kranksein
+20200227 - to feel - fühlen
+20200227 - i feel myself not well - ich fühle mich nicht wohl
+20200227 - well - wohl
+20200227 - the head - der kopf
+20200227 - the ache - die schmerzen
+20200227 - the headache - die kopfschmerzen
+20200227 - the tooth - der zahn
+20200227 - the teeth - die zähne
+20200227 - the toothache - die zahnschmerzen
+20200227 - the belly - der bauch
+20200227 - the belly headache - die bauchschmerzen
+
+20200227 - the ears - die ohren
+20200227 - the earsheadache - die ohrenschmerzen
+20200227 - the sorethroat - die halsschmerzen
+20200227 - i have headache - ich habe kopfschmerzen
+20200227 - hurt - tun weh
+20200227 - my feet hurt me - meine fÜße tun mir weh
+20200227 - the fever - das fieber
+20200227 - the flu - die grippe
+20200227 - the cough - der husten
+20200227 - the _ESSHHAL_ - der duchfall
+20200227 - i have fever - ich habe fieber
+20200227 - i have cough - ich habe husten
+20200227 - i have a cold - ich habe eine grippe
+20200227 - or - oder
+20200227 - someone - jemandem
+20200227 - high - hohen
+20200227 - blood pressure - blutdruck
+20200227 - i have high pressure - ich habe hohen blutdruck
+20200227 - i hurt myself - ich habe mich verletzt
+20200227 - hurt or injury - verletzen
+20200227 - i hurt my leg - ich habe mich am bein verletzt
+20200227 - i hurt my finger - ich habe mich  am finger hurt
+20200227 - i hurt my hand - ich habe mich an der hand verletzt
+20200227 - break - brochen
+20200227 - i have my leg broken - ich habe mir das bein gebrochen
+20200227 - i have my arm broken - ich habe mir den arm gebrochen
+20200227 - the advice - der ratschlag
+20200227 - I am so tired - ich bin so müde
+20200227 - go sleep - geh schlafen
+20200227 - drink a koffe - trink einen kaffee
+20200227 - make a diet - mach eine diät
+20200228 - also - auch
+20200228 - wait for me - wartet auf mich
+20200228 - hello dear friends - hallo liebe freunde
+
+20200229 RR  - sometimes - manchmal
+20200229 RR  - execuse me sir, pleaseC - entschuldigen sie, bitte
+20200229 RR  -  - 
+20200229 RR  - maybe - vielleicht
+20200229 RR  - what is your family?F - wie ist  ihr familienname?
+20200229 RR  - what do you make for a livingF?C - was machen sie beruflich?
+20200229 RR  - i am not married - ich bin nicht verheiratet
+20200229 RR  - the chef - der koch
+20200229 RR  - the chef fem - die köchin
+20200229 RR  - cooking - kochen
+20200229 RR  - dancing - tanzen
+20200229 RR  - how is it going with youF?C - wie geht es ihnen?
+20200229 RR  - it is going bad - mir geht es schlecht
+20200229 RR  - and youF? - und ihnen?
+20200229 - because - denn
+20200229 RR  - do you play footballF? - spielen sie fußball?
+20200229 RR  - do you have the timeF?C - haben sie zeit?
+20200229 RR  - Mr müller, where do you live? - herr müller, wo wohnen sie?
+20200229 RR  - we have a car - wie haben ein auto
+20200229 RR  - my parents have a dog - meine eltern haben einen hund
+20200229 RR  - my neighbor is nice - meine nachbar ist nette
+20200229 RR  - regular verbs stamn plus 'e,st,t,en,t,en' except end with ß,z so :st: became :t:, end with t,d :st: became :est: , :t: became :et: N - hfgdhs
+20200229 RR  - you give - du gibst
+20200229 RR  - you read - du liest
+20200229 RR  - 1,000,000 - eine million
+20200229 RR  - light - hell
+20200229 RR  - the answer - die antwort
+20200229 RR  - fat - dick
+20200229 RR  - slim - dünn
+20200229 RR  - dumb - doof
+20200229 RR  - intelligent - intelligent
+20200229 RR  - the fox - der fuchs
+20200229 RR  - a donkey is dumb but a fox is intelligent - ein esel ist doof, aber ein fuchs ist intelligent
+20200229 RR  - laugh - lachen
+20200229 RR  - heavy - schwer
+20200229 RR  - the suitcase - der koffer
+20200229 RR  - the bag - die tasche
+20200229 RR  - my suitcase is heavy but my bags are light - mein koffer ist schwer,aber meine taschen sind leicht
+20200229 RR  - expensive - teuer
+20200229 RR  - cheap - billig
+20200229 RR  - my car is expensive but your  bike is cheap - mein auto ist teuer aber dein fahrrad ist billig
+20200229 RR  - the thing - die sache
+20200229 RR  - stuff-die sachen
+20200229 RR  - the apple is red - der apfel ist rut
+20200229 RR  - julia loves her mann - julia liebt ihren mann
+20200229 RR  - i love my husband - ich leibe meinen mann
+20200229 RR  - to visit - besuchen
+20200301 RR  - to order - bestellen
+20200301 RR  - good day, we want a table for 2 persons - guten tag, wie wollen einen tisch für zwei personen
+20200301 RR  - what would you like to drink?F - was möchte sie trinken?
+20200301 RR  - i would like one colaC - ich möchte gern eine cola
+20200301 RR  - to would have - hätten
+20200301 RR  - what woul you have at eating? - was hätten sie zum essen?
+20200301 RR  - wish - wunsch
+20200301 RR  - any wish else C- noch einen wunsch
+20200301 RR  - we would like to pay please - wie möchten zahlen bitte
+20200301 RR  - who are you? I dont know you - wer bist du? ich kenne dich nicht
+20200301 RR  - her "Dative" - sie
+20200301 RR  - he brings the food to children -er bringt den kindern das essen
+20200301 RR  - the 12th - der zwölfte
