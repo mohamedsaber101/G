@@ -1063,3 +1063,67 @@
 20200302 RR  - the advice - der ratschlag
 20200302 RR  - make a diet - mach eine diät
 20200302 - at the end - am ende
+20200302 - i am eating a salad - ich esse einen salat
+20200302 - I have eaten a salat - och habe einen salat gegessen
+20200302 - we drive to berlin - wir fahren nach berlin
+20200302 - we have driven last week to paris - wir sind letzte woche nach paris gefahren
+20200302 - he is playing with his dog - er spielt mit seinem hund
+20200302 - he has played with his dog - er hat mit seinem hund gespielt
+20200302 - she is studying math - sie studiert math
+20200302 - she has studied math - sie hat math studiert
+20200302 - essen 2 - hat gegessen
+20200302 - fahren 2 - ist gefahren
+20200302 - spielen 2 - hat gespielt
+20200302 - studieren 2 - hat studiert
+20200302 - machen 2 - gemacht
+20200302 - anrufen 2 - angerufen
+20200302 - what have you done yesterday - was hast du gestern gemacht?
+20200302 - have you eaten yesterday something - hast du gestern etwas gegessen
+20200302 - sabine has called her friend - sabine ruft ihren freund an
+20200302 - sabine has called her friend - sabine hat ihren freund angerufen
+20200302 - i am sick, i must go to the doctor - ich bin krank, ich muss zum arzt gehen
+20200302 - i was ill , i must have to go to the doctor - ich war krank ich musste zum arzt gehen
+20200302 - the homework - die hausaufgeben
+20200302 - have you made your homework? - hast du deine hausaufgeben gemacht?
+20200302 - only_Just - nur
+20200302 - i have slept just 3 hours - ich habe nur drei stunden geschlafen
+20200302 - on friday we have gone to the cinema - am freitag sind wir ins kino gegangen
+20200302 - i have gone - ich bin gegangen
+20200302 - you have gone P - ihr seid gegangen
+20200302 - they have gone - sie sind gegangen
+20200302 - you have eaten - du hast gegessen
+20200302 - kaufen 2 - hat gekauft
+20200302 - he has bought a new car - er hat ein neues auto gekauft
+20200302 - has drunk - hat getrunk
+20200302 - sabine has drunk today alot of coffee - sabine hat heute viel kaffee getrunken
+20200302 - rain - regen
+20200302 - regen 2 - hat geregnet
+20200302 - it has rained - es hat geregnet
+20200302 - schreiben 2 - hat geschrieben
+20200302 - sprechen 2 - hat gesprochen
+20200302 - fly - fliegen
+20200302 - fliegen 2 - ist geflogen
+20200302 - my parents have flied yesterday to berlin - meine eltern sind gestern nach berlin geflogen
+20200302 - gehen 2 - ist gegangen
+20200302 - kommen 2 - ist gekommen
+20200302 - travel - reisen
+20200302 - reist 2 - gereist
+20200302 - swim - schwimmen
+20200302 - schimmen 2 - ist geschwommen
+20200302 - start - losgehen
+20200302 - losgehen 2 - ist losgegangen
+20200302 - laufen 2 - ist gelaufen
+20200302 - die - sterben
+20200302 - sterben 2 - ist gestorben
+20200302 - last week his father has died - letzte woche ist sein vater gestorben
+20200302 - fall a sleep - einschlafen
+20200302 - einschlafen 2 - eingeschlafen
+20200302 - maria has fallen a sleep in the class - maria ist im unterricht geschlafen
+20200302 - wake up - aufwachen
+20200302 - aufwachen 2 - ist aufgewacht
+20200302 - grow - wachsen
+20200302 - wachsen 2 - ist gewachsen
+20200302 - verstehen 2 - ist aufstanden
+20200302 - bleiben 2 - ist geblieben
+20200302 - i have stayed in last week in paris - ich bin letzte woche in paris geblieben
+20200302 - where were you yesterday - wo warst du gestern
