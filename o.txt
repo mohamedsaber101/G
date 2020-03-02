@@ -1127,3 +1127,8 @@
 20200302 - bleiben 2 - ist geblieben
 20200302 - i have stayed in last week in paris - ich bin letzte woche in paris geblieben
 20200302 - where were you yesterday - wo warst du gestern
+20200302 - happen - passiert
+20200302 - passiert 2 - ist passiert
+20200302 - what has happened - was ist passiert
+20200302 - werden 2 - ist geworden
+20200302 - i have becomen today 29 - ich bin heute neunundzwanzig geworden
