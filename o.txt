@@ -705,7 +705,7 @@
 20200225 - i come on 06.04 - ich komme am sechsten vierten
 20200225 - from left - von links
 20200225 - the third house from the left is my house - das dritte haus von links ist mein haus
-20200225 - when have you birthday? - wann hast du gebutstag?
+20200225 - when have you birthday? -wann hast du geburtstag?
 20200225 - today I have birthday - heute habe ich Geburtstag
 20200225 - next week I have birthday - nächste woche habe ich geburtstag
 20200225 - i have a meeting at 6 - ich habe ein treffen um sechs Uhr
@@ -713,8 +713,8 @@
 20200225 - i have a meeting on saturday - ich habe ein treffen am samstag
 20200225 - i have a meeting in April - ich habe ein treffen im April
 20200225 - till when - bis wann
-20200225 - till when do you sleep? - bis wann scläfst du?
-20200225 - i sleep till 12 - ich schlafe bis zwei Uhr
+20200225 - till when do you sleep? -bis wann schläfst du
+20200225 - i sleep till 12 -ich schlafe bis zwölf Uhr
 20200225 - till when do you stay in paris? - bis wann bleibst du in paris?
 20200225 - i stay till sunday in paris - ich bleibe bis sonntag in paris
 20200225 - since when - seit wann
@@ -730,10 +730,10 @@
 20200225 - at what time do you come? - um wie viel uhr kommst du?
 20200225 - i come at 21 - ich komme um einundzwanzig Uhr
 20200225 - now - jetzt
-20200225 - how much clock is it now? - wie viel Uhr ist es jetzet?
-20200225 - what time is it now? - wie spät is ist jetzt?
+20200225 - how much clock is it now? -wie viel Uhr ist es jetzt
+20200225 - what time is it now? -wie spät ist es jetzt
 20200225 - how long - wie lange
-20200225 - how long do you stay with me? - wie lange bleibt du bei mir?
+20200225 - how long do you stay with me? -wie lange bleibst du bie mir
 20200225 - i stay 5 days with you - ich bleibe fünf tage bei mir
 20200225 - how long does it take to - Wie lange dauert es zu
 20200225 - how often do you go to the cinema? - wie oft gehst du ins kino?
@@ -747,7 +747,7 @@
 20200225 - he buys to his child a chocolate - er kauft seinem kind eine schokolade
 20200225 - he buys to his friends a chocolate - er kauft seinen freunden eine schokolade
 20200225 - she brings to her husband the food - sie bringt ihrem mann das essen
-20200225 - she brings to her sister the food - sie bringst ihrer schwester das essen
+20200225 - she brings to her sister the food -sie bringt ihrer schwester das essen
 20200225 - she brings to her child the food - sie bringt ihrem kind das essen
 20200225 - she brings to her neighbors the food - sie bringt ihren nachbarn das essen
 20200225 - we buy to our father a gift - wir kaufen unserem  vatter ein Geschenk
@@ -765,19 +765,19 @@
 20200225 - to them - ihnen
 20200225 - do you give to me a chocolate? - gibst du mir eine schokolade?
 20200225 - i give to you a chocolate - ich gebe dir eine schokolade
-20200225 - i give to him a chocolate - iche gebe ihm eine shokolade
+20200225 - i give to him a chocolate -ich gebe ihm eine schokolade
 20200225 - i give to her a chocolate - ich gebe ihr eine schokolade
-20200225 - this is a child, i give to it a chocolate - das ist ein kind, ich gebe ihm eine shokolade
+20200225 - this is a child, i give to it a chocolate -das ist ein kind ich gebe ihm eine schokolade
 20200225 - do you give to us a chocolate? - gibst du uns eine schokolade?
 20200225 - i give to you a chocolate P- ich gebe euch eine schokolade
-20200225 - john and julia are nice, i give them two chocolate - john und julia sind nett, ich gebe ihnen swei schokolade
+20200225 - john and julia are nice, i give them two chocolate -john und julia sind nette ich gebe ihnen eine schokolade
 20200225 - Mr schmidt, you are nice, i give you a chocolate F - Herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200225 - i want - ich will
 20200225 - you want - du willst
 20200225 - he wants - er will
 20200225 - she wants - sie will
 20200225 - it wants - es will
-20200225 - we want - vir wollen
+20200225 - we want -wir wollen
 20200225 - you want P - ihr wolt
 20200225 - they want - sie wollen
 20200226 - get up - aufstehen
@@ -993,3 +993,13 @@
 20200301 RR  - her "Dative" - sie
 20200301 RR  - he brings the food to children -er bringt den kindern das essen
 20200301 RR  - the 12th - der zwölfte
+20200302 RR  - when have you birthday? -wann hast du geburtstag?
+20200302 RR  - next week I have birthday - nächste woche habe ich geburtstag
+20200302 RR  - i have a meeting in the evening - ich habe ein treffen am abend
+20200302 RR  - i have a meeting in April - ich habe ein treffen im april
+20200302 RR  - i learn german since two years - ich lerne deutsch seit zwei jahren
+20200302 RR  - i stay 5 days with you - ich bleibe fünf tage bei mir
+20200302 RR  - how long does it take to - wie lange dauert es zu
+20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
+20200302 RR  - i want - ich will
+20200302 RR  - you want P - ihr wolt
