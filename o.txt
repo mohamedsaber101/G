@@ -849,7 +849,7 @@
 20200227 - he was - er war
 20200227 - she was - sie war
 20200227 - it was - es war
-20200227 - we were - wie waren
+20200227 - we were -wir waren
 20200227 - you were P - ihr wart
 20200227 - they were - sie waren
 20200227 - yesterday the weather was bad - gestern war das wetter schlecht
@@ -871,16 +871,16 @@
 20200227 - to receive - empfangen
 20200227 - the man receives his guests - der mann empfängt seine gäste
 20200227 - discover - entdecken
-20200227 - every day - jeder tag
+20200227 - every day -jeden tag
 20200227 - my son discovers every day something new - mein sohn entdeckt jeden tag etwas neues
 20200227 - to empty - entleeren
 20200227 - the trash bin - die mülltone
-20200227 - on monday we should empty the trash bin - am montag müssen wir die mülltonne entleeren
+20200227 - on monday we must empty the trash bin - am montag müssen wir die mülltonne entleeren
 20200227 - to tell - erzählen
 20200227 - my grandfather tells interessting stories - mein großvatter erzählt interessante geschichten
 20200227 - the stories - die geschichten
 20200227 - belong - gehören
-20200227 - this watch belongs to me - die Uhr gehönt mir
+20200227 - this watch belongs to me -das uhr gehört mir
 20200227 - misunderstand - missverstehen
 20200227 - to sell - verkaufen
 20200227 - he sells his old house - er verkauft sein altes haus
@@ -1003,3 +1003,62 @@
 20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200302 RR  - i want - ich will
 20200302 RR  - you want P - ihr wolt
+20200302 RR  - can you pick me up at 18 ? - kannst du mich um achtzehn uhr abhoren?
+20200302 RR  - the train leaves at 7 - der zug fährt um sieben uhr ab
+20200302 RR  - begin - anfangen
+20200302 RR  - the class begins at 13 - der unterricht fängt  um dreizehn uhr an
+20200302 RR  - on the week end we go shopping in the city - am wochenende kaufen wir in der stadt ein
+20200302 RR  - peter and maria always watch tv in the evening - peter und maria sehen am abend immer fern
+20200302 RR  - can you call me today evening? - kannst du mich heute abend anrufen?
+20200302 RR  - invite - einladen
+20200302 RR  - the wedding - die hochzeit
+20200302 RR  - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
+20200302 RR  - I feel Cold, can you please close the window? - mir ist kalt, kannst du bitte das fenster zumachen?
+20200302 RR  - the patience - die geduld
+20200302 RR  - please have patienceF - haben sie bitte geduld!
+20200302 RR  - sind  _in order_ - seien sie
+20200302 RR  - please be quietF - seien sie bitte leise!
+20200302 RR  - go immediatly home! - geh sofort nach hause!
+20200302 RR  - last year - letztes jahr
+20200302 RR  - afew days ago - vor ein paar tagen
+20200302 RR  - had - hatten
+20200302 RR  - he had - er hatte
+20200302 RR  - they had - sie hatten
+20200302 RR  - last year I had no car - letztes jahr hatte ich kein auto
+20200302 RR  - but today i have a car - aber heute habe ich ein auto
+20200302 RR  - yesterday maria had no time - gestren hatte maria keine zeit
+20200302 RR  - to be in the past - waren
+20200302 RR  - he was - er war
+20200302 RR  - why dont you undertand me? - varum verstehst du mich nicht?
+20200302 RR  - i can understand you - ich kann dich verstehen
+20200302 RR  - to receive - empfangen
+20200302 RR  - discover - entdecken
+20200302 RR  - my son discovers every day something new - mein sohn entdeckt jeden tag etwas neues
+20200302 RR  - the trash bin - die mülltone
+20200302 RR  - to tell - erzählen
+20200302 RR  - my grandfather tells interessting stories - mein großvatter erzählt interessante geschichten
+20200302 RR  - the stories - die geschichten
+20200302 RR  - belong - gehören
+20200302 RR  - to sell - verkaufen
+20200302 RR  - he sells his old house - er verkauft sein altes haus
+20200302 RR  - to destroy - zerstören
+20200302 RR  - the belly - der bauch
+20200302 RR  - hurt - tun weh
+20200302 RR  - my feet hurt me - meine fÜße tun mir weh
+20200302 RR  - the flu - die grippe
+20200302 RR  - the cough - der husten
+20200302 RR  - the _ESSHHAL_ - der duchfall
+20200302 RR  - i have cough - ich habe husten
+20200302 RR  - i have a cold - ich habe eine grippe
+20200302 RR  - someone - jemandem
+20200302 RR  - high - hohen
+20200302 RR  - i have high pressure - ich habe hohen blutdruck
+20200302 RR  - i hurt myself - ich habe mich verletzt
+20200302 RR  - hurt or injury - verletzen
+20200302 RR  - i hurt my leg - ich habe mich am bein verletzt
+20200302 RR  - i hurt my finger - ich habe mich  am finger hurt
+20200302 RR  - i hurt my hand - ich habe mich an der hand verletzt
+20200302 RR  - i have my leg broken - ich habe mir das bein gebrochen
+20200302 RR  - i have my arm broken - ich habe mir den arm gebrochen
+20200302 RR  - the advice - der ratschlag
+20200302 RR  - make a diet - mach eine diät
