@@ -1207,6 +1207,27 @@
 20200303 - i am in canada - Ich bin in canada
 20200303 - i am in france - ich bin in frankreich
 20200303 - the switzzerland - die schweiz
-20200303 - I am in the switsserland ÄAKKUS - ich bin in der schweiz
+20200303 - I am in the switsserland _DATIVE_ - ich bin in der schweiz
 20200303 - I am in the turkey - ich bin in der turkei
 20200303 - I am in the USA - ich bin in den USA
+20200303 - the office - das büro
+20200303 - I am in the office - ich bin im büro
+20200303 - i am in the bank - ich bin in der bank
+20200303 - i am in the supermarkt - ich bin im supermarkt
+20200303 - I am at home - ich bin zu hause
+20200303 - the sea - das meer
+20200303 - I am at the sea - ich bin am meer
+20200303 - I am in Rhein - ich bin am rhein
+20200303 - the mountain - der berg
+20200303 - the castle - die burg
+20200303 - the island - die insel
+20200303 - I live in jahnstraße - ich wohne in der Jahnstraße
+20200303 - the children are at the playing square - die kinder sind am spielplatz
+20200303 - I am with my mother - ich bin bei meiner mutter
+20200303 - towhere Question - wohin Frage
+20200303 - I drive to berlin - ich fahre nach berlin
+20200303 - I am going to Germany - ich gehe nach deutschland
+20200303 - I am driving to the switizzerland AKKUS - ich fahre in die schweiz
+20200303 - I am driving to Iran - ich fahre in den Iran
+20200303 - I am driving to the USA - Ich fahre in die USA
+20200303 - I am going to the office - ich gehe ins Büro
