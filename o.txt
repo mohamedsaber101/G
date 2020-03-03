@@ -1134,3 +1134,51 @@
 20200302 - i have becomen today 29 - ich bin heute neunundzwanzig geworden
 20200303 - kochen 2 - hat gekocht
 20200303 - I have cooked yesterday for long - ich habe gestern lange gekocht
+20200303 - when have you fallen sleep yesterday? - wann bist du gestern eingeschlafen ?
+20200303 - i have done the homework - ich habe die hausaufgeben gemacht
+20200303 - how long have you played yesterday football? - wie lange hast du gestern fußball gespielt?
+20200303 - lernen 2 - hat gelernt
+20200303 - i have learned new words - Ich habe neue Wörter gelernt
+20200303 - arbeiten 2 - hat gearbeitet
+20200303 - talk C - reden
+20200303 - reden 2 - hat geredet
+20200303 - maria have studied at the Uni - maria hat an der Uni studiert
+20200303 - denken 2 - hat gedacht
+20200303 - schreiben 2 - geschrieben
+20200303 - the letter - der brief
+20200303 - maria has written for me a letter - maria hat mir einen brief geschrieben
+20200303 - find - finden
+20200303 - find 2 - hat gefunden
+20200303 - we have found the film good - wir haben den film gut gefunden
+20200303 - he has comen late to the house - er ist spät nach hause gekommen
+20200303 - bringen 2 - hat gebracht
+20200303 - trinken 2 - hat getrunken
+20200303 - geben 2 - hat gegeben
+20200303 - helfen 2 - hat geholfen
+20200303 - nehmen - hat genommen
+20200303 - einkauft 2 - hat eingekauft
+20200303 - have you shopped yesterday? - hast du gestern eingekauft?
+20200303 - aufstehen 2 - aufgestehen
+20200303 - maria has gooten up today late - maria ist heute spät aufgestehen
+20200303 - zumachen 2 - hat zugemacht
+20200303 - mitkommen 2 - ist mitgekommen
+20200303 - fernsehen 2 - hat ferngesehen
+20200303 - explain_declare - erklären
+20200303 - erklären 2 - hat erklärt
+20200303 - the topic - das thema
+20200303 - my teacherF has explained the topic good - meine lehrerin hat das thema gut erklärt
+20200303 - bekommen 2 - hat bekommen
+20200303 - like - gefallen
+20200303 - gefallen 2 - hat gefallen
+20200303 - decide - entscheiden
+20200303 - entscheiden 2 - hat entschieden
+20200303 - what have you done in the vacation - was hast du im urlaub gemacht?
+20200303 - the vacation - der urlaub
+20200303 - visit - besichtigen
+20200303 - besichtigen 2 - hat besichtigen
+20200303 - in the vacation I was in paris+ - im urlaub war ich in paris
+20200303 - I have traveled with my family - ich habe mit miener familie gereist
+20200303 - in the vacation I have stayed at home - im urlaub bin ich zu hause geblieben
+20200303 - where were you? - wo warst du?
+20200303 - with_to whom - wem
+20200303 - with whom were you - mit wem warst du
