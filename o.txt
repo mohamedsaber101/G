@@ -1132,3 +1132,5 @@
 20200302 - what has happened - was ist passiert
 20200302 - werden 2 - ist geworden
 20200302 - i have becomen today 29 - ich bin heute neunundzwanzig geworden
+20200303 - kochen 2 - hat gekocht
+20200303 - I have cooked yesterday for long - ich habe gestern lange gekocht
