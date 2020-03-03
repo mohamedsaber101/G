@@ -1221,6 +1221,7 @@
 20200303 - the mountain - der berg
 20200303 - the castle - die burg
 20200303 - the island - die insel
+20200303 - the street - die straße
 20200303 - I live in jahnstraße - ich wohne in der Jahnstraße
 20200303 - the children are at the playing square - die kinder sind am spielplatz
 20200303 - I am with my mother - ich bin bei meiner mutter
@@ -1231,3 +1232,48 @@
 20200303 - I am driving to Iran - ich fahre in den Iran
 20200303 - I am driving to the USA - Ich fahre in die USA
 20200303 - I am going to the office - ich gehe ins Büro
+20200303 - I am going to the bank - ich gehe zur bank
+20200303 - in+das - ins
+20200303 - I am going to the supermarkt - ich gehe zum supermarkt
+20200303 - I am going to the office ZU - ich gehe zum Büro
+20200303 - I drive to the sea - ich fahre ans meer
+20200303 - I go to the Janhstraße - ich gehe in die Jahnstraße
+20200303 - I go to the playing square - ich gehe zum spielplatz
+20200303 - I go to my grandmother - iche gehe zu meiner großmutter
+20200303 - I go to my child - ich gehe zu meinem kind
+20200303 - the supermarket - der supermarkt
+20200303 - the supermarkets - die supermärkte
+20200303 - the shopping carte - der einkaufswagen
+20200303 - the shopping cartes - die einkaufswägen
+20200303 - the shopping basket - der einkaufskorb
+20200303 - the shopping baskets - die einkaufskörbe
+20200303 - the cashpoint - die kasse
+20200303 - the customer Mas - der kunde
+20200303 - the customer Fem - die kundin
+20200303 - the customers - die kunden
+20200303 - The cashier MAS - der kassierer
+20200303 - the cashier FEm - die kassierin
+20200303 - the section - die Abteilung
+20200303 - the receipt - der kassenbon
+20200303 - I come from the supermarket - ich komme vom supermarkt
+20200303 - von+dem - vom
+20200303 - I come from the street - ich komme von der straße
+20200303 - I would like to buy a cola - ich möchte eine cola Kaufen
+20200303 - the kilo - das kilo
+20200303 - 2 kilos - zwei kilo
+20200303 - 500 GM - fünfhundert gram
+20200303 - the litre - der liter
+20200303 - Execuse me sir, where find i here chips - entsuldigen sie, wo finde ich hier chips?
+20200303 - chips YouF next to snacks - chips finden sie beim knabberzeug
+20200303 - the drinks section - die getränken
+20200303 - fruit - Obst
+20200303 - vegtables - Gemüse
+20200303 - the meat section - die fleischtheke
+20200303 - cleaning supplies - waschmittel
+20200303 - backs - backwaren
+20200303 - Drogerie - health_Beuaty
+20200303 - spices - Gewürzen
+20200303 - this makes €25.10 please - das macht fünfundzwanzig Euro zehn bitte
+20200303 - here please - hier bitte
+20200303 - have a nice day - einen shönen tag
+20200303 - You too - ebenso
