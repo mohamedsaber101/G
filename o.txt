@@ -1182,3 +1182,31 @@
 20200303 - where were you? - wo warst du?
 20200303 - with_to whom - wem
 20200303 - with whom were you - mit wem warst du
+20200303 - i was with my family in paris - ich war mit meiner familie in paris
+20200303 - alone - allein
+20200303 - i was alone at home - ich war allein zu hause
+20200303 - stayed over night - übernachten
+20200303 - where have you stayed over night? - wo hast du übernachtet?
+20200303 - i have stayedON in the hotel - ich habe im hotel übernachtet
+20200303 - i have stayedON at a guesthouse - ich habe bei einer Gastfamilie übernachtet
+20200303 - what have you done? - was hast du gemacht?
+20200303 - what have youP done? - was habt ihr gemacht?
+20200303 - we have eaten much - wir haben viel gegessen
+20200303 - I have visited my OMa - ich habe meine Oma gesucht
+20200303 - spend - verbring
+20200303 - verbring 2 - vergebracht
+20200303 - we have spent with our family time - wir habe mit unserer familie zeit verbracht
+20200303 - run - rennen
+20200303 - rennen 2 - gerannt
+20200303 - i have run every day much - ich bin jeden tag viel gerannt
+20200303 - the novel - der roman
+20200303 - I have read a novel - ich habe einen roman gelesen
+20200303 - where Question - wo Frage
+20200303 - i am in berlin - ich bin In berlin
+20200303 - I am in germany - ich bin in deutschland
+20200303 - i am in canada - Ich bin in canada
+20200303 - i am in france - ich bin in frankreich
+20200303 - the switzzerland - die schweiz
+20200303 - I am in the switsserland ÄAKKUS - ich bin in der schweiz
+20200303 - I am in the turkey - ich bin in der turkei
+20200303 - I am in the USA - ich bin in den USA
