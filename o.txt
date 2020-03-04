@@ -1277,3 +1277,21 @@
 20200303 - here please - hier bitte
 20200303 - have a nice day - einen shönen tag
 20200303 - You too - ebenso
+20200304 - teh weather - das wetter
+20200304 - the sun - die sonne
+20200304 - the sky - der himmel
+20200304 - the rain - der regen
+20200304 - the snow - der schnee
+20200304 - the thunder - der donner
+20200304 - the light - der blitz
+20200304 - the rainbow - der regenbogen
+20200304 - the cloud - die wolke
+20200304 - the storm - der sturm
+20200304 - the fog - der nebel
+20200304 - it ist nice - es ist schön
+20200304 - it is nice weather - es ist schönes wetter
+20200304 - it is bad weather - es ist schlechtes wetter
+20200304 - it is sunny - es ist sonnig
+20200304 - the sun is shining - die sonne scheint
+20200304 - it is warm - es ist warm
+20200304 - it is cold - es ist kalt
