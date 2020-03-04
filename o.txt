@@ -1327,3 +1327,19 @@
 20200304 - dow we want going together to the cinema - wollen wir zusammen ins kino gehen?
 20200304 - do you have today evening something infront? - hast du heute abend etwas wor?
 20200304 - do you have at weekend time? - hast du am wochenende zeit?
+20200304 - I would like going today evening with you to the cinem - ich möchte gern heute abend mit dir ins kino gehen
+20200304 - do You want come along maybe? - willst du vielleicht mitkommen?
+20200304 - do you have time? - hast du zeit?
+20200304 - accept - annehmen
+20200304 - yes with pleasure , that  fits - ja gern, das passt
+20200304 - friday is good, there I have time - freitag ist gut, da habe ich zeit
+20200304 - yes, there I have nothingss infront - ja, da habe ich nichts vor
+20200304 - Deal - abgemacht
+20200304 - deal, friday at 18 - abgemacht, freitag um achtzehn Uhr
+20200304 - yes, this is a good idea, when then? - ja, das ist eine gute idee,wann denn?
+20200304 - reject - ablehnen
+20200304 - ablehnen 2 - hat abgelehnt
+20200304 - sorry - tut mir leid
+20200304 - i have no time - ich habe keine zeit
+20200304 - unfortunatly i cant - leider kann ich nicht
+20200304 - i must help my parents - ich muss meinen eltern helfen
