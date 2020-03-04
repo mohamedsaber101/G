@@ -1295,3 +1295,35 @@
 20200304 - the sun is shining - die sonne scheint
 20200304 - it is warm - es ist warm
 20200304 - it is cold - es ist kalt
+20200304 - is is very cold - es ist sehr kalt
+20200304 - I am freezing - ich friere
+20200304 - it is freezing - es ist eisig
+20200304 - it is 10c - es ist zehn Grad
+20200304 - it is abit cloudy - es ist leicht bewölkt
+20200304 - it is cloudy - es ist bewölkt
+20200304 - it is rainy - es ist regnerisch
+20200304 - it is raining - es regnet
+20200304 - it is windy - es ist windig
+20200304 - it is lighting and thundering - es blitzt und donnert
+20200304 - it is foggy - es ist neblig
+20200304 - it is snowing - es schneit
+20200304 - today it is not more good than yesterday - heute ist es nicht mehr so schön wie gestern
+20200304 - a great weather we are having today - ein superwetter haben wir heute
+20200304 - the sky is clear - der himmel ist klar
+20200304 - the appointment PERSONEL - der verabredung
+20200304 - the appointment businnes - der termin
+20200304 - an appointment making - eine verabredung treffen
+20200304 - an appointment confirm - eine verabredung bestätigen
+20200304 - Hello mark, Do we want going toghether in the city? - Hallo Mark, wollen wir zusammen in die stadt gehen?
+20200304 - yes, when then - ja, wann denn?
+20200304 - yes, that fits - ja, das passt
+20200304 - unfortunately - leider
+20200304 - no, today i cant unforunately - nein, heute kann ich leider nicht
+20200304 - and tomorrow? - und morgen?
+20200304 - yes tomorrow is good - ja morgen ist gut
+20200304 - when and where do we meet us? - wann und wo treffen wir uns?
+20200304 - at 6, at my place - um sechs, bei mir
+20200304 - ok then see you tomorrow - ok dann bis morgen
+20200304 - dow we want going together to the cinema - wollen wir zusammen ins kino gehen?
+20200304 - do you have today evening something infront? - hast du heute abend etwas wor?
+20200304 - do you have at weekend time? - hast du am wochenende zeit?
