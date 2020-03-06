@@ -163,7 +163,7 @@
 20200219 - great - prima
 20200219 - it is going =NOT BAD=C - es geht
 20200219 - it is going not wellC - mir geht es nicht gut
-20200219 - it is going bad - mir geht es schlecht
+20200219 - it is going bad - es geht schecht
 20200219 - i am sick - ich bin krank
 20200219 - ich bin tiredC - ich bin müde
 20200219 - and youF? - und Ihnen?
@@ -945,7 +945,7 @@
 20200229 RR  - cooking - kochen
 20200229 RR  - dancing - tanzen
 20200229 RR  - how is it going with youF?C - wie geht es ihnen?
-20200229 RR  - it is going bad - mir geht es schlecht
+20200229 RR  - it is going bad - es geht schecht
 20200229 RR  - and youF? - und ihnen?
 20200229 - because - denn
 20200229 RR  - do you play footballF? - spielen sie fußball?
@@ -1382,3 +1382,10 @@
 20200306 - after a while - nach eine weile
 20200306 RR  - wait for me - wartet auf mich
 20200306 RR  - hello dear friends - hallo liebe freunde
+20200306 RR  - execuse me sir, pleaseC - entschuldigen sie, bitte
+20200306 RR  - what is your family?F - wie ist  ihr familienname?
+20200306 RR  - the chef - der koch
+20200306 RR  - cooking - kochen
+20200306 RR  - dancing - tanzen
+20200306 RR  - because - denn
+20200306 RR  - do you have the timeF?C - haben sie zeit?
