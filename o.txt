@@ -806,7 +806,7 @@
 20200226 - the wedding - die Hochzeit
 20200226 - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
 20200226 - to close - zumachen
-20200226 - I feel Cold, can you please close the window? - Mir ist kalt, kannst du bitte das fenster zumachen?
+20200226 - to me is cold, can you please close the window?- Mir ist kalt, kannst du bitte das fenster zumachen?
 20200226 - when do you call me? - wann rufst du mich an?
 20200226 - the patience - die geduld
 20200226 - please have patienceF - haben sie bitte geduld!
@@ -815,7 +815,7 @@
 20200226 - haben  _in order_ - haben sie
 20200226 - bist  _in order_ - sei
 20200226 - seid  _in order_ - seid
-20200226 - sind  _in order_ - seien sie
+20200226 - sind _IN ORDER_FORMAL- seien sie
 20200226 - please be quietF - seien sie bitte leise!
 20200226 - gibst  _in order_ - gib
 20200226 - fährst _in order_ - fahr
@@ -1013,10 +1013,10 @@
 20200302 RR  - invite - einladen
 20200302 RR  - the wedding - die hochzeit
 20200302 RR  - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
-20200302 RR  - I feel Cold, can you please close the window? - mir ist kalt, kannst du bitte das fenster zumachen?
+20200302 RR  - to me is cold, can you please close the window?- mir ist kalt, kannst du bitte das fenster zumachen?
 20200302 RR  - the patience - die geduld
 20200302 RR  - please have patienceF - haben sie bitte geduld!
-20200302 RR  - sind  _in order_ - seien sie
+20200302 RR  - sind _IN ORDER_FORMAL- seien sie
 20200302 RR  - please be quietF - seien sie bitte leise!
 20200302 RR  - go immediatly home! - geh sofort nach hause!
 20200302 RR  - last year - letztes jahr
