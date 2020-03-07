@@ -788,7 +788,7 @@
 20200226 - come along with - mitkommen
 20200226 - we go to the school, do you come along? - wir gehen zur schule, kommst du mit?
 20200226 - pick someone_something up - abholen
-20200226 - can you pick me up at 18 ? - kannst du mich um achtzehn Uhr abhoren?
+20200226 - can you pick me up at 18?- kannst du mich um achtzehn Uhr abhoren?
 20200226 - leave_depart - abfahren
 20200226 - the train leaves at 7 - der zug fährt um sieben Uhr ab
 20200226 - arrive - ankommen
@@ -799,7 +799,7 @@
 20200226 - to go shopping_ - einkaufen_
 20200226 - on the week end we go shopping in the city - Am wochenende kaufen wir in der stadt ein
 20200226 - to watch tv_ - fernsehen_
-20200226 - peter and maria watch tv in then evening always- peter und maria sehen am abend immer fern
+20200226 - peter and maria watch tv in the evening always- peter und maria sehen am abend immer fern
 20200226 - call_phone - anrufen
 20200226 - can you call me today evening? - kannst du mich heute Abend anrufen?
 20200226 - invite - einladen
@@ -1003,12 +1003,12 @@
 20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200302 RR  - i want - ich will
 20200302 RR  - you want P - ihr wolt
-20200302 RR  - can you pick me up at 18 ? - kannst du mich um achtzehn uhr abholen?
+20200302 RR  - can you pick me up at 18?- kannst du mich um achtzehn uhr abholen?
 20200302 RR  - the train leaves at 7 - der zug fährt um sieben uhr ab
 20200302 RR  - start - anfangen
 20200302 RR  - the class begins at 13 - der unterricht fängt  um dreizehn uhr an
 20200302 RR  - on the week end we go shopping in the city - am wochenende kaufen wir in der stadt ein
-20200302 RR  - peter and maria watch tv in then evening always- peter und maria sehen am abend immer fern
+20200302 RR  - peter and maria watch tv in the evening always- peter und maria sehen am abend immer fern
 20200302 RR  - can you call me today evening? - kannst du mich heute abend anrufen?
 20200302 RR  - invite - einladen
 20200302 RR  - the wedding - die hochzeit

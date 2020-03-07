@@ -143,7 +143,8 @@ then
 	read e_corr
 	sed -i "s/$EEo/ $e_corr/" $org_file
                         sed -i "s/$EEo/ $e_corr/" $c_file
-
+v=continue
+continue
 elif [ "$dd" == "e" ] || [ "$dd" == "ed" ]
 then
 
@@ -158,6 +159,8 @@ tput setaf 4
                         sed -i "s/$DDo/ $k/" $org_file
                         sed -i "s/$DDo/ $k/" $c_file
                 fi
+		v=continue
+		continue
 
 else
         
