@@ -945,7 +945,7 @@
 20200229 RR  - cooking - kochen
 20200229 RR  - dancing - tanzen
 20200229 RR  - how is it going with youF?C - wie geht es ihnen?
-20200229 RR  - it is going bad - es geht schecht
+20200229 RR  - it is going bad - mir geht es schlecht
 20200229 RR  - and youF? - und ihnen?
 20200229 - because - denn
 20200229 RR  - do you play footballF? - spielen sie fußball?
@@ -953,7 +953,7 @@
 20200229 RR  - Mr müller, where do you live? - herr müller, wo wohnen sie?
 20200229 RR  - we have a car - wie haben ein auto
 20200229 RR  - my parents have a dog - meine eltern haben einen hund
-20200229 RR  - my neighbor is nice - meine nachbar ist nette
+20200229 RR  - my neighbor is nice - mein nachbar ist nette
 20200229 RR  - regular verbs stamn plus 'e,st,t,en,t,en' except end with ß,z so :st: became :t:, end with t,d :st: became :est: , :t: became :et: N - hfgdhs
 20200229 RR  - you give - du gibst
 20200229 RR  - you read - du liest
@@ -976,7 +976,7 @@
 20200229 RR  - my car is expensive but your  bike is cheap - mein auto ist teuer aber dein fahrrad ist billig
 20200229 RR  - the thing - die sache
 20200229 RR  - stuff-die sachen
-20200229 RR  - the apple is red - der apfel ist rut
+20200229 RR  - the apple is red - der apfel ist rot
 20200229 RR  - julia loves her mann - julia liebt ihren mann
 20200229 RR  - i love my husband - ich leibe meinen mann
 20200229 RR  - to visit - besuchen
