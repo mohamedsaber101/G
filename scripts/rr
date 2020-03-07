@@ -25,8 +25,10 @@ then
 while [ $co -eq 1 ]
 do
 	clear
-
-r=$(( ( RANDOM % random_l )  + 1 ))
+	if [ $er -eq 0 ]
+	then
+             r=$(( ( RANDOM % random_l )  + 1 ))
+        fi
 if  [ "$r" -eq "$random_l" ]
 
 	then 
@@ -50,6 +52,7 @@ echo
 
 if [ "$er" == 1 ]
 then
+
 	tput setaf 5
 	echo "XXX   $dd    XXX"
 fi
@@ -105,11 +108,15 @@ echo
 echo '-----------------------'
 if [ "$er" == 1 ]
 then
-        tput setaf 5
+        tput setaf 4
+	echo "YYY  $DDo    YYY"
+	tput setaf 5
+
         echo "XXX   $dd    XXX"
 fi
 tput setaf 3
 echo
+corr=$dd
 read -e dd
 d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
 echo $DDo
@@ -125,17 +132,19 @@ then
 	break
 
 
-elif [ "$D" == "e" ]
+elif [ "$dd" == "e" ]
 then
 
 tput setaf 4
-                echo "==  $dd  =="
+                echo "==  $corr  =="
                 read k
                 if [ "$k" == "" ]
                 then
-                        sed -i "s/$DDo/ $dd/" $org_file
+                        sed -i "s/$DDo/ $corr/" $org_file
+                        sed -i "s/$DDo/ $corr/" $c_file
                 else
                         sed -i "s/$DDo/ $k/" $org_file
+                        sed -i "s/$DDo/ $k/" $c_file
                 fi
 
 else

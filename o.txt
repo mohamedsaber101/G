@@ -734,7 +734,7 @@
 20200225 - what time is it now? -wie spät ist es jetzt
 20200225 - how long - wie lange
 20200225 - how long do you stay with me? -wie lange bleibst du bie mir
-20200225 - i stay 5 days with you - ich bleibe fünf tage bei mir
+20200225 - i stay 5 days with you - ich bleibe fünf tage mit dir
 20200225 - how long does it take to - Wie lange dauert es zu
 20200225 - how often do you go to the cinema? - wie oft gehst du ins kino?
 20200225 - i go sometimes to the cinema - ich gehe manchmal ins kino
@@ -998,7 +998,7 @@
 20200302 RR  - i have a meeting in the evening - ich habe ein treffen am abend
 20200302 RR  - i have a meeting in April - ich habe ein treffen im april
 20200302 RR  - i learn german since two years - ich lerne deutsch seit zwei jahren
-20200302 RR  - i stay 5 days with you - ich bleibe fünf tage bei mir
+20200302 RR  - i stay 5 days with you - ich bleibe fünf tage mit dir
 20200302 RR  - how long does it take to - wie lange dauert es zu
 20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200302 RR  - i want - ich will
