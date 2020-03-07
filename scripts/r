@@ -1,0 +1,95 @@
+#!/bin/bash
+ok_sound=/home/q/alerts/glass.ogg
+err_sound=/home/q/alerts/sonar.ogg
+
+org_file=/m/Desktop/G/o.txt
+Common_file=/m/Desktop/G/common.txt
+c_file=/tmp/c
+till=/home/q/tmp/till
+echo " a script to recall saved phrases, words that was colected by s script, Just r DATE"
+read -e hki
+
+if [ $1 ]
+then
+grep "$1" $org_file > $c_file
+
+cd=`date '+%Y%m%d'`
+grep "$cd" $till >/tmp/e  2>&1
+if [ $? -eq 0 ]
+then
+	grep "$1" /tmp/e 1>/dev/null 2>/dev/null
+	if [ $? -eq 0 ]
+	then
+		c=`tail -1 /tmp/e|cut -d":" -f1`
+	else
+		c=1
+	fi
+
+	else
+		c=1
+fi
+for line in $(seq `wc -l $c_file|cut -d" " -f1`)
+do
+EE=`sed -n ${c}p $c_file |cut -d'-' -f2`
+DDo=`sed -n ${c}p $c_file |cut -d'-' -f3`
+DD=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'`
+D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+if [ "$D" == "" ]
+then 
+	c=$((c+1))
+	continue
+fi
+tput setaf 2
+echo $EE
+echo
+tput setaf 3
+read -e dd
+d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+echo
+if [ "$d" == "$D" ]
+then
+	play $ok_sound 1>/dev/null 2>&1 &
+	sleep 0.2
+	true
+
+
+elif [ "$d" == C ]
+then 
+	echo "`date '+%Y%m%d'` CC  -$EE-$DD" >> $Common_file
+	c=$((c - 1 ))
+elif [ "$d" == w ]
+then
+        echo $EE-$DD
+	read -e f
+else
+
+	play $err_sound 1>/dev/null 2>&1 &
+	sleep 0.2
+	echo $DD
+	read -e j
+	if [ "$j" == "s" ]
+	then
+		play $ok_sound 1>/dev/null 2>&1 &
+		true
+        elif [ "$j" == e ]
+        then 
+		tput setaf 4
+		echo "==  $dd  ==" 
+		read k
+		if [ "$k" == "" ]
+		then
+			sed -i "s/$DDo/ $dd/" $org_file
+		else
+			sed -i "s/$DDo/ $k/" $org_file
+		fi
+	else
+	echo "`date '+%Y%m%d'` RR  -$EE-$DD" >> $org_file
+fi
+
+fi
+echo `grep -in "$DD" $c_file`_$cd  > /home/q/tmp/till 2>/dev/null
+clear
+c=$((c+1))
+done 
+
+fi

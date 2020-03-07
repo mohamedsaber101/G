@@ -1,0 +1,121 @@
+#!/bin/bash
+random_file=/tmp/random_$1
+ok_sound=/home/q/alerts/glass.ogg
+err_sound=/home/q/alerts/sonar.ogg
+rm -rf $random_file
+org_file=/m/Desktop/G/o.txt
+Common_file=/m/Desktop/G/common.txt
+c_file=/tmp/c
+echo " a script to recall saved phrases, words that was colected by s script, Just r DATE"
+read -e hki
+
+if [ $1 ]
+then
+grep "$1" $org_file > $c_file
+
+cd=`date '+%Y%m%d'`
+c=1
+for line in $(seq `wc -l $c_file|cut -d" " -f1`)
+do
+random_l=`wc -l $random_file|cut -d" " -f1`
+if [ "$random_l" -ge 2 ]
+then
+	co=1
+while [ $co -eq 1 ]
+do
+	clear
+
+r=$(( ( RANDOM % random_l )  + 1 ))
+if  [ "$r" -eq "$random_l" ]
+
+	then 
+	 continue
+	fi
+
+EEo=`sed -n ${r}p $random_file |cut -d'-' -f1`
+DDo=`sed -n ${r}p $random_file |cut -d'-' -f2`
+DD=`sed -n ${r}p $random_file |cut -d'-' -f2|tr '[[:upper:]]' '[[:lower:]]'`
+D=`sed -n ${r}p $random_file |cut -d'-' -f2|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+
+
+##############
+tput setaf 2
+echo $EEo
+echo
+tput setaf 3
+echo
+echo '------ ***  RANDOM  *** -----------------'
+echo
+read -e dd
+d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+echo $DDo
+if [ "$d" == "$D" ] || [ "$d" == "s" ]
+then
+
+play $ok_sound 1>/dev/null 2>&1 &
+co=0
+
+else
+	play $err_sound 1>/dev/null 2>&1 &
+        
+fi
+
+
+
+
+
+
+done
+fi
+###########################
+	clear
+	
+EE=`sed -n ${c}p $c_file |cut -d'-' -f2`
+DDo=`sed -n ${c}p $c_file |cut -d'-' -f3`
+DD=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'`
+D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+if [ "$D" == "" ]
+then 
+	c=$((c+1))
+	continue
+fi
+v=continue
+	while [ "$v" == "continue" ]
+	do
+		clear
+tput setaf 2
+echo $EE
+echo
+tput setaf 3
+echo $DDo
+echo
+echo '-----------------------'
+echo
+read -e dd
+d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+echo $DDo
+if [ "$d" == "$D" ] || [ "$d" == "s" ]
+then
+	play $ok_sound 1>/dev/null 2>&1 &
+	sleep 0.2
+	true
+	c=$((c + 1))
+	
+        echo $EE - $DDo >> $random_file
+	v=break
+	break
+
+
+else
+        
+
+	play $err_sound 1>/dev/null 2>&1 &
+        v=continue
+	continue
+
+fi
+clear
+c=$((c+1))
+done 
+done
+fi

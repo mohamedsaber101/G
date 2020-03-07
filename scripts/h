@@ -1,0 +1,7 @@
+#!/bin/bash
+file=/home/q/o
+#echo "a script to search cHeck for certqain wor or phrase in file   $output"
+if [ $1 ]
+then
+cat $file|grep -i "$1" 
+fi

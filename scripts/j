@@ -1,0 +1,42 @@
+#!/bin/bash
+org_file=/home/q/o
+c_file=/tmp/c
+
+if [ $1 ]
+then
+grep "$1" $org_file > $c_file
+
+
+c=1
+for line in $(seq `wc -l $c_file|cut -d" " -f1`)
+do
+	clear
+E=`sed -n ${c}p $c_file |cut -d'-' -f2`
+D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'`
+while true
+do
+echo -n "$E >  "
+read d
+if [ " $d" == "$D" ]
+then
+	break
+else
+
+	        echo
+		echo $E-$D
+		read k
+		if [ "$k" == "s" ]
+		then
+			break
+		fi
+                clear
+	        continue
+	        
+
+fi
+clear
+done
+c=$((c+1))
+done 
+
+fi

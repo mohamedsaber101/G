@@ -1,0 +1,40 @@
+#!/bin/bash
+
+#output file to be saved in in the form of D  --- E
+output=/home/q/o
+echo "script tp input words, phrases to be saved in a file $output "
+read k
+
+
+
+while true
+do
+	clear
+tput setaf 2
+echo -n 'D --> ' 
+tput setaf 3
+read -r D
+clear
+grep -i "\- $D$" $output 1>/dev/null 2>&1
+if [ $? -eq 0 ]
+then
+	echo `grep -i "\- $D$" $output|cut -d"-" -f2,3|head -1`
+	read h
+	continue
+fi
+
+echo -n "$D "
+tput setaf 2
+echo -n "-->> " 
+tput setaf 4
+#echo -n 
+read -r E
+
+echo "`date '+%Y%m%d'` - $E - $D" 
+read -n 1 -t 1 j
+if [ "$j" == "" ]
+then
+echo "`date '+%Y%m%d'` - $E - $D" >> $output
+cp -f $output /var
+fi
+done

@@ -1,0 +1,28 @@
+
+echo "USAGE: ./script SOURCE_DATE END_DATE"
+read k
+/home/q/gsh $1 $2
+cd /m/Desktop/G
+cp o_latest.txt /tmp/
+cd
+scp /tmp/o_latest.txt q@192.168.11.3:
+last_number=`wc -l /tmp/o_latest.txt |cut -d" " -f1`
+last_number_formatted=$(printf "%05d" $last_number)
+echo COPIED!!
+echo
+echo Go to ubuntu, execute /home/q/im_s
+read j
+while true
+do
+ssh q@192.168.11.3 "ps -ef"|grep im_s
+if [ $? -eq 0 ]
+then
+break
+fi
+sleep 2
+done
+rm /m/Desktop/G/G_images/*
+scp -r q@192.168.11.3:G_images /m/Desktop/G/
+
+echo Copied Images to /m/Desktop/G/G_images
+
