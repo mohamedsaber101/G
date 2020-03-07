@@ -799,7 +799,7 @@
 20200226 - to go shopping_ - einkaufen_
 20200226 - on the week end we go shopping in the city - Am wochenende kaufen wir in der stadt ein
 20200226 - to watch tv_ - fernsehen_
-20200226 - peter and maria always watch tv in the evening - peter und maria sehen am abend immer fern
+20200226 - peter and maria watch tv in then evening always- peter und maria sehen am abend immer fern
 20200226 - call_phone - anrufen
 20200226 - can you call me today evening? - kannst du mich heute Abend anrufen?
 20200226 - invite - einladen
@@ -1008,7 +1008,7 @@
 20200302 RR  - start - anfangen
 20200302 RR  - the class begins at 13 - der unterricht fängt  um dreizehn uhr an
 20200302 RR  - on the week end we go shopping in the city - am wochenende kaufen wir in der stadt ein
-20200302 RR  - peter and maria always watch tv in the evening - peter und maria sehen am abend immer fern
+20200302 RR  - peter and maria watch tv in then evening always- peter und maria sehen am abend immer fern
 20200302 RR  - can you call me today evening? - kannst du mich heute abend anrufen?
 20200302 RR  - invite - einladen
 20200302 RR  - the wedding - die hochzeit
