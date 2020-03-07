@@ -21,6 +21,7 @@ random_l=`wc -l $random_file|cut -d" " -f1`
 if [ "$random_l" -ge 2 ]
 then
 	co=1
+	er=0
 while [ $co -eq 1 ]
 do
 	clear
@@ -44,8 +45,17 @@ echo $EEo
 echo
 tput setaf 3
 echo
-echo '------ ***  RANDOM  *** -----------------'
+echo "------ ***  RANDOM  $r  *** -----------------"
 echo
+
+if [ "$er" == 1 ]
+then
+	tput setaf 5
+	echo "XXX   $dd    XXX"
+fi
+tput setaf 3
+
+echo 
 read -e dd
 d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
 echo $DDo
@@ -56,6 +66,8 @@ play $ok_sound 1>/dev/null 2>&1 &
 co=0
 
 else
+	
+	er=1
 	play $err_sound 1>/dev/null 2>&1 &
         
 fi
@@ -80,6 +92,7 @@ then
 	continue
 fi
 v=continue
+er=0
 	while [ "$v" == "continue" ]
 	do
 		clear
@@ -90,6 +103,12 @@ tput setaf 3
 echo $DDo
 echo
 echo '-----------------------'
+if [ "$er" == 1 ]
+then
+        tput setaf 5
+        echo "XXX   $dd    XXX"
+fi
+tput setaf 3
 echo
 read -e dd
 d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
@@ -106,10 +125,24 @@ then
 	break
 
 
+elif [ "$D" == "e" ]
+then
+
+tput setaf 4
+                echo "==  $dd  =="
+                read k
+                if [ "$k" == "" ]
+                then
+                        sed -i "s/$DDo/ $dd/" $org_file
+                else
+                        sed -i "s/$DDo/ $k/" $org_file
+                fi
+
 else
         
 
 	play $err_sound 1>/dev/null 2>&1 &
+	er=1
         v=continue
 	continue
 
