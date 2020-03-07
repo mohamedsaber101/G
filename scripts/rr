@@ -6,7 +6,7 @@ rm -rf $random_file
 org_file=/m/Desktop/G/o.txt
 Common_file=/m/Desktop/G/common.txt
 c_file=/tmp/c
-echo " a script to recall saved phrases, words that was colected by s script, Just r DATE"
+echo " a script FOR JUST REVISING, to recall saved phrases, words that was colected by s script, Just r DATE "
 read -e hki
 
 if [ $1 ]
