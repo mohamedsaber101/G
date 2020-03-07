@@ -639,7 +639,7 @@
 20200224 - who are you? I dont know you - wer bist du? ich kenne dich nicht
 20200224 - him - ihn
 20200224 - he is peter, do you know him? - er ist peter, kennest du ihn?
-20200224 - her "Dative" - sie
+20200224 - her "Akkus" - sie
 20200224 - this is julia, i find her very beautiful - das ist julia, ich finde sie sehr schön
 20200224 - it Dative - es
 20200224 - this is my book, i find it interresting - das is mein Buch, ich finde es interessant
@@ -990,7 +990,7 @@
 20200301 RR  - any wish else C- noch einen wunsch
 20200301 RR  - we would like to pay please - wie möchten zahlen bitte
 20200301 RR  - who are you? I dont know you - wer bist du? ich kenne dich nicht
-20200301 RR  - her "Dative" - sie
+20200301 RR  - her "AKKUS" - sie
 20200301 RR  - he brings the food to children -er bringt den kindern das essen
 20200301 RR  - the 12th - der zwölfte
 20200302 RR  - when have you birthday? -wann hast du geburtstag?
