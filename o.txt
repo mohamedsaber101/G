@@ -604,7 +604,7 @@
 20200224 - the menu O - die speisekarte
 20200224 - the menus O - die speisekarten
 20200224 - in the restaurant - im restaurant
-20200224 - good day, we want a table for 2 persons - guten tag, wie wollen einen tisch für zwei personen
+20200224 - good day, we want a table for 2 persons - guten tag  wir wollen ein tisch für zwei personen
 20200224 - do you have a reservation?F - haben sie reserviert?
 20200224 - yes, of the name john - ja, auf den namen john
 20200224 - want - wollen
@@ -613,7 +613,7 @@
 20200224 - please take a seatF - bitte nehmen sie platz
 20200224 - here - hier
 20200224 - here is the menu - hier ist die speisekarte
-20200224 - what would you like to drink?F - was möchte sie trinken?
+20200224 - what would you like to drink?F - was möchten sie trinken
 20200224 - i would like one colaC - ich möchte gern eine cola
 20200224 - i would have a juice - ich hätter gern einen saft
 20200224 - the juice - der saft
@@ -631,7 +631,7 @@
 20200224 - wish - wunsch
 20200224 - any wish else C- noch einen wunsch
 20200224 - to pay please - zahlen bitte
-20200224 - we would like to pay please - wie möchten zahlen bitte
+20200224 - we would like to pay please - wir möchten zahlen bitte
 20200224 - me - mich
 20200224 - know somebody - kennen
 20200224 - i am saber, do  you know me? - ich bin saber, kennest du mich?
@@ -981,14 +981,14 @@
 20200229 RR  - i love my husband - ich leibe meinen mann
 20200229 RR  - to visit - besuchen
 20200301 RR  - To order - bestellen
-20200301 RR  - good day, we want a table for 2 persons - guten tag, wie wollen einen tisch für zwei personen
-20200301 RR  - what would you like to drink?F - was möchte sie trinken?
+20200301 RR  - good day, we want a table for 2 persons - guten tag  wir wollen ein tisch für zwei personen
+20200301 RR  - what would you like to drink?F - was möchten sie trinken
 20200301 RR  - i would like one colaC - ich möchte gern eine cola
 20200301 RR  - to would have - hätten
 20200301 RR  - what woul you have at eating? - was hätten sie zum essen?
 20200301 RR  - wish - wunsch
 20200301 RR  - any wish else C- noch einen wunsch
-20200301 RR  - we would like to pay please - wie möchten zahlen bitte
+20200301 RR  - we would like to pay please - wir möchten zahlen bitte
 20200301 RR  - who are you? I dont know you - wer bist du? ich kenne dich nicht
 20200301 RR  - her "AKKUS" - sie
 20200301 RR  - he brings the food to children -er bringt den kindern das essen
@@ -1401,3 +1401,6 @@
 20200307 RR  - the chef fem - die köchin
 20200307 RR  - because - weil
 20200307 RR  - regular verbs stamn plus 'e,st,t,en,t,en' except end with ß,z so :st: became :t:, end with t,d :st: became :est: , :t: became :et: N - hfgdhs
+20200307 RR  - i would like one colaC - ich möchte gern eine cola
+20200307 RR  - what woul you have at eating? - was hätten sie zum essen?
+20200307 - else_ - noch_
