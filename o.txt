@@ -1400,3 +1400,4 @@
 20200307 RR  - the fox - der fuchs
 20200307 RR  - the chef fem - die köchin
 20200307 RR  - because - weil
+20200307 RR  - regular verbs stamn plus 'e,st,t,en,t,en' except end with ß,z so :st: became :t:, end with t,d :st: became :est: , :t: became :et: N - hfgdhs
