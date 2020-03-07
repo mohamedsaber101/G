@@ -98,6 +98,10 @@ v=continue
 er=0
 	while [ "$v" == "continue" ]
 	do
+EE=`sed -n ${c}p $c_file |cut -d'-' -f2`
+DDo=`sed -n ${c}p $c_file |cut -d'-' -f3`
+DD=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'`
+D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
 		clear
 tput setaf 2
 echo $EE

@@ -1003,9 +1003,9 @@
 20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200302 RR  - i want - ich will
 20200302 RR  - you want P - ihr wolt
-20200302 RR  - can you pick me up at 18 ? - kannst du mich um achtzehn uhr abhoren?
+20200302 RR  - can you pick me up at 18 ? - kannst du mich um achtzehn uhr abholen?
 20200302 RR  - the train leaves at 7 - der zug fährt um sieben uhr ab
-20200302 RR  - begin - anfangen
+20200302 RR  - start - anfangen
 20200302 RR  - the class begins at 13 - der unterricht fängt  um dreizehn uhr an
 20200302 RR  - on the week end we go shopping in the city - am wochenende kaufen wir in der stadt ein
 20200302 RR  - peter and maria always watch tv in the evening - peter und maria sehen am abend immer fern
