@@ -877,7 +877,7 @@
 20200227 - the trash bin - die mülltone
 20200227 - on monday we must empty the trash bin - am montag müssen wir die mülltonne entleeren
 20200227 - to tell - erzählen
-20200227 - my grandfather tells interessting stories - mein großvatter erzählt interessante geschichten
+20200227 - my grandfather tells interessting stories - mein großvater erzählt interessante geschichten
 20200227 - the stories - die geschichten
 20200227 - belong - gehören
 20200227 - this watch belongs to me -das uhr gehört mir
@@ -1036,7 +1036,7 @@
 20200302 RR  - my son discovers every day something new - mein sohn entdeckt jeden tag etwas neues
 20200302 RR  - the trash bin - die mülltone
 20200302 RR  - to tell - erzählen
-20200302 RR  - my grandfather tells interessting stories - mein großvatter erzählt interessante geschichten
+20200302 RR  - my grandfather tells interessting stories - mein großvater erzählt interessante geschichten
 20200302 RR  - the stories - die geschichten
 20200302 RR  - belong - gehören
 20200302 RR  - to sell - verkaufen

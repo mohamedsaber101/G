@@ -60,7 +60,7 @@ tput setaf 3
 
 echo 
 read -e dd
-d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'|sed 's/!//g'`
+d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'|sed 's/\!//g'`
 echo $DDo
 if [ "$d" == "$D" ] || [ "$d" == "s" ]
 then
@@ -68,6 +68,9 @@ then
 play $ok_sound 1>/dev/null 2>&1 &
 co=0
 
+elif [ "$d" == c ]
+then
+	continue
 else
 	
 	er=1
@@ -88,7 +91,7 @@ fi
 EE=`sed -n ${c}p $c_file |cut -d'-' -f2`
 DDo=`sed -n ${c}p $c_file |cut -d'-' -f3`
 DD=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'`
-D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+D=`sed -n ${c}p $c_file |cut -d'-' -f3|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'|sed 's/\!//g'`
 if [ "$D" == "" ]
 then 
 	c=$((c+1))
