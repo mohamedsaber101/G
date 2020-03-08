@@ -9,15 +9,31 @@ c_file=/tmp/c
 echo " a script FOR JUST REVISING, to recall saved phrases, words that was colected by s script, Just r DATE "
 read -e hki
 
+
+
 if [ $1 ]
 then
 grep "$1" $org_file > $c_file
 
 cd=`date '+%Y%m%d'`
 c=1
+clear
+echo Specific Line? [Y]/n
+echo
+read -e sl
+if [ $sl == n ]
+then
+	true
+else
+	cat -n /tmp/c
+	echo
+	echo '-----  Which Line? -----'
+	read -e c
+fi
+
 for line in $(seq `wc -l $c_file|cut -d" " -f1`)
 do
-random_l=`wc -l $random_file|cut -d" " -f1`
+random_l=`wc -l $random_file|cut -d" " -f1` 2>/dev/null
 if [ "$random_l" -ge 2 ]
 then
 	co=1
@@ -86,7 +102,7 @@ fi
 done
 fi
 ###########################
-	clear
+clear
 	
 EE=`sed -n ${c}p $c_file |cut -d'-' -f2`
 DDo=`sed -n ${c}p $c_file |cut -d'-' -f3`
