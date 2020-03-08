@@ -919,7 +919,7 @@
 20200227 - i hurt myself - ich habe mich verletzt
 20200227 - hurt or injury - verletzen
 20200227 - i hurt my leg - ich habe mich am bein verletzt
-20200227 - i hurt my finger - ich habe mich  am finger hurt
+20200227 - i hurt my finger - ich habe mich am finger verletzt
 20200227 - i hurt my hand - ich habe mich an der hand verletzt
 20200227 - break - brochen
 20200227 - i have my leg broken - ich habe mir das bein gebrochen
@@ -1056,7 +1056,7 @@
 20200302 RR  - i hurt myself - ich habe mich verletzt
 20200302 RR  - hurt or injury - verletzen
 20200302 RR  - i hurt my leg - ich habe mich am bein verletzt
-20200302 RR  - i hurt my finger - ich habe mich  am finger hurt
+20200302 RR  - i hurt my finger - ich habe mich am finger verletzt
 20200302 RR  - i hurt my hand - ich habe mich an der hand verletzt
 20200302 RR  - i have my leg broken - ich habe mir das bein gebrochen
 20200302 RR  - i have my arm broken - ich habe mir den arm gebrochen
@@ -1064,7 +1064,7 @@
 20200302 RR  - make a diet - mach eine diät
 20200302 - at the end - am ende
 20200302 - i am eating a salad - ich esse einen salat
-20200302 - I have eaten a salat - och habe einen salat gegessen
+20200302 - I have eaten a salat - ich habe einen salat gegessen
 20200302 - we drive to berlin - wir fahren nach berlin
 20200302 - we have driven last week to paris - wir sind letzte woche nach paris gefahren
 20200302 - he is playing with his dog - er spielt mit seinem hund
