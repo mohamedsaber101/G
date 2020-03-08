@@ -828,7 +828,7 @@
 20200227 - the day before yesterday - vorgestern
 20200227 - last year - letztes jahr
 20200227 - last week - letzte woche
-20200227 - afew days ago - vor ein paar tagen
+20200227 - before afew days__afew days ago- vor ein paar tagen
 20200227 - had - hatten
 20200227 - i had - ich hatte
 20200227 - you had - du hattest
@@ -1020,7 +1020,7 @@
 20200302 RR  - please be quietF - seien sie bitte leise!
 20200302 RR  - go immediatly home! - geh sofort nach hause!
 20200302 RR  - last year - letztes jahr
-20200302 RR  - afew days ago - vor ein paar tagen
+20200302 RR  - before afew days__afew days ago- vor ein paar tagen
 20200302 RR  - had - hatten
 20200302 RR  - he had - er hatte
 20200302 RR  - they had - sie hatten
@@ -1408,3 +1408,4 @@
 20200308 RR  - how long does it take to - wie lange dauert es zu
 20200308 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200308 RR  - i want - ich will
+20200308 - the year - das jahr

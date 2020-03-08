@@ -60,7 +60,7 @@ tput setaf 3
 
 echo 
 read -e dd
-d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
+d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'|sed 's/!//g'`
 echo $DDo
 if [ "$d" == "$D" ] || [ "$d" == "s" ]
 then
@@ -140,7 +140,7 @@ then
 elif [ "$dd" == "ee" ]
 then
 	echo "==- $EEo -=="
-	read e_corr
+	read -e e_corr
 	sed -i "s/$EEo/ $e_corr/" $org_file
                         sed -i "s/$EEo/ $e_corr/" $c_file
 v=continue
@@ -150,7 +150,7 @@ then
 
 tput setaf 4
                 echo "==  $corr  =="
-                read k
+                read -e k
                 if [ "$k" == "" ]
                 then
                         sed -i "s/$DDo/ $corr/" $org_file
