@@ -1123,7 +1123,7 @@
 20200302 - aufwachen 2 - ist aufgewacht
 20200302 - grow - wachsen
 20200302 - wachsen 2 - ist gewachsen
-20200302 - verstehen 2 - ist aufstanden
+20200302 - verstehen 2 - ist verstanden
 20200302 - bleiben 2 - ist geblieben
 20200302 - i have stayed in last week in paris - ich bin letzte woche in paris geblieben
 20200302 - where were you yesterday - wo warst du gestern
