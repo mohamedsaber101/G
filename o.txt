@@ -1413,3 +1413,21 @@
 20200310 RR  - discover - entdecken
 20200310 RR  - the trash bin - die mülltone
 20200310 RR  - to tell - erzählen
+20200310 RR  - the stories - die geschichten
+20200310 RR  - to destroy - zerstören
+20200310 RR  - the cough - der husten
+20200310 RR  - i hurt my leg - ich habe mich am bein verletzt
+20200310 RR  - i hurt my finger - ich habe mich am finger verletzt
+20200310 RR  - the advice - der ratschlag
+20200310 RR  - anrufen 2 - angerufen
+20200310 RR  - i was ill , i must have to go to the doctor - ich war krank ich musste zum arzt gehen
+20200310 RR  - on friday we have gone to the cinema - am freitag sind wir ins kino gegangen
+20200310 RR  - you have gone P - ihr seid gegangen
+20200310 RR  - kaufen 2 - hat gekauft
+20200310 RR  - he has bought a new car - er hat ein neues auto gekauft
+20200310 RR  - rain - regen
+20200310 RR  - start - losgehen
+20200310 RR  - laufen 2 - ist gelaufen
+20200310 RR  - die - sterben
+20200310 RR  - maria has fallen a sleep in the class - maria ist im unterricht geschlafen
+20200310 RR  - wake up - aufwachen
