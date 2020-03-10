@@ -1125,7 +1125,7 @@
 20200302 - wachsen 2 - ist gewachsen
 20200302 - verstehen 2 - ist verstanden
 20200302 - bleiben 2 - ist geblieben
-20200302 - i have stayed in last week in paris - ich bin letzte woche in paris geblieben
+20200302 - i have stayed last week in paris- ich bin letzte woche in paris geblieben
 20200302 - where were you yesterday - wo warst du gestern
 20200302 - happen - passiert
 20200302 - passiert 2 - ist passiert
@@ -1409,3 +1409,7 @@
 20200308 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
 20200308 RR  - i want - ich will
 20200308 - the year - das jahr
+20200310 RR  - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
+20200310 RR  - discover - entdecken
+20200310 RR  - the trash bin - die mülltone
+20200310 RR  - to tell - erzählen
