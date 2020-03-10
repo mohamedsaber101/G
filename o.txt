@@ -1431,3 +1431,11 @@
 20200310 RR  - die - sterben
 20200310 RR  - maria has fallen a sleep in the class - maria ist im unterricht geschlafen
 20200310 RR  - wake up - aufwachen
+20200310 - good bye - tchüs
+20200310 RR  - last year - letztes jahr
+20200310 RR  - you had - du hattest
+20200310 RR  - he had - er hatte
+20200310 RR  - she had - sie hatte
+20200310 RR  - it had - es hatte
+20200310 RR  - we had - wir hatten
+20200310 RR  - you had P - ihr hattet
