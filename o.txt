@@ -1134,7 +1134,7 @@
 20200302 - i have becomen today 29 - ich bin heute neunundzwanzig geworden
 20200303 - kochen 2 - hat gekocht
 20200303 - I have cooked yesterday for long - ich habe gestern lange gekocht
-20200303 - when have you fallen sleep yesterday? - wann bist du gestern eingeschlafen ?
+20200303 - when have you fallen sleep yesterday? - wann bist du gestern eingeschlafen
 20200303 - i have done the homework - ich habe die hausaufgeben gemacht
 20200303 - how long have you played yesterday football? - wie lange hast du gestern fußball gespielt?
 20200303 - lernen 2 - hat gelernt
