@@ -1195,7 +1195,7 @@
 20200303 - I have visited my OMa - ich habe meine Oma gesucht
 20200303 - spend - verbring
 20200303 - verbring 2 - vergebracht
-20200303 - we have spent with our family time - wir habe mit unserer familie zeit verbracht
+20200303 - we have spent with our family time - wir haben mit unserer familie zeit vergebracht
 20200303 - run - rennen
 20200303 - rennen 2 - gerannt
 20200303 - i have run every day much - ich bin jeden tag viel gerannt
