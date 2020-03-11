@@ -1177,7 +1177,7 @@
 20200303 - visit - besichtigen
 20200303 - besichtigen 2 - hat besichtigen
 20200303 - in the vacation I was in paris+ - im urlaub war ich in paris
-20200303 - I have traveled with my family - ich habe mit miener familie gereist
+20200303 - - ich habe mit miener familie gereist
 20200303 - in the vacation I have stayed at home - im urlaub bin ich zu hause geblieben
 20200303 - where were you? - wo warst du?
 20200303 - with_to whom - wem

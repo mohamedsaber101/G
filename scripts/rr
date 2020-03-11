@@ -28,9 +28,9 @@ else
 	cat -n /tmp/c
 	echo
 	echo '-----  Which Line? -----'
-	read -e c
+	read -e ln
 fi
-
+c=1
 for line in $(seq `wc -l $c_file|cut -d" " -f1`)
 do
 random_l=`wc -l $random_file|cut -d" " -f1` 2>/dev/null
@@ -75,7 +75,12 @@ fi
 tput setaf 3
 
 echo 
+if [ "$ln" -gt "$c" ]
+then
+	dd=s
+else
 read -e dd
+fi
 d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'|sed 's/\!//g'`
 echo $DDo
 if [ "$d" == "$D" ] || [ "$d" == "s" ]
@@ -141,7 +146,13 @@ fi
 tput setaf 3
 echo
 corr=$dd
+if [ "$ln" -gt "$c" ]
+then
+        dd=s
+else
 read -e dd
+fi
+
 d=`echo $dd|tr '[[:upper:]]' '[[:lower:]]'|sed 's/\·//g'|sed 's/\∙//g'|sed 's/\.//g'|sed 's/\?//g'|sed 's/\,//g'|sed 's/ //g'`
 echo $DDo
 if [ "$d" == "$D" ] || [ "$d" == "s" ]
