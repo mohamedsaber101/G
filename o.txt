@@ -1441,3 +1441,17 @@
 20200310 RR  - you had P - ihr hattet
 20200312 - this Liked to me - das gefält mir
 20200312 - he liked to me - er gefält mir
+20200312 - the car liked to me - das auto gefält mir
+20200312 - this liked to me very good - das gefält mir sehr gut
+20200312 - I had alot of fun - ich hatte viel spaß
+20200312 - i find this awesome - ich finde das super
+20200312 - the dress - das kleid
+20200312 - how do you find my dress? - wie findest du mein kleid?
+20200312 - really - echt
+20200312 - i find this really beautiful - das finde ich echt schön
+20200312 - and my shoes - und meine schuhe
+20200312 - i find DIE also good - die find ich auch gut
+20200312 - dislike - missfallen
+20200312 - this not Liked to me good - das gefält mir nicht gut
+20200312 - this not liked to me at all - das gefält mir überhaupt nicht
+20200312 - i find this bad - das finde ich schlecht
