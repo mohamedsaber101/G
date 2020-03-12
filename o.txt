@@ -1158,8 +1158,8 @@
 20200303 - nehmen - hat genommen
 20200303 - einkauft 2 - hat eingekauft
 20200303 - have you shopped yesterday? - hast du gestern eingekauft?
-20200303 - aufstehen 2 - aufgestehen
-20200303 - maria has gooten up today late - maria ist heute spät aufgestehen
+20200303 - aufstehen 2 - aufgestanden
+20200303 - maria has gooten up today late - maria ist heute spät aufgestanden
 20200303 - zumachen 2 - hat zugemacht
 20200303 - mitkommen 2 - ist mitgekommen
 20200303 - fernsehen 2 - hat ferngesehen
