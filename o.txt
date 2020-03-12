@@ -1439,3 +1439,5 @@
 20200310 RR  - it had - es hatte
 20200310 RR  - we had - wir hatten
 20200310 RR  - you had P - ihr hattet
+20200312 - this Liked to me - das gefält mir
+20200312 - he liked to me - er gefält mir
