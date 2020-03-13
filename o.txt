@@ -1516,3 +1516,18 @@
 20200313 - Liked to youF this here? - Gefällt ihnen diese hier?
 20200313 - yes this Liked to me very much - Ja diese gefällt mir sehr
 20200313 - conversation begining - gespräch beginnen
+20200313 - the seller - der verkäufer
+20200313 - the seller FEM - die verkäuferin
+20200313 - the pants - die hose
+20200313 - good day You wish? - Guten Tag, sie wünschen?
+20200313 - I am looking for a pant - ich suche eine hose
+20200313 - the shirt - das hemd
+20200313 - I would have Gern a shirt for my father - ich hätte gern ein hemd für meinen vater
+20200313 - I need a Jacket - Ich brauche eine Jacke
+20200313 - the customer FEM would like to buy a pant - die kundin möchte eine Hose kaufen
+20200313 - how do you find F this here? - wie finden sie diese hier?
+20200313 - how Liked to you this here? - wie gefällt ihnen diese hier?
+20200313 - this Liked to me Good - diese gefällt mir gut
+20200313 - this Not Liked to me unfortunatelt - diese gefällt mir leider nicht
+20200313 - the color - die ferbe
+20200313 - the clolor not Liked to me unfortunatly, do you F have an other color? - die farbe gefällt mir leider nicht, haben sie vielleicht eine andere farbe?
