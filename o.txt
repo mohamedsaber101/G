@@ -1486,3 +1486,4 @@
 20200313 - about the yellow ones - von den gelben
 20200313 - this - dies
 20200313 - I find this dress very beautiful - ich finde dieses kleid sehr schön
+20200313 - I find that dress very beautiful - ich finde das kleid sehr schön
