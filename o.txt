@@ -1487,3 +1487,31 @@
 20200313 - this - dies
 20200313 - I find this dress very beautiful - ich finde dieses kleid sehr schön
 20200313 - I find that dress very beautiful - ich finde das kleid sehr schön
+20200313 - what do you make with this money? - was machst du mit diesem geld?
+20200313 - the actor - der schauspieler
+20200313 - famous - berühmt
+20200313 - this actor is very famous - dieser schauspieler ist sehr berühmt
+20200313 - how much costs this sweater - was kostet dieser pullover?
+20200313 - hwo do you find this sweater? - wie finden sie diesen pullover?
+20200313 - waht matches to this sweater - was passt zu diesem pullover?
+20200313 - this blouse is beutiful - diese bluse ist schön
+20200313 - how do you find this blose? - wie findest du diese bluse?
+20200313 - what matches to this blouse? - was passt zu dieser bluse?
+20200313 - this car Liked to me - dieses auto gefällt mir
+20200313 - how do you find this car? - wie findest du dieses auto?
+20200313 - do you want drive with this car? - willst du mit diesem auto fahren?
+20200313 - how much cost these shoes? - was kosten diese shuhe?
+20200313 - do you buy these shoes? - kaufst du diese shuhe?
+20200313 - in these shoes - in diesen schuhen
+20200313 - the man section 'CLOTHING' - die männerabteilung
+20200313 - the woman department - die frauenabteilung
+20200313 - the baby department - die babyabteilung
+20200313 - the children departent - die kinderabteilung
+20200313 - the fitting room - die anprobe
+20200313 - the dressing cabine - die umkleidekabine
+20200313 - soething to try - etwas anprobieren
+20200313 - good day can I help YouF? - guten tag kann ich ihnen helfen?
+20200313 -  need - brauchen
+20200313 - yes I need a jacket for the office - Ja ich brauche eine Jacke für das Büro
+20200313 - Liked to youF this here? - Gefällt ihnen diese hier?
+20200313 - yes this Liked to me very much - Ja diese gefällt mir sehr
