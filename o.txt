@@ -1252,7 +1252,7 @@
 20200303 - the customer Fem - die kundin
 20200303 - the customers - die kunden
 20200303 - The cashier MAS - der kassierer
-20200303 - the cashier FEm - die kassierin
+20200303 - the cashier FEm - die kassiererin
 20200303 - the section - die Abteilung
 20200303 - the receipt - der kassenbon
 20200303 - I come from the supermarket - ich komme vom supermarkt
