@@ -1239,7 +1239,7 @@
 20200303 - I drive to the sea - ich fahre ans meer
 20200303 - I go to the Janhstraße - ich gehe in die Jahnstraße
 20200303 - I go to the playing square - ich gehe zum spielplatz
-20200303 - I go to my grandmother - iche gehe zu meiner großmutter
+20200303 - I go to my grandmother - ich gehe zu meiner großmutter
 20200303 - I go to my child - ich gehe zu meinem kind
 20200303 - the supermarket - der supermarkt
 20200303 - the supermarkets - die supermärkte
