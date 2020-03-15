@@ -1345,12 +1345,12 @@
 20200304 - i must help my parents - ich muss meinen eltern helfen
 20200304 - the invitation - die einladung
 20200304 - someone invite - jemanden einladen
-20200304 - dear mat - leiber mat
+20200304 - dear mat - lieber mat
 20200304 - dear Julia - liebe julia
 20200304 - we are making a feas - wir machen Ein fest
 20200304 - I have my birthaday - ich habe geburtstag
 20200304 - I have my wedding - ich habe Hochzeitstag
-20200304 - my son has birthday - mein sohm hat geburtstag
+20200304 - my son has birthday - mein sohn hat geburtstag
 20200304 - I would like inviting you to the food - ich möchte dich zum essen einladen
 20200304 - we invite you - wir laden dich ein
 20200304 - I invite youP - ich lade euch ein
