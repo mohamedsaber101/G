@@ -1271,13 +1271,13 @@
 20200303 - the meat section - die fleischtheke
 20200303 - cleaning supplies - waschmittel
 20200303 - backs - backwaren
-20200303 - Drogerie - health_Beuaty
+20200303 - Health_Beauty- Drogerie
 20200303 - spices - Gewürzen
 20200303 - this makes €25.10 please - das macht fünfundzwanzig Euro zehn bitte
 20200303 - here please - hier bitte
-20200303 - have a nice day - einen shönen tag
+20200303 - have a nice day - einen schönen tag
 20200303 - You too - ebenso
-20200304 - teh weather - das wetter
+20200304 - the weather- das wetter
 20200304 - the sun - die sonne
 20200304 - the sky - der himmel
 20200304 - the rain - der regen

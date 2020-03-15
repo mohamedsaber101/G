@@ -134,7 +134,7 @@ echo
 tput setaf 3
 echo $DDo
 echo
-echo '-----------------------'
+echo "--------     $c    ---------------"
 if [ "$er" == 1 ]
 then
         tput setaf 4
