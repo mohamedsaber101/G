@@ -1559,3 +1559,4 @@
 20200318 - early - früh
 20200318 - Can I order tomorrow morning at 8 a taxi to the airport? - kann ich morgen früh um 8 uhr ein taxi zum flughafen bestellen?
 20200318 - I need please immediatly a taxi to the airport in Jahnstraße 4 - ich brauche bitte sofort ein taxi zum flughafen in die Jahnstraße vier
+20200318 - available - verfügbar
