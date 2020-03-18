@@ -1560,3 +1560,6 @@
 20200318 - Can I order tomorrow morning at 8 a taxi to the airport? - kann ich morgen früh um 8 uhr ein taxi zum flughafen bestellen?
 20200318 - I need please immediatly a taxi to the airport in Jahnstraße 4 - ich brauche bitte sofort ein taxi zum flughafen in die Jahnstraße vier
 20200318 - available - verfügbar
+20200318 - sorry, it no taxis are available - es tut mir leid , es sind keine taxis verfügbar
+20200318 - the taxi is on the way - das taxi ist auf dem weg
+20200318 - execuse me sir, are youF free? Can you drive me to the train station fahren? - entshuldigen sie, sind sie frei? können sie mich zum bahnhof fahren?
