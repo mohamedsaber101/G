@@ -1362,21 +1362,21 @@
 20200304 - Hopefully - hoffentlich
 20200304 - much greetings - viele Grüße
 20200304 - thanks very much for the invitation - vielen dank für die einladung
-20200304 - thanks for your invitation - danke für deine einladenung
+20200304 - thanks for your invitation - Danke für deine einladung
 20200304 - I come much pleasure - ich komme sehr gern
 20200304 - look forward to - freuen
 20200304 - I am looking forward very - ich freue mich sehr
 20200304 - I bring pleasure a cake - ich bringe gern einen kuchen mit
 20200304 - bring along - mitbringen
-20200304 - can I bring something - kan ich etwas mitbringen?
+20200304 - can I bring something - kann ich etwas mitbringen
 20200304 - can my friend come? - kann mein freund kommen?
 20200304 - till saturday - bis samstag
 20200304 - I have on Monday an exam - ich habe am montag eine prüfung
 20200304 - I have unfortunately no time - ich habe leider keine zeit
 20200304 - on saturday i must work - am samstag muss ich arbeiten
-20200304 - I wish you alot of fun - ich wünsche dir veil spaß
+20200304 - I wish to you much fun- ich wünsche dir viel spaß
 20200304 - fun - spaß
-20200304 - alot of fun of your party - viel spaß auf der party
+20200304 - alot of fun of the party- viel spaß auf der party
 20200304 - hopefully we see soon - hoffentlich sehen wir bald
 20200305 - at all - überhaupt
 20200306 - after a while - nach eine weile
@@ -1543,4 +1543,4 @@
 20200313 - she fits exactlx - sie passt genau
 20200313 - I take this - ich nehme diese
 20200313 - it is too small - es ist viel zu klein
-20200313 - do you have a number igger - haben sie eine nummer größer?
+20200313 - do you have a number bigger - haben sie eine nummer größer?

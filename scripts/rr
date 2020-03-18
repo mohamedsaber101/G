@@ -89,6 +89,17 @@ then
 play $ok_sound 1>/dev/null 2>&1 &
 co=0
 
+elif [ "$d" == "ph" ]
+then
+        echo
+	echo '-----------------------'
+	echo '-----------------------'
+	echo '-----------------------'
+	echo $DDo
+	echo '-----------------------'
+	echo '-----------------------'
+	read
+	continue
 elif [ "$d" == c ]
 then
 	continue
