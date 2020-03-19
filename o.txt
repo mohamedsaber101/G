@@ -1574,3 +1574,15 @@
 20200319 - about 20 minutes - etwa zwanzig minuten
 20200319 - I am in a hurry - ich habe es eilig
 20200319 - can youF please drive faster? - können sie bitte schneller fahren?
+20200319 - Does it bother you, when I close the window? - stört es sie, wenn ich das fenster zumache?
+20200319 - Does it bother you when I open the window? - stört es sie, wenn Ich das fenster aufmache?
+20200319 - Can youF please stop here? - können sie bitte hier anhalten?
+20200319 - stop F please at the entrance - Halten sie bitte am Eingang
+20200319 - Can youF stop at a bank machine? - können sie an einem bankautomaten anhalten?
+20200319 - can you drop me out there DA? - können sie mich da vorn rauslassen?
+20200319 - how much costs this? - wie viel kostet das?
+20200319 - EURO 15,50 - fünfzehn EURO fünfzig
+20200319 - Can I pay with the card? - kann ich mit der karte zahlen?
+20200319 - Can I please have a receipt? - kann ich bitte eine quittung haben?
+20200319 - do you want a receipt? - möchten sie eine quittung?
+20200319 - thanks rest is for youF - danke rest ist für sie
