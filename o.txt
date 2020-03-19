@@ -1563,3 +1563,14 @@
 20200318 - sorry, it no taxis are available - es tut mir leid , es sind keine taxis verfügbar
 20200318 - the taxi is on the way - das taxi ist auf dem weg
 20200318 - execuse me sir, are youF free? Can you drive me to the train station fahren? - entshuldigen sie, sind sie frei? können sie mich zum bahnhof fahren?
+20200319 - execuse me sir, could you bring me please to the airport ? - Entshuldigen sie, könnten sie mich bitte zum flughafen bringen?
+20200319 - to where do you want? - wohin möchten sie?
+20200319 - I want to the air port - ich möchte zum flughafen
+20200319 - to the citycentre - zum stadtzentrum
+20200319 - to the train station - zum Bahnhof
+20200319 - is the taxameter turned on? - ist das taxameter eingeschaltet?
+20200319 - turn on F please the taxameter - schalten sie bitte das taxameter ein!
+20200319 - how long does it take till there? - wie lange dauert es bis dahin?
+20200319 - about 20 minutes - etwa zwanzig minuten
+20200319 - I am in a hurry - ich habe es eilig
+20200319 - can youF please drive faster? - können sie bitte schneller fahren?
