@@ -1586,3 +1586,14 @@
 20200319 - Can I please have a receipt? - kann ich bitte eine quittung haben?
 20200319 - do you want a receipt? - möchten sie eine quittung?
 20200319 - thanks rest is for youF - danke rest ist für sie
+20200320 - he works pleasurly on sundays - er arbeitet gern sonntags
+20200320 - today I would like to drink tea - heute möchte ich Tee trinken
+20200320 - sometimes I have a headache - manchmal habe ich kopfschmerzen
+20200320 - on mondays - montags
+20200320 - on fridays - freitags
+20200320 - on the mornings - morgens
+20200320 - on the noons - mittags
+20200320 - in the evenings - abends
+20200320 - at nights - nachts
+20200320 - On Mondays the class begins at 15 - montags beginnt der unterricht um fünfzehn Uhr
+20200320 - in the evenings we go all for walk - abends gehen wir alle spazieren
