@@ -1654,5 +1654,5 @@
 20200320 RR  - laugh - lachen
 20200320 RR  - heavy - schwer
 20200320 RR  - young - jung
-20200320 RR  - the siblings - die geschwister
-20200320 RR  - the grandparents - die großeltern
+20200320 RR  - the siblings - die geschwister20200320 RR  - the ruler - das lineal
+20200320 RR  - the pen - der kuli
