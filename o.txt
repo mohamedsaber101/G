@@ -1644,3 +1644,4 @@
 20200320 RR  - this is michael, he lives in london - das ist michael, er wohnt in london
 20200320 RR  - you are P - ihr seid
 20200320 RR  - it takes - es nimmt
+20200320 RR  - sabine reads books - sabine liest büchen
