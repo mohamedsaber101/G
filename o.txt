@@ -1653,8 +1653,6 @@
 20200320 RR  - a donkey is dumb but a fox is intelligent - ein esel ist doof, aber ein fuchs ist intelligent
 20200320 RR  - laugh - lachen
 20200320 RR  - heavy - schwer
-20200320 RR  - my suitcase is heavy but my bags are light - mein koffer ist schwer,aber meine taschen sind leicht
 20200320 RR  - young - jung
-20200320 RR  - this is peter - das ist peter
-20200320 RR  - the apple is red - der apfel ist rot
-20200320 RR  - the weeks - die wochen
+20200320 RR  - the siblings - die geschwister
+20200320 RR  - the grandparents - die großeltern
