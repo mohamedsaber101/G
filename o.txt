@@ -1645,3 +1645,16 @@
 20200320 RR  - you are P - ihr seid
 20200320 RR  - it takes - es nimmt
 20200320 RR  - sabine reads books - sabine liest büchen
+20200320 RR  - Year 1975 - neunzehnhundertfünfundsiebzig
+20200320 RR  - dark - dunkel
+20200320 RR  - light - hell
+20200320 RR  - short - kurz
+20200320 RR  - the answer - die antwort
+20200320 RR  - a donkey is dumb but a fox is intelligent - ein esel ist doof, aber ein fuchs ist intelligent
+20200320 RR  - laugh - lachen
+20200320 RR  - heavy - schwer
+20200320 RR  - my suitcase is heavy but my bags are light - mein koffer ist schwer,aber meine taschen sind leicht
+20200320 RR  - young - jung
+20200320 RR  - this is peter - das ist peter
+20200320 RR  - the apple is red - der apfel ist rot
+20200320 RR  - the weeks - die wochen
