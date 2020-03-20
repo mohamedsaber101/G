@@ -1616,3 +1616,12 @@
 20200320 - I must go now - ich muss jetzt gehen
 20200320 - Now I must go - jetzt muss ich gehen
 20200320 - she isOnTheTelephone right now - sie telefoniert gerade
+20200320 - she is getting soon a baby - sie bekommt bald ein baby
+20200320 - should I call you later? - soll ich dich später anrufen?
+20200320 - before FOOHer - voher
+20200320 - then - dann
+20200320 - after that - danach
+20200320 - why have not you said that before? - warum hast du das nicht vorher gesagt?
+20200320 - at first - zuerst
+20200320 - at first you should read and then translate - zuerst sollst du lesen und dann übersetzen
+20200320 - after that we go shopping and later we eat IceCream - danach gehen wir einkaufen und später essen wir Eis
