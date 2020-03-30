@@ -1,0 +1,6 @@
+
+
+
+curl "$1"|grep watch?v=|cut -d? -f2|cut -d'&' -f1|grep 'v='|cut -d'=' -f2|uniq > /tmp/list
+
+for i in `cat /tmp/list`;do youtube-dl  https://www.youtube.com/watch?v=$i;done
