@@ -3,4 +3,15 @@
 
 curl "$1"|grep watch?v=|cut -d? -f2|cut -d'&' -f1|grep 'v='|cut -d'=' -f2|uniq > /tmp/list
 
-for i in `cat /tmp/list`;do youtube-dl  https://www.youtube.com/watch?v=$i;done
+
+
+
+
+for i in `cat /tmp/list`
+do
+
+n=`youtube-dl -F  https://www.youtube.com/watch?v=$i |grep 360 |grep mp4|grep -v only|cut -d" " -f1`
+
+
+ youtube-dl  -f $n https://www.youtube.com/watch?v=$i
+done
