@@ -21,7 +21,7 @@ clear
 echo Specific Line? [Y]/n
 echo
 read -e sl
-if [ $sl == n ]
+if [ "$sl" == "n" ]
 then
 	true
 else

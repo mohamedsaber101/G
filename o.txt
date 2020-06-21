@@ -20,7 +20,7 @@
 20200218 - everything - alles
 20200218 - everything is good - alles ist gut
 20200218 - and this is everything - und das ist alles
-20200218 - I am hungry - ich habe hunger
+20200218 - I am hungry - ich ha werdenhunger
 20200218 - wait!! - moment
 20200218 - today evening - heute abend
 20200218 - I come later - ich komme später
@@ -44,7 +44,7 @@
 20200218 - I dont understandC - ich verstehe nicht
 20200218 - I dont knowC - ich weiß nicht
 20200218 - no problemC - kein problem
-20200218 - maybe - vielleicht
+20200218 - may werden- vielleicht
 20200218 - one time again - noch einmal
 20200218 - again - noch
 20200218 - right - richtig
@@ -117,8 +117,8 @@
 20200219 - i am not married - ich bin nicht verheiratet
 20200219 - Do you have children?F - haben sie kinderF?
 20200219 - Do you have children? - hast du kinder?
-20200219 - i have two children - ich habe zwei kinder
-20200219 - i dont have children - ich habe keine kinder
+20200219 - i have two children - ich ha werdenzwei kinder
+20200219 - i dont have children - ich ha werdenkeine kinder
 20200219 - the profession - der beruf
 20200219 - the professions - die berufe
 20200219 - the teacher - der lehrer
@@ -198,7 +198,7 @@
 20200220 - we have - wir haben
 20200220 - you haveP - ihr habt
 20200220 - they have - sie haben
-20200220 - i have a house - ich habe ein haus
+20200220 - i have a house - ich ha werdenein haus
 20200220 - do you have  a friend? - hast du eine freunde?
 20200220 - we have a car - wir haben ein auto
 20200220 - do you have childrenP? - habt ihr kinder?
@@ -209,7 +209,7 @@
 20200220 - the parents - die eltern
 20200220 - my parents have a dog - meine eltern haben einen hund
 20200220 - the dog - der hund
-20200220 - be - sein
+20200220 -  werden- sein
 20200220 - I am - ich bin
 20200220 - you are - du bist
 20200220 - he is - er ist
@@ -304,20 +304,20 @@
 20200222 - 20,000 - zwanzigtausend
 20200222 - 30,000 - dreißigtausend
 20200222 - 90,000 - neunzigtausend
-20200222 - 100,000 - einhunderttausend
+20200222 - 100,000 - einhundert Millionentausend
 20200222 - 200,000 - zweihunderttausend
 20200222 - 900,000 - neunhunderttausend
 20200222 - 1,000,000 - eine million
 20200222 - 2,000,000 - zwei Millionen
 20200222 - 60,000,000 - sechzig Millionen
-20200222 - 100,000,000 - einhindert Millionen
+20200222 - 100,000,000 - einhundert Millionen
 20200222 - 1,000,000,000 - eine milliarde
 20200222 - 2,000,000,000 - zwei Milliarden
-20200222 - 101 - einhunderteins
-20200222 - 102 - einhundertzwei
-20200222 - 110 - einhundertzehn
-20200222 - 111 - einhundertelf
-20200222 - 121 - einhunderteinundzwanzig
+20200222 - 101 - einhundert Millioneneins
+20200222 - 102 - einhundert Millionenzwei
+20200222 - 110 - einhundert Millionenzehn
+20200222 - 111 - einhundert Millionenelf
+20200222 - 121 - einhundert Millioneneinundzwanzig
 20200222 - 634 - sechshundertvierunddreißig
 20200222 - 987 - neunhundertsiebenundachtzig
 20200222 - 1101 - eintausendeinhunderteins
@@ -325,7 +325,7 @@
 20200222 - 13412 - dreizehntausendvierhundertzwölf
 20200222 - Year 1975 - neunzehnhundertfünfundsiebzig
 20200222 - Year 2017 - zweitausendsiebzehn
-20200222 - Year 2025 - zweitausendachtundzwanzig
+20200222 - Year 2025 - zweitausendfünfundzwanzig
 20200222 - big - groß
 20200222 - small - klein
 20200222 - an elephant is big, but a cat is small - ein elefant ist groß, aber eine katze ist klein
@@ -345,7 +345,7 @@
 20200222 - my hair is long,but your har  long, but your hair is short - meine harre ist lang, aber deine harre ist kurz
 20200222 - warm - warm
 20200222 - cool - kuhl
-20200222 - in summer it is warm, but in winter it is cool - im summer ist es warm, aber im winter ist es kuhl20200222 - cold - kalt
+20200222 - in summer it is warm, but in winter it is cool - im summer ist es warm aber im winter ist es  kuhl- cold - kalt
 20200222 - coffe is hot but limonade is cold - kaffe ist heiß, aber limonade ist kalt
 20200222 - wrong - falsch
 20200222 - the answer - die antwort
@@ -499,7 +499,7 @@
 20200223 - the husband - der mann
 20200223 - the wife - die frau
 20200223 - the brother - der bruder
-20200223 - the brothers - der brüder
+20200223 - the brothers - die brüder
 20200223 - the sister - die schwester
 20200223 - the siblings - die Geschwister
 20200223 - the grandfather - der großvater
@@ -529,13 +529,13 @@
 20200223 - we have a baby - wir haben ein baby
 20200223 - whom does julia love? - wen leibt julia?
 20200223 - julia loves her mann - julia liebt ihren mann
-20200223 - I have a car - ich habe ein auto
+20200223 - I have a car - ich ha werdenein auto
 20200223 - i eat an apple - ich esse einen apfel
 20200223 - he eats an apple - er isst einen apfel
-20200223 - i have a cat - ich habe eine katze
-20200223 - I have two brothers - ich habe zwei brüder
+20200223 - i have a cat - ich ha werdeneine katze
+20200223 - I have two brothers - ich ha werdenzwei brüder
 20200223 - the hat - der hut
-20200223 - how do you find the cat? - wie findest du den hut?
+20200223 - how do you find the cat? - wie findest du die katze?
 20200223 - I find the hat beautiful - den hut finde ich schön
 20200223 - how do you find the cat? - wie findest du die katze?
 20200223 - i find the cat good - die katze finde ich gut
@@ -545,14 +545,14 @@
 20200223 - the shoes - die schuhe
 20200223 - the pen - der kuli
 20200223 - do you have a pen? - hast du einen kuli?
-20200223 - no i have no pen - nein ich habe keinen kuli
+20200223 - no i have no pen - nein ich ha werdenkeinen kuli
 20200223 - do you have a cat? - hast du eine katze?
-20200223 - no i have no cat - nein ich habe keine katze
-20200223 - no i have no children - nein ich habe keine kinder
-20200223 - i love my husband - ich leibe meinen mann
-20200223 - i love my car - ich liebe mein auto
-20200223 - i love my cat - ich liebe meine katze
-20200223 - i love my children - ich liebe meine kinder
+20200223 - no i have no cat - nein ich ha werdenkeine katze
+20200223 - no i have no children - nein ich ha werdenkeine kinder
+20200223 - i love my husband - ich lei werdenmeinen mann
+20200223 - i love my car - ich lie werdenmein auto
+20200223 - i love my cat - ich lie werdenmeine katze
+20200223 - i love my children - ich lie werdenmeine kinder
 20200223 - he likes his girlfriend - er mag seine freundin
 20200223 - he likes his dog - er mag seinen hund
 20200223 - he likes his motorcycle - er mag sein motorrad
@@ -572,7 +572,7 @@
 20200224 - you would like to P - ihr möchtet
 20200224 - they would like to - sie möchten
 20200224 - i would like to a doctor - ich möchte artzt werden
-20200224 - to become-be - werden
+20200224 - to become- werden- werden
 20200224 - peter would like to study in england - peter möchte in England studieren
 20200224 - what would you like to eat? - was möchtest du essen?
 20200224 - would you like to go to the cinema? - möchtest du ins kino gehen?
@@ -583,8 +583,8 @@
 20200224 - when - wann
 20200224 - what  are you of profession?F C - was sind sie von beruf?
 20200224 - whz are you sad?C - warum bist du traurig?
-20200224 - when do you marry?P - wan heiratet ihr?
-20200224 - who speaks good deutch? - wer spricht gut deutch?
+20200224 - when do you marry?P - wann heiratet iht
+20200224 - who speaks good deutch? - wer spricht gut deutsch
 20200224 - whom do you love? - wen liebst du?
 20200224 - towhere do you go in the vacation? -wohin fährst du im Urlaub?
 20200224 - how much does it cost a bike? - wie viel kostet ein fahrrad?
@@ -615,11 +615,11 @@
 20200224 - here is the menu - hier ist die speisekarte
 20200224 - what would you like to drink?F - was möchten sie trinken
 20200224 - i would like one colaC - ich möchte gern eine cola
-20200224 - i would have a juice - ich hätter gern einen saft
+20200224 - i would have a juice - ich hätte gern einen saft
 20200224 - the juice - der saft
 20200224 - to would have - hätten
 20200224 - i take a cola - ich nehme eine cola
-20200224 - ok, come immediatly - ok, kommt sofort
+20200224 - ok, come immediatly - komm sofort
 20200224 - immediatly - sofort
 20200224 - here one cola and one juice - hier eine cola und ein saft
 20200224 - what would you like to eat? - was möchten sie essen?
@@ -648,7 +648,7 @@
 20200224 - you P Dative - euch
 20200224 - who are youP? I dont know you P - wer seid ihr? ich kenne euch nicht
 20200224 - them__ - sie__
-20200224 - those are my parents, i love them - das sind meine eltern, ich liebe sie
+20200224 - those are my parents, i love them - das sind meine eltern, ich lie werdensie
 20200224 - dative dem der dem den +n - dgfghvdd
 20200224 - whom does julia cook a soup for? - wen kocht julia eine suppe?
 20200224 - julia cooks a soup for the husband - julia kocht dem mann eine suppe
@@ -706,17 +706,17 @@
 20200225 - from left - von links
 20200225 - the third house from the left is my house - das dritte haus von links ist mein haus
 20200225 - when have you birthday? -wann hast du geburtstag?
-20200225 - today I have birthday - heute habe ich Geburtstag
-20200225 - next week I have birthday - nächste woche habe ich geburtstag
-20200225 - i have a meeting at 6 - ich habe ein treffen um sechs Uhr
-20200225 - i have a meeting in the evening - ich habe ein treffen am abend
-20200225 - i have a meeting on saturday - ich habe ein treffen am samstag
-20200225 - i have a meeting in April - ich habe ein treffen im April
+20200225 - today I have birthday - heute ha werdenich Geburtstag
+20200225 - next week I have birthday - nächste woche ha werdenich geburtstag
+20200225 - i have a meeting at 6 - ich ha werdenein treffen um sechs Uhr
+20200225 - i have a meeting in the evening - ich ha werdenein treffen am abend
+20200225 - i have a meeting on saturday - ich ha werdenein treffen am samstag
+20200225 - i have a meeting in April - ich ha werdenein treffen im April
 20200225 - till when - bis wann
 20200225 - till when do you sleep? -bis wann schläfst du
 20200225 - i sleep till 12 -ich schlafe bis zwölf Uhr
 20200225 - till when do you stay in paris? - bis wann bleibst du in paris?
-20200225 - i stay till sunday in paris - ich bleibe bis sonntag in paris
+20200225 - i stay till sunday in paris - ich blei werdenbis sonntag in paris
 20200225 - since when - seit wann
 20200225 - since when do you study german? - seit wann lernst du deutsch?
 20200225 - i learn german since two years - ich lerne deutsch seit zwei Jahren
@@ -734,14 +734,14 @@
 20200225 - what time is it now? -wie spät ist es jetzt
 20200225 - how long - wie lange
 20200225 - how long do you stay with me? -wie lange bleibst du bie mir
-20200225 - i stay 5 days with you - ich bleibe fünf tage mit dir
+20200225 - i stay 5 days with you - ich blei werdenfünf tage mit dir
 20200225 - how long does it take to - Wie lange dauert es zu
 20200225 - how often do you go to the cinema? - wie oft gehst du ins kino?
 20200225 - i go sometimes to the cinema - ich gehe manchmal ins kino
-20200225 - i give to my husband a kiss - ich gebe meinem mann einen Kuss
-20200225 - i give to my daughter a kiss - ich gebe meiner tochter einen kuss
-20200225 - i give to my baby a kiss - ich gebe meinem baby einen kuss
-20200225 - i give to my children a kiss - ich gebe meinen kindern einen kuss
+20200225 - i give to my husband a kiss - ich ge werdenmeinem mann einen Kuss
+20200225 - i give to my daughter a kiss - ich ge werdenmeiner tochter einen kuss
+20200225 - i give to my baby a kiss - ich ge werdenmeinem baby einen kuss
+20200225 - i give to my children a kiss - ich ge werdenmeinen kindern einen kuss
 20200225 - he buys to his brother a chocolate - er kauft seinem bruder eine schokolade
 20200225 - he buys to his wife a chocolate - er kauft seiner frau eine schokolade
 20200225 - he buys to his child a chocolate - er kauft seinem kind eine schokolade
@@ -764,14 +764,14 @@
 20200225 - to you_ P - euch_
 20200225 - to them - ihnen
 20200225 - do you give to me a chocolate? - gibst du mir eine schokolade?
-20200225 - i give to you a chocolate - ich gebe dir eine schokolade
-20200225 - i give to him a chocolate -ich gebe ihm eine schokolade
-20200225 - i give to her a chocolate - ich gebe ihr eine schokolade
-20200225 - this is a child, i give to it a chocolate -das ist ein kind ich gebe ihm eine schokolade
+20200225 - i give to you a chocolate - ich ge werdendir eine schokolade
+20200225 - i give to him a chocolate -ich ge werdenihm eine schokolade
+20200225 - i give to her a chocolate - ich ge werdenihr eine schokolade
+20200225 - this is a child, i give to it a chocolate -das ist ein kind ich ge werdenihm eine schokolade
 20200225 - do you give to us a chocolate? - gibst du uns eine schokolade?
-20200225 - i give to you a chocolate P- ich gebe euch eine schokolade
-20200225 - john and julia are nice, i give them two chocolate -john und julia sind nette ich gebe ihnen eine schokolade
-20200225 - Mr schmidt, you are nice, i give you a chocolate F - Herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
+20200225 - i give to you a chocolate P- ich ge werdeneuch eine schokolade
+20200225 - john and julia are nice, i give them two chocolate -john und julia sind nette ich ge werdenihnen eine schokolade
+20200225 - Mr schmidt, you are nice, i give you a chocolate F - Herr schmidt, sie sind nett, ich ge werdenihnen eine schokolade
 20200225 - i want - ich will
 20200225 - you want - du willst
 20200225 - he wants - er will
@@ -816,7 +816,7 @@
 20200226 - bist  _in order_ - sei
 20200226 - seid  _in order_ - seid
 20200226 - sind _IN ORDER_FORMAL- seien sie
-20200226 - please be quietF - seien sie bitte leise!
+20200226 - please  werdenquietF - seien sie bitte leise!
 20200226 - gibst  _in order_ - gib
 20200226 - fährst _in order_ - fahr
 20200226 - drive now - fahr jetzt!
@@ -839,11 +839,11 @@
 20200227 - you had P - ihr hattet
 20200227 - they had - sie hatten
 20200227 - last year I had no car - letztes jahr hatte ich kein auto
-20200227 - but today i have a car - aber heute habe ich ein auto
+20200227 - but today i have a car - aber heute ha werdenich ein auto
 20200227 - the day before yesterday we had no money - vorgestern hatten wir kein geld
 20200227 - but today we have much money - aber heute haben wir viel geld
 20200227 - yesterday maria had no time - gestren hatte maria keine zeit
-20200227 - to be in the past - waren
+20200227 - to  werdenin the past - waren
 20200227 - i was - ich war
 20200227 - you were - du warst
 20200227 - he was - er war
@@ -901,29 +901,29 @@
 20200227 - the ears - die ohren
 20200227 - the earsheadache - die ohrenschmerzen
 20200227 - the sorethroat - die halsschmerzen
-20200227 - i have headache - ich habe kopfschmerzen
+20200227 - i have headache - ich ha werdenkopfschmerzen
 20200227 - hurt - tun weh
 20200227 - my feet hurt me - meine fÜße tun mir weh
 20200227 - the fever - das fieber
 20200227 - the flu - die grippe
 20200227 - the cough - der husten
 20200227 - the _ESSHHAL_ - der duchfall
-20200227 - i have fever - ich habe fieber
-20200227 - i have cough - ich habe husten
-20200227 - i have a cold - ich habe eine grippe
+20200227 - i have fever - ich ha werdenfieber
+20200227 - i have cough - ich ha werdenhusten
+20200227 - i have a cold - ich ha werdeneine grippe
 20200227 - or - oder
 20200227 - someone - jemandem
 20200227 - high - hohen
 20200227 - blood pressure - blutdruck
-20200227 - i have high pressure - ich habe hohen blutdruck
-20200227 - i hurt myself - ich habe mich verletzt
+20200227 - i have high pressure - ich ha werdenhohen blutdruck
+20200227 - i hurt myself - ich ha werdenmich verletzt
 20200227 - hurt or injury - verletzen
-20200227 - i hurt my leg - ich habe mich am bein verletzt
-20200227 - i hurt my finger - ich habe mich am finger verletzt
-20200227 - i hurt my hand - ich habe mich an der hand verletzt
+20200227 - i hurt my leg - ich ha werdenmich am bein verletzt
+20200227 - i hurt my finger - ich ha werdenmich am finger verletzt
+20200227 - i hurt my hand - ich ha werdenmich an der hand verletzt
 20200227 - break - brochen
-20200227 - i have my leg broken - ich habe mir das bein gebrochen
-20200227 - i have my arm broken - ich habe mir den arm gebrochen
+20200227 - i have my leg broken - ich ha werdenmir das bein gebrochen
+20200227 - i have my arm broken - ich ha werdenmir den arm gebrochen
 20200227 - the advice - der ratschlag
 20200227 - I am so tired - ich bin so müde
 20200227 - go sleep - geh schlafen
@@ -931,12 +931,12 @@
 20200227 - make a diet - mach eine diät
 20200228 - also - auch
 20200228 - wait for me - wartet auf mich
-20200228 - hello dear friends - hallo liebe freunde
+20200228 - hello dear friends - hallo lie werdenfreunde
 
 20200229 RR  - sometimes - manchmal
 20200229 RR  - execuse me sir, pleaseC - entschuldigen sie, bitte
 20200229 RR  -  - 
-20200229 RR  - maybe - vielleicht
+20200229 RR  - may werden- vielleicht
 20200229 RR  - what is your family?F - wie ist  ihr familienname?
 20200229 RR  - what do you make for a livingF?C - was machen sie beruflich?
 20200229 RR  - i am not married - ich bin nicht verheiratet
@@ -978,7 +978,7 @@
 20200229 RR  - stuff-die sachen
 20200229 RR  - the apple is red - der apfel ist rot
 20200229 RR  - julia loves her mann - julia liebt ihren mann
-20200229 RR  - i love my husband - ich leibe meinen mann
+20200229 RR  - i love my husband - ich lei werdenmeinen mann
 20200229 RR  - to visit - besuchen
 20200301 RR  - To order - bestellen
 20200301 RR  - good day, we want a table for 2 persons - guten tag  wir wollen ein tisch für zwei personen
@@ -994,13 +994,13 @@
 20200301 RR  - he brings the food to children -er bringt den kindern das essen
 20200301 RR  - the 12th - der zwölfte
 20200302 RR  - when have you birthday? -wann hast du geburtstag?
-20200302 RR  - next week I have birthday - nächste woche habe ich geburtstag
-20200302 RR  - i have a meeting in the evening - ich habe ein treffen am abend
-20200302 RR  - i have a meeting in April - ich habe ein treffen im april
+20200302 RR  - next week I have birthday - nächste woche ha werdenich geburtstag
+20200302 RR  - i have a meeting in the evening - ich ha werdenein treffen am abend
+20200302 RR  - i have a meeting in April - ich ha werdenein treffen im april
 20200302 RR  - i learn german since two years - ich lerne deutsch seit zwei jahren
-20200302 RR  - i stay 5 days with you - ich bleibe fünf tage mit dir
+20200302 RR  - i stay 5 days with you - ich blei werdenfünf tage mit dir
 20200302 RR  - how long does it take to - wie lange dauert es zu
-20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
+20200302 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich ge werdenihnen eine schokolade
 20200302 RR  - i want - ich will
 20200302 RR  - you want P - ihr wolt
 20200302 RR  - can you pick me up at 18?- kannst du mich um achtzehn uhr abholen?
@@ -1017,7 +1017,7 @@
 20200302 RR  - the patience - die geduld
 20200302 RR  - please have patienceF - haben sie bitte geduld!
 20200302 RR  - sind _IN ORDER_FORMAL- seien sie
-20200302 RR  - please be quietF - seien sie bitte leise!
+20200302 RR  - please  werdenquietF - seien sie bitte leise!
 20200302 RR  - go immediatly home! - geh sofort nach hause!
 20200302 RR  - last year - letztes jahr
 20200302 RR  - before afew days__afew days ago- vor ein paar tagen
@@ -1025,9 +1025,9 @@
 20200302 RR  - he had - er hatte
 20200302 RR  - they had - sie hatten
 20200302 RR  - last year I had no car - letztes jahr hatte ich kein auto
-20200302 RR  - but today i have a car - aber heute habe ich ein auto
+20200302 RR  - but today i have a car - aber heute ha werdenich ein auto
 20200302 RR  - yesterday maria had no time - gestren hatte maria keine zeit
-20200302 RR  - to be in the past - waren
+20200302 RR  - to  werdenin the past - waren
 20200302 RR  - he was - er war
 20200302 RR  - why dont you undertand me? - varum verstehst du mich nicht?
 20200302 RR  - i can understand you - ich kann dich verstehen
@@ -1048,23 +1048,23 @@
 20200302 RR  - the flu - die grippe
 20200302 RR  - the cough - der husten
 20200302 RR  - the _ESSHHAL_ - der duchfall
-20200302 RR  - i have cough - ich habe husten
-20200302 RR  - i have a cold - ich habe eine grippe
+20200302 RR  - i have cough - ich ha werdenhusten
+20200302 RR  - i have a cold - ich ha werdeneine grippe
 20200302 RR  - someone - jemandem
 20200302 RR  - high - hohen
-20200302 RR  - i have high pressure - ich habe hohen blutdruck
-20200302 RR  - i hurt myself - ich habe mich verletzt
+20200302 RR  - i have high pressure - ich ha werdenhohen blutdruck
+20200302 RR  - i hurt myself - ich ha werdenmich verletzt
 20200302 RR  - hurt or injury - verletzen
-20200302 RR  - i hurt my leg - ich habe mich am bein verletzt
-20200302 RR  - i hurt my finger - ich habe mich am finger verletzt
-20200302 RR  - i hurt my hand - ich habe mich an der hand verletzt
-20200302 RR  - i have my leg broken - ich habe mir das bein gebrochen
-20200302 RR  - i have my arm broken - ich habe mir den arm gebrochen
+20200302 RR  - i hurt my leg - ich ha werdenmich am bein verletzt
+20200302 RR  - i hurt my finger - ich ha werdenmich am finger verletzt
+20200302 RR  - i hurt my hand - ich ha werdenmich an der hand verletzt
+20200302 RR  - i have my leg broken - ich ha werdenmir das bein gebrochen
+20200302 RR  - i have my arm broken - ich ha werdenmir den arm gebrochen
 20200302 RR  - the advice - der ratschlag
 20200302 RR  - make a diet - mach eine diät
 20200302 - at the end - am ende
 20200302 - i am eating a salad - ich esse einen salat
-20200302 - I have eaten a salat - ich habe einen salat gegessen
+20200302 - I have eaten a salat - ich ha werdeneinen salat gegessen
 20200302 - we drive to berlin - wir fahren nach berlin
 20200302 - we have driven last week to paris - wir sind letzte woche nach paris gefahren
 20200302 - he is playing with his dog - er spielt mit seinem hund
@@ -1086,7 +1086,7 @@
 20200302 - the homework - die hausaufgeben
 20200302 - have you made your homework? - hast du deine hausaufgeben gemacht?
 20200302 - only_Just - nur
-20200302 - i have slept just 3 hours - ich habe nur drei stunden geschlafen
+20200302 - i have slept just 3 hours - ich ha werdennur drei stunden geschlafen
 20200302 - on friday we have gone to the cinema - am freitag sind wir ins kino gegangen
 20200302 - i have gone - ich bin gegangen
 20200302 - you have gone P - ihr seid gegangen
@@ -1133,12 +1133,12 @@
 20200302 - werden 2 - ist geworden
 20200302 - i have becomen today 29 - ich bin heute neunundzwanzig geworden
 20200303 - kochen 2 - hat gekocht
-20200303 - I have cooked yesterday for long - ich habe gestern lange gekocht
+20200303 - I have cooked yesterday for long - ich ha werdengestern lange gekocht
 20200303 - when have you fallen sleep yesterday? - wann bist du gestern eingeschlafen
-20200303 - i have done the homework - ich habe die hausaufgeben gemacht
+20200303 - i have done the homework - ich ha werdendie hausaufgeben gemacht
 20200303 - how long have you played yesterday football? - wie lange hast du gestern fußball gespielt?
 20200303 - lernen 2 - hat gelernt
-20200303 - i have learned new words - Ich habe neue Wörter gelernt
+20200303 - i have learned new words - Ich ha werdenneue Wörter gelernt
 20200303 - arbeiten 2 - hat gearbeitet
 20200303 - talk C - reden
 20200303 - reden 2 - hat geredet
@@ -1177,7 +1177,7 @@
 20200303 - visit - besichtigen
 20200303 - besichtigen 2 - hat besichtigen
 20200303 - in the vacation I was in paris+ - im urlaub war ich in paris
-20200303 - - ich habe mit miener familie gereist
+20200303 - - ich ha werdenmit miener familie gereist
 20200303 - in the vacation I have stayed at home - im urlaub bin ich zu hause geblieben
 20200303 - where were you? - wo warst du?
 20200303 - with_to whom - wem
@@ -1187,12 +1187,12 @@
 20200303 - i was alone at home - ich war allein zu hause
 20200303 - stayed over night - übernachten
 20200303 - where have you stayed over night? - wo hast du übernachtet?
-20200303 - i have stayedON in the hotel - ich habe im hotel übernachtet
-20200303 - i have stayedON at a guesthouse - ich habe bei einer Gastfamilie übernachtet
+20200303 - i have stayedON in the hotel - ich ha werdenim hotel übernachtet
+20200303 - i have stayedON at a guesthouse - ich ha werdenbei einer Gastfamilie übernachtet
 20200303 - what have you done? - was hast du gemacht?
 20200303 - what have youP done? - was habt ihr gemacht?
 20200303 - we have eaten much - wir haben viel gegessen
-20200303 - I have visited my OMa - ich habe meine Oma gesucht
+20200303 - I have visited my OMa - ich ha werdenmeine Oma gesucht
 20200303 - spend - verbring
 20200303 - verbring 2 - vergebracht
 20200303 - we have spent with our family time - wir haben mit unserer familie zeit vergebracht
@@ -1200,7 +1200,7 @@
 20200303 - rennen 2 - gerannt
 20200303 - i have run every day much - ich bin jeden tag viel gerannt
 20200303 - the novel - der roman
-20200303 - I have read a novel - ich habe einen roman gelesen
+20200303 - I have read a novel - ich ha werdeneinen roman gelesen
 20200303 - where Question - wo Frage
 20200303 - i am in berlin - ich bin In berlin
 20200303 - I am in germany - ich bin in deutschland
@@ -1332,24 +1332,24 @@
 20200304 - do you have time? - hast du zeit?
 20200304 - accept - annehmen
 20200304 - yes with pleasure , that  fits - ja gern, das passt
-20200304 - friday is good, there I have time - freitag ist gut, da habe ich zeit
-20200304 - yes, there I have nothingss infront - ja, da habe ich nichts vor
+20200304 - friday is good, there I have time - freitag ist gut, da ha werdenich zeit
+20200304 - yes, there I have nothingss infront - ja, da ha werdenich nichts vor
 20200304 - Deal - abgemacht
 20200304 - deal, friday at 18 - abgemacht, freitag um achtzehn Uhr
 20200304 - yes, this is a good idea, when then? - ja, das ist eine gute idee,wann weil?
 20200304 - reject - ablehnen
 20200304 - ablehnen 2 - hat abgelehnt
 20200304 - sorry - tut mir leid
-20200304 - i have no time - ich habe keine zeit
+20200304 - i have no time - ich ha werdenkeine zeit
 20200304 - unfortunatly i cant - leider kann ich nicht
 20200304 - i must help my parents - ich muss meinen eltern helfen
 20200304 - the invitation - die einladung
 20200304 - someone invite - jemanden einladen
 20200304 - dear mat - lieber mat
-20200304 - dear Julia - liebe julia
+20200304 - dear Julia - lie werdenjulia
 20200304 - we are making a feas - wir machen Ein fest
-20200304 - I have my birthaday - ich habe geburtstag
-20200304 - I have my wedding - ich habe Hochzeitstag
+20200304 - I have my birthaday - ich ha werdengeburtstag
+20200304 - I have my wedding - ich ha werdenHochzeitstag
 20200304 - my son has birthday - mein sohn hat geburtstag
 20200304 - I would like inviting you to the food - ich möchte dich zum essen einladen
 20200304 - we invite you - wir laden dich ein
@@ -1371,8 +1371,8 @@
 20200304 - can I bring something - kann ich etwas mitbringen
 20200304 - can my friend come? - kann mein freund kommen?
 20200304 - till saturday - bis samstag
-20200304 - I have on Monday an exam - ich habe am montag eine prüfung
-20200304 - I have unfortunately no time - ich habe leider keine zeit
+20200304 - I have on Monday an exam - ich ha werdenam montag eine prüfung
+20200304 - I have unfortunately no time - ich ha werdenleider keine zeit
 20200304 - on saturday i must work - am samstag muss ich arbeiten
 20200304 - I wish to you much fun- ich wünsche dir viel spaß
 20200304 - fun - spaß
@@ -1381,7 +1381,7 @@
 20200305 - at all - überhaupt
 20200306 - after a while - nach eine weile
 20200306 RR  - wait for me - wartet auf mich
-20200306 RR  - hello dear friends - hallo liebe freunde
+20200306 RR  - hello dear friends - hallo lie werdenfreunde
 20200306 RR  - execuse me sir, pleaseC - entschuldigen sie, bitte
 20200306 RR  - what is your family?F - wie ist  ihr familienname?
 20200306 RR  - the chef - der koch
@@ -1404,9 +1404,9 @@
 20200307 RR  - i would like one colaC - ich möchte gern eine cola
 20200307 RR  - what woul you have at eating? - was hätten sie zum essen?
 20200307 - else_ - noch_
-20200308 RR  - i stay 5 days with you - ich bleibe fünf tage mit dir
+20200308 RR  - i stay 5 days with you - ich blei werdenfünf tage mit dir
 20200308 RR  - how long does it take to - wie lange dauert es zu
-20200308 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich gebe ihnen eine schokolade
+20200308 RR  - Mr schmidt, you are nice, i give you a chocolate F - herr schmidt, sie sind nett, ich ge werdenihnen eine schokolade
 20200308 RR  - i want - ich will
 20200308 - the year - das jahr
 20200310 RR  - do you invite me to your wedding? - lädst du mich zu deiner hochzeit  ein?
@@ -1416,8 +1416,8 @@
 20200310 RR  - the stories - die geschichten
 20200310 RR  - to destroy - zerstören
 20200310 RR  - the cough - der husten
-20200310 RR  - i hurt my leg - ich habe mich am bein verletzt
-20200310 RR  - i hurt my finger - ich habe mich am finger verletzt
+20200310 RR  - i hurt my leg - ich ha werdenmich am bein verletzt
+20200310 RR  - i hurt my finger - ich ha werdenmich am finger verletzt
 20200310 RR  - the advice - der ratschlag
 20200310 RR  - anrufen 2 - angerufen
 20200310 RR  - i was ill , i must have to go to the doctor - ich war krank ich musste zum arzt gehen
@@ -1471,7 +1471,7 @@
 20200313 - which woman is your colleage ? - welche frau ist deine kollegin?
 20200313 - the one on the left - die linke
 20200313 - which woman were you looking for? - welche frau hast du gesucht?
-20200313 - the one to the left I were looking for - die linke habe ich gesucht
+20200313 - the one to the left I were looking for - die linke ha werdenich gesucht
 20200313 - with which woman have you talked? - mit welcher frau hast du gesprochen?
 20200313 - with the one to the left - mit der linken
 20200313 - which book  is good - welches buch ist gut?
@@ -1530,10 +1530,10 @@
 20200313 - this Liked to me Good - diese gefällt mir gut
 20200313 - this Not Liked to me unfortunatelt - diese gefällt mir leider nicht
 20200313 - the color - die ferbe
-20200313 - the clolor not Liked to me unfortunatly, do you F have an other color? - die farbe gefällt mir leider nicht, haben sie vielleicht eine andere farbe?
+20200313 - the clolor not Liked to me unfortunatly, do you F have an other color? - die far werdengefällt mir leider nicht, haben sie vielleicht eine andere farbe?
 20200313 - which size do you have then? - welche größe haben sie denn?
 20200313 - i wear the size 38 - ich trage die größe 38
-20200313 - I have the size 38 - ich habe die größe 38
+20200313 - I have the size 38 - ich ha werdendie größe 38
 20200313 - here is your size - hier ist ihre größe
 20200313 - would you like to try then? - möchten sie diese denn anprobieren?
 20200313 - yes where is the dressing cabine - ja , wo ist die umkleidekabine
@@ -1572,7 +1572,7 @@
 20200319 - turn on F please the taxameter - schalten sie bitte das taxameter ein!
 20200319 - how long does it take till there? - wie lange dauert es bis dahin?
 20200319 - about 20 minutes - etwa zwanzig minuten
-20200319 - I am in a hurry - ich habe es eilig
+20200319 - I am in a hurry - ich ha werdenes eilig
 20200319 - can youF please drive faster? - können sie bitte schneller fahren?
 20200319 - Does it bother you, when I close the window? - stört es sie, wenn ich das fenster zumache?
 20200319 - Does it bother you when I open the window? - stört es sie, wenn Ich das fenster aufmache?
@@ -1588,7 +1588,7 @@
 20200319 - thanks rest is for youF - danke rest ist für sie
 20200320 - he works pleasurly on sundays - er arbeitet gern sonntags
 20200320 - today I would like to drink tea - heute möchte ich Tee trinken
-20200320 - sometimes I have a headache - manchmal habe ich kopfschmerzen
+20200320 - sometimes I have a headache - manchmal ha werdenich kopfschmerzen
 20200320 - on mondays - montags
 20200320 - on fridays - freitags
 20200320 - on the mornings - morgens
@@ -1610,7 +1610,7 @@
 20200320 - soon - bald A
 20200320 - later - später
 20200320 - yesterday it has rained by us - gestern hat es bei uns geregnet
-20200320 - earlier I have eaten no vegtables - füher habe ich kein gemüse gegessen
+20200320 - earlier I have eaten no vegtables - füher ha werdenich kein gemüse gegessen
 20200320 - Back then_AT THAT TIME_I was a little boy - Damals war ich ein kleiner Junge
 20200320 - today my husband is cooking - Heute kocht mein mann
 20200320 - I must go now - ich muss jetzt gehen
@@ -1628,11 +1628,11 @@
 20200320 - he comes always late - er kommt immer zu spät
 20200320 - at this time I eat - um diese zeit esse ich
 20200320 - he makes sometimes alot of mistakes - er macht manchmal viele fehler
-20200320 - I love my work but between time and time I need a break - ich liebe meine arbeit, aber ab und zu brauche ich eine pause
+20200320 - I love my work but between time and time I need a break - ich lie werdenmeine arbeit, aber ab und zu brauche ich eine pause
 20200320 - rarely - selten
 20200320 - she comes very rarely out of the house - sie kommt sehr selten aus dem haus
 20200320 - never - nie
-20200320 - I have never seen him - ich habe ihn nie gesehen
+20200320 - I have never seen him - ich ha werdenihn nie gesehen
 20200320 RR  - see you laterC - bis später
 20200320 RR  - nice thanks - danke schön
 20200320 RR  - wait!! - moment
@@ -1655,3 +1655,315 @@
 20200320 RR  - heavy - schwer
 20200320 RR  - young - jung
 20200320 RR  - the pen - der kuli
+20200612 - good. - gut.
+20200612 - it is good - es ist gut
+20200612 - fantastic - fantastisch
+20200612 - it is fantastic - es ist fantastisch
+20200612 - completly - ganz
+20200612 - it is completely fantastic - es ist ganz fantastisch
+20200612 - here. - hier.
+20200612 - it is here - es ist hier
+20200612 - it is good here - es ist gut hier
+20200612 - it is fantastic here - es ist fantastisch hier
+20200612 - it is compltetly fantastic here - es ist ganz fantastisch hier
+20200612 - very - sehr
+20200612 - it is very good - es ist sehr gut
+20200612 - it is very good here - es ist sehr gut hier
+20200612 - it is not - es ist nicht
+20200612 - it is not here - es ist nicht hier
+20200612 - it is not good - es ist nicht gut
+20200612 - it is not very good - es ist nicht sehr gut
+20200612 - it is not very good here - es ist nicht sehr gut hier
+20200612 - it is not fantastic - es ist nicht fantastisch
+20200613 - it is not good, it is fantastic - es ist nicht gut, es ist fanstastisch
+20200613 - delicious - lecker
+20200613 - it is delicious - es ist lecker
+20200613 - extraordianarz - aussergewöhnlich
+20200613 - it is extraordinarz - es ist aussergewöhnlich
+20200613 - it is completly extraordinary here - es ist ganz aussergewöhnlich hier
+20200614 - it is very beautiful - es ist sehr schön
+20200614 - it is very beautiful here - es ist seht schön hier
+20200614 - it is completely nice here - es ist ganz schön hier
+20200614 - for me - für mich
+20200614 - it is for me - es ist für mich
+20200614 - it is not for me# - es ist nicht für mich
+20200614 - it is not good me - es ist nicht gut für mich
+20200614 - it is not good for me - es ist nicht sehr gut für mich
+20200614 - in my opinion it is good - für mich ist es gut
+20200614 - for me it is fantastic - für mich ist es fantastisch
+20200615 - yes it is for me - ja es ist für mich
+20200615 - yes it is absolutly delicious - ja es ist ganz lecker
+20200615 - yes for me it is good - ja für mich es ist gut
+20200615 - yes thanks it uis delicious - ja danke es ist lecker
+20200615 - yes thanks it is fantastic - ja danke es ist fantastisch
+20200615 - it is very good thanks - es ist sehr gut danke
+20200615 - yes it is for me thanks - ja es ist für mich danke
+20200615 - it is always fantastic here - es ist immer fantastisch hier
+20200615 - it is not always very good here - es ist nicht immer sehr gut hier
+20200615 - for me it is always nice here - für mich ist es immer schön hier
+20200615 - it is always completly delicious - es ist immer ganz lecker
+20200615 - perfect - perfekt
+20200615 - yes it is perfect thanks - ja es ist perfekt danke
+20200615 - for me it is perfect - für mich ist es perfekt
+20200615 - it is completely perfekt - es ist ganz perfekt
+20200615 - for me it is completly perfect here - für mich ist es ganz perfekt hier
+20200615 - it is always perfect here - es ist immer perfekt hier
+20200615 - no thanks - nein danke
+20200615 - for him - für ihn
+20200615 - for her - für sie
+20200615 - no it is not for me it is for him - nein es ist nicht für mich es ist für ihn
+20200615 - no it is not for me it is for her - nein es ist nicht für mich es ist für sie
+20200615 - no it is not very good - nein es ist nicht sehr gut
+20200615 - no it is not here - nein es ist nicht hier
+20200615 - it is aways very bad here - es ist immer sehr schlecht hier
+20200615 - it is not bad but it is not perfekt - es ist nicht scheclt aber es ist nicht perfekt
+20200615 - for me it is very bad here - für mich ist es sehr schlecht hier
+20200615 - for me it is always bad here - für mich ist is immer schlecht hier
+20200615 - it is delicious but it is very bad for me - es ist lecker aber es ist sehr schlecht für mich
+20200615 - the restaurant is not here - das Restaurant ist nicht hier
+20200615 - the restaurant is not bad but it is not fantastic - das restaurant ist nicht schlecht aber es ist nicht fantastisch
+20200615 - paul is not here - paul ist nicht hier
+20200615 - maria is not here - maria ist nicht hier
+20200615 - the restaurant is not perfect but it is very good - das restaurant ist nicht perfekt aber es ist sehr gut
+20200615 - the restaurant is here - das restaurant ist hier
+20200615 - maria is here - maria ist hier
+20200615 - the restaurant is perfect - das restaurant ist genz perfekt
+20200615 - everything, - alles,
+20200615 - all is very good - alles ist sehr gut
+20200615 - everything is here - alles ist hier
+20200615 - everyting is delicious - alles ist lecker
+20200615 - everything is for me - alles ist für mich
+20200615 - for me everything is perfect - für mich ist alless perfekt
+20200615 - everything is very bad for me but it is compeletly delicious - alles ist sehr schlecht für mich aber es ist ganz lecker
+20200615 - that is for him - das ist für ihn
+20200615 - the restaaurant is completely extraordinary - das restaurant ist ganz aussergewönlich
+20200615 - everything here is delicious - alles hier ist lecker
+20200615 - it is not bad here - es ist nicht schlecht hier
+20200615 - for me the restaurant is fantastic - für mich ist das restaurant fantastisch
+20200615 - that is for her - das ist für sie
+20200615 - everything here is very good for me - alles hier ist sehr gut für mich
+20200615 - it is not for her it is for him - es ist nicht für sie es ist für ihn
+20200615 - it is not very good for him - es  ist nicht sehr gut für ihn
+20200615 - everything is fantastic thanks - alles ist fantastisch, danke
+20200615 - that is not very good - das ist nicht sehr gut
+20200615 - it is very nice here - es ist sehr schön hier
+20200615 - that is very good - das ist sehr gut
+20200615 - the chicken - das hähnchen
+20200615 - the chicken is for me - das hähnchen ist für mich
+20200615 - the chicken here is delicious - das hähnchen hier ist lecker
+20200615 - foe me the chcicken here is delicious - für mich ist das hähnchen hier  lecker
+20200615 - for me the chicken here is delecius - für mich ist das hähnchen hier lecker
+20200615 - the chicken here is always completly fantastic - das hähnchen hier ist immer ganz fantastisch
+20200615 - the pizza - die pizza
+20200615 - the pizza is for her - die pizza ist für sie
+20200615 - the pizza is for me - die pizza ist für mich
+20200615 - the pizza is not for me - die pizza ist nicht für mich
+20200615 - the fish - der fisch
+20200615 - the fish is good for her - der fisch ist gut für sie
+20200615 - the fish is for me - der fisch ist für mich
+20200615 - the fish is not delicious - der fisch ist nicht lecker
+20200615 - terrible - schrecklich
+20200615 - everything is terrible - alles ist schecklich
+20200615 - the fish ist very good but the pizza is exraordinary - der fisch ist sehr gut aber die pizza ist aussergewönlich
+20200615 - everything is terrible here - alles ist immer scheklich hier
+20200615 - my chicken is delcious - mein hähnchen ist lecker
+20200615 - my restaurant is here - mein restaurant ist hier
+20200615 - my chicken is here - mein hähnchen ist hier
+20200615 - the hotel - das hotel
+20200615 - the hotel is sehr gut - das hotel ist sehr gut
+20200615 - the hotel is not bad - das hotel ist nicht schlecht
+20200615 - my hotel is fantastic - mein hotel ist fantastisch
+20200615 - everyone - jedermann
+20200615 - everyone is here - jedermann ist hier
+20200615 - everyone is fantastic - jedermann ist fantastisch
+20200615 - everyone is always good here - jedermann ist immer gut hier
+20200615 - nice - nett
+20200615 - it is nice here - es ist nett hier
+20200615 - everybody is nice - jedermann ist nett
+20200615 - everybody here is nice - jedermann hier ist nett
+20200616 - everybody here is always very nice - jedermann hier ist immer sehr nett
+20200616 - my chicken is good - mein hähnchen ist gut
+20200616 - my pizza is delicious - meine pizza ist lecker
+20200616 - my hotel is terrible - mein hotel ist schrecklich
+20200616 - my pizza is very terrible - meine pizza ist sehr schlecht
+20200616 - a coffee - ein kaffe
+20200616 - a coffee for me - ein kaffe für mich
+20200616 - the coffee here is delicious - der kaffe hier ist lecker
+20200616 - my coffee is terrible - mein kaffe ist schreklich
+20200616 - a tea - ein tee
+20200616 - a tea for me - ein tee für mich
+20200616 - the tea here is teriible - der tee hier ist schreklich
+20200616 - my tea ist completely delicious - mein tee ist ganz lecker
+20200616 - a tea for me please - ein tee für mich bitte
+20200616 - a coffe for him please - ein kaffe für ihn bitte
+20200616 - I would like the chicken please - ich möchte das hähnchen bitte
+20200616 - I would like a table for five people please - ich möchte einen tisch für fünf personen bitte
+20200616 - i would like a coffee please - ich möchte einen kaffee bitte
+20200616 - I would like a team please - ich möchte einen tee bitte
+20200616 -  - ,
+20200616 - the pizza for her please - ein pizza für sie bitte
+20200616 - I would like a reservation please - ich möchte eine reservierung bitte
+20200616 - a table for two please - ein tisch für zwei bitte
+20200616 - my coffee is very good - mein kaffee ist sehr gut
+20200616 - the food is here - das essen ist hier
+20200616 - the food is delicious - das essen ist lecker
+20200616 - the food here is always very good - das essen hier ist immer sehr gut
+20200616 - and - und
+20200616 - I would like a tea and a coffe - ich möchte einen tee und einen kaffe
+20200616 - I would like the pizza for me and the chicken for him - ich möchte die pizza für mich und das hähnchn für ihn
+20200617 - I would like a tea and also a coffee - ich möchte einen tee und auch einen kaffee
+20200617 - also I would like a tea for me please - auch möchte ich einen tee für mich bitte
+20200617 - also the coffee is perfekt - auch ist der kaffee perfekt
+20200617 - also maria is here - auch ist maria hier
+20200617 - are - sind
+20200617 - the tea and the coffee are here - der tee und der kaffee sind hier
+20200617 - maria and paul are always here - maria und paul sind immer hier
+20200617 - the pizza and the chicken are for me - die pizza und das hähnchen sind für mich
+20200617 - are not - sind nicht
+20200617 - the tea and the coffee are not here - der tee und der kaffee sind nicht hier
+20200617 - maria and paul are not here - maria und paul sund nicht hier
+20200617 - the table - der tisch
+20200617 - the tables - die tische
+20200617 - the dogs - die hunde
+20200617 - the fishes - die fische
+20200617 - the shoe - der schuh
+20200617 - the shoes. - die schuhe.
+20200617 - the chickens - die hähnchen
+20200617 - a carrot - eine karotte
+20200617 - the carrot - die karotte
+20200617 - the carrots - die karotten
+20200617 - the carrots are good - die karotten sind gut
+20200617 - my carrots are delicious - meine karotten sind lecker
+20200617 - the food here is always delicious - das essen hier ist immer lecker
+20200617 - I would like two chickens please, one for me and one for her - ich möchte zwei hähnchen bitte, ein für mich und ein für sie
+20200617 - the carrots are very good - die karotten sind sehr gut
+20200617 - I think the food is perfect here - für mich ist das essen perfekt hier
+20200617 - the food is always terrible - das essen ist immer schrecklich
+20200617 - the chicken for me and the pizza for her please - das hähanchen für mich und die pizza für sie bitte
+20200617 - the pizza and the chicken are very good - die pizza und das hähnchen sind sehr gut
+20200617 - not for her - nicht für sie
+20200617 - hello a te for me please - hallo ein tee für mich bitte
+20200617 - hello the pizza for me and the chicken for him please - hallo die pizza für mich und das hähnchen für ihn bitte
+20200617 - good morning two coffees please - guten morgen zwei kaffees bitte
+20200617 - good morning I want a table for two please - guten morgen Ich möchte einen tisch für zwei bitte
+20200617 - good day i would like a table for three please - guten tag ich möchte einen tisch für drei bitte
+20200617 - good day I want a table for three please - guten abend Ich möchte einen tisch für drei personen bitte
+20200617 - good evening i want one pizza please - guten abend ich möchte eine pizza bitte
+20200617 - till see you again. - auf wiedersehen.
+20200617 - good bye and good night - auf wiedersehen und gute nacht
+20200617 - have a good day - shönen tag noch
+20200617 - good bye and have a nice day - auf wiedersehen und schönen tag noch
+20200617 - have a good evening - schönen abend noch
+20200617 - goog bye and have a nice evening - auf wiedersehen und schönen abend noch
+20200617 - see you soon . - bis bald.
+20200617 - i think that is absolotly extraordinary - für mich ist das ganz aussergewönlich
+20200617 - the salad - der salat
+20200617 - a cumcumber - eine salatgurke
+20200617 - an onion - eine zwiebel
+20200617 - a tomato - eine tomate
+20200617 - a pepper - ein paprika
+20200617 - teh vegtables - das gemüse
+20200617 - the bean - die Bohne
+20200617 - the potato - die kartoffel
+20200617 - the meat - das fleisch
+20200617 - the pork - das schweinefleisch
+20200617 - the beef - das rindflesich
+20200617 - the liver - die leber
+20200617 - the pateeh - die pastete
+20200617 - the cheese - der käse
+20200617 - the egg - das Ei
+20200617 - the eggs - die eir
+20200617 - the rice - der reis
+20200617 - the salt - das salz
+20200617 - the pepper - der pfeffer
+20200617 - the sugar - der zucker
+20200617 - the honey - der honig
+20200617 - the bread - das brot
+20200617 - a juice - ein saft
+20200617 - the knife - der messer
+20200617 - the spoon - der löffel
+20200617 - the fork - die gabel
+20200617 - the cup - die tasse
+20200617 - a glass - ein glas
+20200617 - the plate - ein teller
+20200617 - the bill - die rechnung
+20200617 - i would like the bill - ich möche die rechnung
+20200617 - I would like my bill - ich möchte meine rechnung
+20200617 - my bill is here - meine rechnung ist hier
+20200617 - the bill is for him - die rechnung ist für ihn
+20200617 - a bottle - eine flasche
+20200618 - a bottle of water - eine flasche wasser
+20200618 - I would like a bottle of water - ich möchte eine flasche wasser
+20200618 - I would like seven bottles of water - ich möchte sieben flaschen wasser
+20200618 - two bottles - zwei flaschen
+20200618 - i would like a bottle of water for the table please - ich möchte eine flasche wasser für den tisch bitte
+20200618 - it is for the table - es ist für den tisch
+20200618 - the bottle of water is for me please - die flashe wasser ist für mich bitte
+20200618 - how much does it cost - wie viel kostet es
+20200618 - how much the chicken cost - wie viel kostet das hähnschen
+20200618 - how much abootle cost - wie viel kostet eine flasche
+20200618 - how much the fish cost - wie viel kostet der fisch
+20200618 - how much a bottle of water costs here - wie viel kostet eine flasche wasser hier
+20200618 - how much that costs - wie viel kostet das
+20200618 - execuse me, I want the bill please - entshuldigung, ich möchte die rechnung bitte
+20200618 - the water - das wasser
+20200618 - I would like two bottles of water please - ich möchte zwei flaschen wasser bitte
+20200618 - how much cost a bottle of water - wie viel kostet eine flasche wasser
+20200618 - how much costs a table for 3 people - wie viel kostet ein tisch für drei personen
+20200618 - I would like my bill please - ich möchte meine rechnung bitte
+20200618 - how much costs the chicken here - wie viel kostet das hähnchen hier
+20200618 - can I - kann ich
+20200618 - Ich möchte das probieren - i would to try that
+20200618 - can I try that - kann ich das probieren
+20200618 - I would to try the cheese - ich möchte den käse probieren
+20200618 - may i - darf ich
+20200618 - may i try this - darf isch das probieren
+20200618 - I would like to pay for the cheese - ich möchte den käse bezahlen
+20200618 - can I pay for the coffees - kann ich die kaffees bezahlen
+20200618 - may I pay for the bottles - darf ich die flaschen bezahlen
+20200618 - I wuld like to pay the bill - ich möchte die rechnung bezahlen
+20200618 - I would like to pay for my bill - Ich möchte meine rechnung  bezahen
+20200618 - make reservations - vornehmen
+20200618 - can I make a reservation - kann ich eine reservierung vornehmen
+20200618 - may I make a reservation - darf ich eine reservierung vornehmen
+20200618 - I would like to make a reservation - ich möchte eine reservierung vornehmen
+20200618 - may i make a reservation for 3 people - darf ich eine reservierung für drei personen vornehmen
+20200621 - Can i try the pizza - kann ich die pizza probieren
+20200621 - hire_rent - mieten
+20200621 - how much it costs, to rent that? - wie viel kostet es, das zu miten?
+20200621 - to - zu
+20200621 - I woul like hire that - Ich möchte das mieten
+20200621 - can i hire that? - kann ich das mieten_
+20200621 - can I hire that for two people - kann ich das für zwei personen mieten
+20200621 - I would like to rent a car - I möchte ein auto mieten
+20200621 - can I hire a car - Kann ich ein auto mieten
+20200621 - I would like to hire a car for 5 people - ich möchte ein auto auto für fünf personen mieten
+20200621 - a week - eine woche
+20200621 - Can I hire a car for one week_ - Kann ich ein auto für eine woche mieten
+20200621 - I would like a car for one week - ich möchte ein auto für eine woche
+20200621 - how much costs it for one week - wie viel kostet es für eine woche_
+20200621 - it is for one week - es ist für eine woche
+20200621 - everyone is here for one week - jedermann ist hier für eine woche
+20200621 - two weeks - zwei wochen
+20200621 - Can I hire a car for two weeks - Kann ich ein auto für zwei wochen mieten
+20200621 - How much costs it for two weeks - wie viel kostet es für zwei wochen
+20200621 - I would like to hire that for two weeks - Ich möchte das für zwei wochen mieten
+20200621 - it is for two weeks - es ist für zwei wochen
+20200621 - a day - ein tag
+20200621 - the day_ - der tag_
+20200621 - I would like a car for one day please - Ich möchte ein auto für einen tag bitte
+20200621 - how much does it cost for one day - wie viel kostet es für einen tag
+20200621 - it is for one day - es ist für einen tag
+20200621 - can I hire that for one day - kann Ich das für einen tag mieten
+20200621 - two days - zwei tage
+20200621 - I would like to hire a car for two days - ich möchte ein auto für zwei Tage mieten
+20200621 - it is for two days - es ist für zwei tage
+20200621 - how much costs it for two days - wie viel kostset es für zwei tage
+20200621 - Can I rent that for two days - Kann ich das für zwei Tage mieten
+20200621 - a month - ein monat
+20200621 - it is for one month - es ist für einen monat
+20200621 - how much costs it for one month - wie viel kostet es für einen monat
+20200621 - two month - zwei monate
+20200621 - I would like to hire the car for two months - ich möchte das auto für zwei monate mieten
+20200621 - how much costs it for two months - wie viel kostet es für zwei monate?
+20200621 - I would like to rent a car for two weeks how much it costs - ich möchte ein auto für zwei wochen mieten, wie vie kostet es
