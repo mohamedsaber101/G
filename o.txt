@@ -1967,3 +1967,316 @@
 20200621 - I would like to hire the car for two months - ich möchte das auto für zwei monate mieten
 20200621 - how much costs it for two months - wie viel kostet es für zwei monate?
 20200621 - I would like to rent a car for two weeks how much it costs - ich möchte ein auto für zwei wochen mieten, wie vie kostet es
+20200621 - how much does it cost for eight dazs - wie viel kostet es für acht tage
+20200621 - Can I rent a car for 3 weeks please - Kann Ich ein auto für drei wochen bitte mieten
+20200621 - Can I rent a car for 3 days please - kann ich ein auto für drei tage bitte mieten
+20200621 - how mch costs it for 9 days - wie viel kostet es für neun tage
+20200621 - I would like to rent 2 cars - ich möchte zwei autos mieten
+20200621 - how much costs my bill - wie viel kostet meine rechnung
+20200621 - it is 10 euro - es ist zehn euro
+20200621 - the bill is 50 euro - die rechnung ist fünfzig euro
+20200621 - it is 1.20 euro - es ist ein euro zwanzig
+20200621 - it is 5 euro for 1 day - es ist fünf euro für einen tag
+20200621 - it is 50 cents - es ist fünfzig cents
+20200621 - the bottle f water ist 60 cents - die flasche wasser ist sechzig cents
+20200621 - it is 50 cents for a bottle of water - es ist fünfzig cents für eine flasche wasser
+20200621 - per - pro
+20200621 - per day - pro tag
+20200621 - per week - pro woche
+20200621 - per month - pro monat
+20200621 - per person - pro person
+20200621 - how much costs it per day - wie veil kostet es pro tag
+20200621 - it is 10 euro per week - es ist zehn euro pro woche
+20200621 - it is 20 euro per person - es ist zwanzig euro pro person
+20200621 - how much costs the car per week - wie viel kostet das auto pro woche
+20200621 - it is 3,10 euro - es ist drei euro zehn
+20200621 - it is 3,20 Euro - es ist drei euro zwanzig
+20200621 - it is 81 Euro - es ist einundachtzig euro
+20200621 - it is 20 euro per two days - es ist zwanzig euro pro zwei tage
+20200621 - it is 10 euro per bottle - es ist zehn euro pro flasche
+20200621 - it is 30 euro per month - es ist dreißig euro pro monat
+20200621 - the food here is very good - das essen hier ist sehr gut
+20200621 - also I would like a coffee please - auch möchte ich einen kaffee bitte
+20200621 - the breakfast - das frühstuck
+20200621 - the dinner - das abendessen
+20200621 - the breakfast is not bad but the dinner is delicious - das frühstück ist nicht schlecht aber das abendessen ist lecker
+20200621 - my dinner ist completely delicious - mein mittagessen ist ganz perfekt
+20200621 - the dinner here is terrible - das abendessen hier ist schreklich
+20200621 - my breakfast is here - mein frühstück ist hier
+20200621 - for breakfast, I would like an orange juice - für frühstuck möchte ich einen orangenSaft
+20200621 - for lunch I would like a sandwich - für mittagessen möchte ich ein sandwich
+20200621 - at what clock is the dinner - um wie viel uhr ist das abendessen
+20200621 - the dinner is perfect - das abendessen ist perfekt
+20200621 - the breakfast is here - das frühstück ist hier
+20200621 - at what time - um vie viel Uhr
+20200621 - at 3 clock - um drei Uhr
+20200621 - it is at 5 Oclock - es ist um fünf Uhr
+20200621 - the dinner is at 20 Oclock - das abendessen ist Um zwanzig Uhr
+20200622 - it is at 4,30 - es ist um halb fünf
+20200622 - it is at 19,30 - es ist um halb zwanzig
+20200622 - the lunch is at 14,30 - das mittagessen ist halb fünfzig
+20200622 - the reservation is at 15,30 - die reservierung ist um halb vier
+20200622 - it is at 14,30 - es ist um halb fünfzehn
+20200622 - the lunch is at 14,15 - das mittagessen ist um viertel nach vierzehn
+20200622 - es ist at 4,15 - es ist um viertel nach vier
+20200622 - i would like to make a reservation at 7,15 - ich möchte eine reservierung um viertel nach sieben vornehmen
+20200622 - it is 17,15 - es ist viertel nach siebzehn
+20200622 - my reservation is at 18,15 - meine reserverung ist um viertel nach achtzehn
+20200622 - the breakfast is at 8,15 - das frühstrück ist um viertel nach acht
+20200622 - my reservation is at 7,45 - meine reservirung ist um viertel vor acht
+20200622 - the lunch is at 1,45 - das mittagessen ist um viertel vor vierzehn
+20200622 - it is at 6,45 - es ist aviertel vor sieben
+20200622 - the dinner is at 6,46 - das abendessen ist um viertel vor neunzehn
+20200622 - what time is it - wie spät ist es
+20200622 - execuse me, what time is it - entschuldigung, wie spät ist es
+20200629 - I would like a tea for me and a coffee for her please - ich möchte einen tee für mich und einen kaffee für sie bitte
+20200629 - Can I rent a car for a week please - kann ich ein auto für eine woche bitte mieten
+20200629 - it is not good - es ist nich gut
+20200629 - the breakfast is verz good here - das frühstüch ist sehr fantastisch hier
+20200629 - I would like a bottle of wine, how much does it cost - ich möchte eine flasche wein, wie viel kostet es_
+20200629 - I would like a taxi at 3 oclock - ich möchte ein taxi um drei Uhr
+20200629 - I would like a taxi for two people - ich möchte ei taxi für zwei personen
+20200629 - the address - die adresse
+20200629 - the address is schulstraße 8 - die adresse ist schulstraße acht
+20200629 - the address of the restaurant - die adresse des restaurants
+20200629 - the end of the week - das ende der woche
+20200629 - what is the address of the restaurant - was ist die adresse des restaurants
+20200629 - what is maria s address - was ist marias adresse
+20200629 - paul,s chicken is delicious - pauls hähnchen ist lecker
+20200629 - the address of the hotel - die adresse des hotels
+20200629 - i would like a taxi at 12,45 - ich möchte ein taxi um viertel vor eins
+20200629 - what is the hotel address - was ist die adresse des hotels
+20200629 - I would like a taxi for  people at 5 and the address ist kirchstraße 8 - Ich möchte ein taxi für acht personen um fünf Uhr und die adresse ist acht kirchstraße 
+20200629 - can I go - kann ich fahren
+20200629 - I would to go please - ich möchte bitte fahren
+20200629 - at what time can I go - um wie viel Uhr kann Ich fahren
+20200629 - go to the sea - fahren ans meer
+20200629 - Can I go to the beach - kann ich ans meer fahren
+20200629 - I would like to go to the sea at 10 clock - Ich möchte um zehn uhr ans meer fahren
+20200629 - the sea here is beautiful - das meer hier ist schön
+20200629 - I would like to go to the hotel - ich möchte zu das hotel fahren
+20200629 - I would like to go to the restaurant - ich möchte zu das restaurant gehen
+20200629 - Can I go to the hotel - kann ich zu hotel fahren
+20200629 - Can I go to the restaurant tomorrow - kann ich morgen zu das restaurant fahren
+20200629 - I would like to go tomorro - Ich möchte morgen fahren
+20200629 - at what clock is the reservation tomorrow - wie viel uhr ist die reservierung morgen
+20200629 - The reservation is for tomorrow - die reservierung ist für morgen
+20200629 - can I go today evening - kann ich heute abend fahren
+20200629 - I would like to go to the restaurant today evening - ich möchte heute abend zu das restaurant gehen
+20200630 - I would like to go to the restaurant this evening - ich möchte heute abend zu das restaurant fahren
+20200630 - at the house of - bei
+20200630 - at maria,s house - bei maria
+20200630 - at the house of mine - bei mir
+20200630 - I would like to go home - ich möchte bei mir fahren
+20200630 - at what clock can I go to maria,s house - um wie viel uhr kann ich bei maria fahren
+20200630 - I would like to go to pauls house - ich möchte bei peter fahren
+20200630 - I would like to go at 4,30 - ich möchte um half fünf fahren
+20200630 - I would like to go at 3,45 - ich möchte um viertel vor vier fahren
+20200630 - I would like a taxi for 3 people at 4 clock and I would like to go to the sea - ich möchte ein taxi für drei personen um vier Uhr und ich möchte ans meer fahren
+20200630 - I would like to go maria,s house tongiht - ich möchte heute abend bei maria fahren
+20200630 - at what time can I go to the bank - um wie viel Uhr Kann ich zu die bank fahren
+20200630 - the bank - die bank
+20200630 - the room - das zimmer
+20200630 - I would like a room for one night - Ich möchte ein zimmer für heute abend
+20200630 - how much costs a room for one night - wie viel kostet ein zimmer für eine nacht
+20200630 - the room is here - das zimmer ist hier
+20200630 - with - mit
+20200630 - can I go with peter - kann ich mit peter fahren
+20200630 - peter is with me - peter ist mit mir
+20200630 - peter and maria are with john and me - peter und maria sind mit John und mir
+20200630 - a balcony - ein balkon
+20200630 - with a balkon - mit balkon
+20200630 - I would like a rom with a balcony - Ich möchte ein zimmer mit balkon
+20200630 - how much costs a room with a balcony - wie viel koset ein zimmer mit balkon
+20200630 - the balcony is very beautiful - der balkon ist sehr schön
+20200630 - I would like a room with a television - ich möchte ein zimmer mit fernsehn
+20200630 - also I would like a television - auch, möchte ich ein fernsehen
+20200630 - my TV is terrible - mein fernsehen ist schrecklich
+20200630 - doesnät work - funkioniert nicht
+20200630 - the TV doesnt wotŕk - das fernsehn funktioniert nicht
+20200630 - that doesnät work - das dunktioniert nicht
+20200630 - execuse me, that does not work - entshuldigung, das funktioniert nicht
+20200630 - it doesnät work - es funktioniert nicht
+20200630 - a card - eine karte
+20200630 - my car doesnt work - mein auto funktioniert nicht
+20200630 - My card doesnät work - meine karte funktioniert nicht
+20200630 - by card - mit karte
+20200630 - Can I pay by card - kann ich mit karte bezahlen
+20200630 - I would like to pay by card - Ich möchte mit karte bezahlen
+20200630 - I would like to pay for the food by card - Ich möche das essen mit karte bezahlen
+20200630 - May i pay by card please - darf ich mit karte bitte bezahlen
+20200630 - a bathtub - eine Bad
+20200630 - I would like a room with bathtub please - Ich möchte ein zimmer mit Bad, Bitte
+20200630 - I would like a balcony please - I möchte einen balkon
+20200630 - the air conditioning - die klimaanlage
+20200630 - execuse me the air conditioning doesnt work - entshuldigung die klimaanlage funktioniert nicht
+20200630 - how much it costs for two weeks - wie viel kostet es für zwei wochen
+20200630 - I would like a balcony - ich möchte einen balkon
+20200630 - I would like a room with a bacony for two people - ich möchte ein zimmer mit balkon für zwei personen
+20200630 - the oven doesnät work - der Ofen funktioniert nicht
+20200630 - the ley doesnt work - der Schlüssel funktioniert nicht
+20200630 - welcome - wilkommen
+20200630 - I would like to have a tea - Ich möchte einen tee haben
+20200630 - Can I habe this chicken - Kann Ich das Hähnchen Haben
+20200630 - Can I have the pizza - Kann ich die pizza haben
+20200630 - Can I have a room for tonight - Kann ich ein zimmer für heute abend haben
+20200630 - Can I have a room with a balcony - Kann Ich ein zimmer mit balcony haben
+20200630 - I would like some cheese - Ich möchte etwas Käse
+20200630 - May I try some water - darf ich etwas wasser probieren
+20200630 - May I have some coffee - darf ich etwas kaffee haben
+20200630 - I would like some pizza - ich möchte etwas pizza
+20200630 - Can I have some carrots - Kann Ich etwas karrotten haben
+20200630 - Can I have a room for one night - kann ich ein zimmer für eine nacht haben
+20200630 - two nights - zwei nächte
+20200630 - can I have a room for two nigt - Kann ich ein zimmer für zwei nächte haben
+20200630 - I would like a room for two people for two nghts please - Ich möchte ein zimmer für zwei personen für zwei nächte  bitte
+20200630 - without - ohne
+20200630 - Can I have a pizza but without cheese - Kann Ich eine pizza  aber ohne käse haben
+20200630 - May i have two coffess without sugar - darf ich zwei kaffees ohne zucker haben
+20200630 - Maria is here without paul - maria ist hier ohne paul
+20200630 - do you have a table for two people - haben sie einen tisch für zwei personen
+20200630 - Do you have a room with TV - haben sie ein zimmer mit fersehen
+20200630 - the map - der stadtplan
+20200630 - I would like a map - Ich möchte einen stadtplan
+20200630 - of - von
+20200630 - a map of - ein stadtplan von
+20200630 - I would like a map of berlin - Ich möchte eienen stadtplan von berlin
+20200630 - the city - die stadt
+20200630 - the city here is very beautiful - die stadt hier ist sehr schön
+20200630 - I would like to go to the city - Ich möchte in die stadt fahren
+20200630 - the state-region - das bundesland
+20200630 - the regin here is very beautiful - das bundesland hier ist sehr schön
+20200630 - the states - die bundesländer
+20200630 - the state of berlin - das bundesland berlin
+20200630 - I would like to go to berlin - ich möchte nach berlin fahren
+20200630 - I would like to go to Hamburg - ich möchte nach Hamburg fahren
+20200630 - Can I go to Germany - Kann Ich nach DeutschLand Fahren
+20200630 - at what clock can I go to berlin - um wie viel Uhr Kann Ich nach berlin fahren
+20200630 - Do you have the map of bremen - haben sie das stadtplan von bremen
+20200701 - bread - brot
+20200701 - do you have any bread - haben sie etwas Brot
+20200701 - do you have a map - haben sie einen stadtplan
+20200701 - I would like a room for on night please - Ich möchte ein zimmer für eine nacht bitte
+20200701 - I would like two teas and a coffee - Ich möchte zwei Tees und einen Kaffee
+20200701 - I would like a chicken but without Union Please - ich möchte ein hähnchen aber ohne zwiebeln bitte
+20200701 - Can I have some milk - Kann Ich etwas miclh haben
+20200701 - The state of Berlin is very beautiful - das bundesland berlin ist sehr schön
+20200704 - the car is twenty euros per day - das auto ist zwanzig euro pro tag
+20200704 - where can I pay - wo kann ich bezahlen
+20200704 - where can I make a reservation - wo kann ich eine resevierung vornehemen
+20200704 - where is the restauran - wo ist das restaurant
+20200704 - where is maria - wo ist maria
+20200704 - where is everybody - wo ist jedermann
+20200704 - where are - wo sind
+20200704 - whre are the carrots - wo sind die karroten
+20200704 - where are the cars - wo sind die autos
+20200704 - where are the tables - wo sind die tische
+20200704 - how do I get - wie komme ich
+20200704 - How do i get to berlin - wie komme ich nach berlin
+20200704 - how do i get to the park - wie komme ich zum park
+20200704 - at what time Can I go to the supermarket - um wie viel Uhr Kann Ich in den supermarket gehen
+20200704 - how do I get to the pharmacy - wie komme ich zur Apotheke
+20200704 - te shop - das geschäft
+20200704 - how do i get to the shop - wie komme ich zum geschäft
+20200704 - how do i get to the restaurant - wie komme ich zum restaurnat
+20200704 - How do I get to Hamburg - wie komme ich nach hamburg
+20200704 - execuse me , how do I get to the hotel - entshuldigung, wie komme ich zum Hotel
+20200704 - how can I go th the supermarket - wie komme ich zum supermarkt
+20200704 - there - dort
+20200704 - it is there - es ist dort
+20200704 - maria and paul are not there - maria und paul sind nicht dort
+20200704 - the restaurant is not there - das restaurant ist nicht dort
+20200704 - Go to Berlin - fahren sie nach berlin
+20200704 - Go to Germany - fahren sie nach Deutschland
+20200704 - Go to the restaurant - Fahren sie zum restaurant
+20200704 - Go to the hotel - Fahren Sie zum Hotel
+20200704 - straight On - geradeaus
+20200704 - Drive straight On - Fahren Sie Geradeaus
+20200704 - where is the supermarket - wo ist der supermarkt
+20200704 - it is not very good there - es ist nicht sehr gut dort
+20200704 - How do I get to the post - wie komme ich zur Post
+20200704 - the swimming pool is there - das schwimmbad ist dort
+20200704 - how do i get to the cinema - wie komme ich zum Kino
+20200704 - where is the train station - wo ist der bahnhof
+20200704 - the hotel is not here it is dort - das Hotel ist nicht hier, es ist dort
+20200704 - HOw do I get to the University - wie komme ich zur Universität
+20200704 - I would like to go the backery - Ich möchte zur Backerei gehen
+20200704 - where is the park - wo ist der park
+20200704 - the food is not very good there - das essen ist nicht sehr gut Dort
+20200704 - where is the castle - Wo ist das Schloss
+20200704 - I would like to go to the bank - ich möchte zur bank gehen
+20200704 - where is the key for my room - wo ist der schlüssel für mein zimmer
+20200704 - go to the beach, it is very beautiful there - Gehen Sie zum strand, esist seht schön dort
+20200704 - go straight and then it is there - gehen sie geradeaus und dann ist es dort
+20200704 - I would like to go to the hotel then to the supermarket - ich möchte zum HOtel dann zum Supermarkt gehen
+20200704 - take the water to the table forn me please - Nehmen  sie das wasser zum tisch für mich bitte
+20200704 - take a taxi to the train station - nehmen sie ein taxi zum Bahnhof
+20200704 - the second street - die zweite straße
+20200704 - the first street - die erste straße
+20200704 - take the first street - nehmen sie die erste straße
+20200704 - take the third straße - nehmen sie die dritte straße
+20200704 - Go straight on then take the first street - Gehen Sie geradeaus dann nehmen sie die erste straße
+20200705 - take the thired street and then go straight on - nehmen sie die dritte straße und dann fahren sie geradeaus
+20200705 - on the left - auf der linken seite
+20200705 - it is on the left - es ist auf der linken seite
+20200705 - go straight and then it is on the left - gehen sie geradeaus und dann ist es auf der linken seite
+20200705 - the restaurant is on the left - das restaurant ist auf der linken seite
+20200705 - on the right - auf der rechten seite
+20200705 - it is on the right - es ist auf der rechten seite
+20200705 - it is not on the right but it is on the left - es ist nicht auf der rechten seite, aber es ist auf der linken seite
+20200705 - the hotel is on the right - das hotel ist auf der rechten seite
+20200705 - left - links
+20200705 - the first street on the left - die erste straße links
+20200705 - the second street on the right - die zweite straße rechts
+20200705 - take the third street on the right - nehmen sie die dritte straße rechts
+20200705 - take the first street on left then take the second street roght - nehmen sie die erste straße links und dann nehmen sie die zweite straße rechts
+20200705 - turn left - biegen sie links ab
+20200705 - turn right - biegen sie rechts ab
+20200705 - go straight and the turn left - fahren sie geradeaus und dann biegen sie links ab
+20200705 - turn right and then go straight on - biegen sie rechts ab und dann fahren sie geradeaus
+20200705 - take the third street on the left and then the second street right - nehmen sie die dritte straße links und dann die zweite straße rechts
+20200705 - take the second street left - nehmen sie die zweite straße links
+20200705 - take the second street on the right and then go straight on - nehmen sie die zweite straße rechts und dann fahren sie geradeaus
+20200705 - go straight on and then take the first street to the right - fahren sie geradeaus und dann nehmen sie die erste straße rechts
+20200705 - take the third street right and then turn left - nehmen sie die dritte straße rechts und dann biegen sie links ab
+20200705 - turn right and then turn left - biegen sie rechts ab und dann biegen sie links ab
+20200705 - turn left and then take the second street on right - biegen sie links ab und dann nehmen sie die zweite straße rechts
+20200708 - turn left and then the supermarket is on the right - biegen sie links ab und dann ist der supermarkt auf der rechten  seite
+20200709 - turn left and the hotel is on the right side - biegen sie links ab und das hotel ist auf der rechten seite
+20200709 - at which time is the breakfast tomorrow - um wie viel uhr ist das frühstück morgen
+20200709 - can I paz the bill here - kann ich die rechnung hier bezahlen
+20200709 - the exit - die ausfahrt
+20200709 - the first exit - die erste ausfahrt
+20200709 - the third exit - die dritte ausfahrt
+20200709 - turn left towards berlin - gieben sie links nach berlin ab
+20200709 - turn left after the first street - biegen sie links nach der ersten straße ab
+20200709 - I would like to go to the super market after the lunch - ich möchte nach dem mittagessen zum supermarkt gehen
+20200709 - Can I go after six oclock - kann ich nach sechs Uhr gehen
+20200709 - turn left before the hotel - biegen sie links vor dem Hotel ab
+20200709 - turn right before the restaurant - biegen sie rechts vor dem restaurant ab
+20200709 - I would like to go before 2 oclock - ich möchte vor zwei Uhr gehen
+20200709 - the traffic - die Ampel
+20200709 - at the traffic lights - an der Ampel
+20200710 - at the trafic lights, turn left - an der ampel, biegen sie links ab
+20200710 - turn right before the traffic lights - biegen sie rechts vor der ampel ab
+20200710 - turn towards berlin after the traffic lights - biegen sie nach berlin nach der Ampel ab
+20200710 - turn left at the traffic lights - biegen sie links an der Ampel
+20200710 - the shop is on the right - das geschäft ist auf der rechten seite
+20200710 - after the restaurant, go striaght on and then take the first street on the left - nach dem restaurant,fahren sie geradeaus und dann nehmen sie die erste straße links
+20200710 - go straight and then take the second exit at the traffic lights - fahren sie geradeaus und dann nehmen sie die zweite ausfahrt an der Ampel
+20200710 - before the food, can I have a bottle of water - vor dem essen, Kann ich eine flasche wasser haben
+20200710 - too much - zu viel
+20200710 - it is too much for me - es ist zu viel für mich
+20200710 - fr me it is too much - für mich ist es zu viel
+20200710 - it is too big - es ist zu groß
+20200710 - it is too small for me - es ist zu klein für mich
+20200710 - bigger - größer
+20200710 - smaller - kleiner
+20200710 - more delicious - leckerer
+20200710 - everything here is bigger - alles hier ist größer
+20200710 - more beautiful - schöner
+20200710 - more extra ordinary - aussergewönlicher
+20200710 - the food is more delecious there - das essen ist leckerer dort
+20200710 - more - mehr
+20200710 - a bit - ein bisschen
+20200710 - I would like a bit more - ich möchte ein bisschen mehr
