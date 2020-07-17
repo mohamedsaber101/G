@@ -2280,3 +2280,73 @@
 20200710 - more - mehr
 20200710 - a bit - ein bisschen
 20200710 - I would like a bit more - ich möchte ein bisschen mehr
+20200710 - the big restaurant - das große restaurant
+20200710 - the small hotel - das kleine Hotel
+20200710 - the nice hotel - das schöne hotel
+20200710 - the small ca - das kleine auto
+20200710 - the delicious chicken - das leckere hähnchen
+20200710 - the big city - die große stadt
+20200710 - the small pizza is for me - die kleine pizza ist für mich
+20200710 - the big supermarket - der große supermarkt
+20200710 - a big supermarket - ein großer supermarkt
+20200710 - a beautiful city - eine schöne stadt
+20200710 - a beautiful restaurant - ein schönes restaurant
+20200710 - I would like a small car - ich möchte ein kleines auto
+20200710 - a delicious chcken - ein leckeres Hähnchen
+20200710 - it is a very big city - es ist eine sehr große stadt
+20200710 - it is a fantastic HOtel - es ist ein fantastiches Hotel
+20200710 - I would like a small pizza please - ich möchte eine kleine pizza bitte
+20200710 - less - weniger
+20200710 - mehr wasser - more water
+20200710 - too many - zu viele
+20200710 - i would like a bit more cheese# - ich möchte ein bisschen mehr käse
+20200710 - I would like less cheese - ich möchte weniger käse
+20200710 - Can I have a bit more cheese - Kann ich ein bisschen mehr käse haben
+20200710 - a bit less for him lease - ein bisschen weniger für ihn bitte
+20200710 - I would like a big pizza please - ich möchte eine größe pizza bitte
+20200710 - that is a very big table - das ist ein sehr großer tisch
+20200710 - I would like a bit more please - ich möchte ein bisschen mehr bitte
+20200710 - the WIFI password is not working - das WLAN-kennwort funktioniert nicht
+20200711 - in red - in rot
+20200711 - do zou have this in red - haben sie das in rot
+20200711 - I would like thiat in red - ich möchte das in rot
+20200711 - i would like the car in red - ich möchte das auto in rot
+20200711 - brown - braun
+20200711 - pink - rosa
+20200711 - blue - blau
+20200711 - green - grün
+20200711 - orange - orange
+20200711 - black - shwarz
+20200711 - yellow - gelb
+20200711 - white - weiss
+20200711 - lightblue - hellblau
+20200711 - dark blue - dunkelblau
+20200711 - the microwave doesnt work - die mikrowelle funktioniert nicht
+20200711 - the coat - der mantel
+20200711 - I would like this coat - ich möchte diesen mantel
+20200711 - where is my coat - wo ist mein mantel
+20200711 - do you have this coat in red - haben sie diesen mantel in rot
+20200711 - a bag ÄsupermarketÄ - eine tüte
+20200711 - do you have a bag - haben sie eine tüte
+20200715 - do you have two plastic bags - haben sie ywei plastiktüten
+20200715 - a basket - ein einkaufskorb
+20200715 - i would like a basket - ich möchte einen korb
+20200715 - do you have two baskets - haben sie zwei körbe
+20200715 - where are the baskets - wo sind die körbe
+20200715 - a shoppin cart - ein einkaufswagen
+20200715 - I would like a shopping cart - ich möchte einen einkaufswagen
+20200715 - execuse me where are the trollyes - entshuldigung , wo sind die einkaufswagen
+20200716 - can I have a shopping cart? - kann ich einen einkaufswagen haben
+20200716 - where are the shoppingkarte - wo sind die einkaufswagen
+20200716 - a red car - ein rotes auto
+20200716 - the white cat - die weisse katze
+20200716 - can I have a bigger table - kann ich einen größeren tisch haben
+20200716 - I would like the red coat - ich möchte den roten mantel
+20200716 - do you have a green car - haben sie ein grünes auto
+20200716 - I would like a bottle of wine - Ich möchte eine flasche rotwein
+20200716 - do you have this coat in blue - haben sie diesen mantel in blau
+20200716 - may I have that in blue - darf ich das in blau haben
+20200716 - i would like the brown shifrt for him and the yellow shirt for her - ich möchte das braune hemd für ihn und das gelbe hemd für sie
+20200716 - do you have this shirt in orange - haben sie dieses hemd in orange
+20200717 - I like everyone here - ich mag jedermann hier
+20200717 - I like the red car - ich mag das rote auto
