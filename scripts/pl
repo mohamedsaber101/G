@@ -1,4 +1,0 @@
-file=$1
-time=$2
-
-play $file trim $time 1>/tmp/p 2>&1

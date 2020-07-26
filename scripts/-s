@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-Server: Router
-Connection: close
-Content-Type: text/html
-WWW-Authenticate: Basic realm="TP-LINK Wireless AP WA501G"
-

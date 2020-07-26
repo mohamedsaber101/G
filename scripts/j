@@ -1,9 +1,0 @@
-MSG=$*
-
-
-cd /m/saberenv/first_project/
-git add .
-git commit -a -m "$MSG"
-
-#git log --oneline
-#git checkout $ID
